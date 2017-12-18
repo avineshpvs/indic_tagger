@@ -1,4 +1,4 @@
-def chunk_features(sent, i):
+def crf_chunk_features(sent, i):
     word = sent[i][0]
     postag = sent[i][1]
     features = [
@@ -10,8 +10,15 @@ def chunk_features(sent, i):
         'word.isdigit=%s' % word.isdigit(),         #is a digit?
         'postag=' + postag,                         #current POS tag
         'postag[:2]=' + postag[:2],                 #first two characters of POS tag
-        'wordlen<3=%s' % len(word)<3,               #if length of word<3
     ]
+    if len(word) > 3:
+        features.extend([
+            'word.short=False'
+        ])
+    if len(word) <= 3:
+        features.extend([
+            'word.short=True'
+        ])
     if i > 0:
         word1 = sent[i-1][0]
         postag1 = sent[i-1][1]

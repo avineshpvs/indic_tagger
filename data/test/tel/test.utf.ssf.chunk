@@ -1,0 +1,3335 @@
+<Title = "Adapilla-kaWa">
+<Sentence @id = "1">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+1.2	ఆడపిల్లను	NN
+1.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "2">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+))
+2	((	NP
+2.1	అందరిలాంటి	PRP
+2.2	ఆడపిల్లనే	NN
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "3">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	కధ	NN
+))
+2	((	NP
+2.1	అందరి	PRP
+2.2	ఆడపిల్లల	NN
+2.3	కధే	NN
+2.4	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "4">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	కధ	NN
+))
+2	((	VGF
+2.1	చెబుతాను	VM
+))
+3	((	VGF
+3.1	వినండి	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "5">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	అమ్మ	NN
+))
+2	((	NP
+2.1	నన్ను	PRP
+))
+3	((	NP
+3.1	భయం	NN
+))
+4	((	RBP
+4.1	భయంగా	RB
+))
+5	((	VGF
+5.1	కనింది	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "6">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+))
+2	((	VGNF
+2.1	పుట్టగూడదని	VM
+))
+3	((	NP
+3.1	వెయ్యి	QC
+3.2	దేవుళ్లకు	NN
+))
+4	((	VGF
+4.1	మొక్కుకొనింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "7">
+0	((	SSF
+1	((	NP
+1.1	కడుపుతో	NN
+))
+2	((	VGNF
+2.1	ఉన్నంతకాలం	VM
+))
+3	((	NP
+3.1	నరకం	NN
+))
+4	((	VGF
+4.1	అనుభవించింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "8">
+0	((	SSF
+1	((	CCP
+1.1	అయినా	CC
+))
+2	((	NP
+2.1	నేను	PRP
+))
+3	((	VGF
+3.1	పుట్టాను	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "9">
+0	((	SSF
+1	((	VGNF
+1.1	పుట్టగానే	VM
+))
+2	((	NP
+2.1	మా	PRP
+2.2	అమ్మ	NN
+))
+3	((	NP
+3.1	నన్ను	PRP
+))
+4	((	VGNF
+4.1	తడిమి	VM
+))
+5	((	VGF
+5.1	చూచుకొనింది	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "10">
+0	((	SSF
+1	((	NP
+1.1	భయంతో	NN
+))
+2	((	VGF
+2.1	వణికిపోయింది	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "11">
+0	((	SSF
+1	((	NP
+1.1	లోలోపలే	NST
+))
+2	((	NP
+2.1	కన్నీళ్లు	NN
+))
+3	((	VGF
+3.1	మింగేసింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "12">
+0	((	SSF
+1	((	NP
+1.1	నన్ను	PRP
+))
+2	((	NP
+2.1	గుండెలకు	NN
+))
+3	((	VGF
+3.1	అదుముకొనింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "13">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+))
+2	((	VGNF
+2.1	పుట్టానని	VM
+))
+3	((	NP
+3.1	మా	PRP
+3.2	నాయనకు	NN
+))
+4	((	VGF
+4.1	తెలిసింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "14">
+0	((	SSF
+1	((	CCP
+1.1	అయినా	CC
+))
+2	((	NP
+2.1	నన్ను	PRP
+))
+3	((	VGNN
+3.1	చూడడానికి	VM
+))
+4	((	VGF
+4.1	రాలేదు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "15">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	నాయన	NN
+))
+2	((	VGNF
+2.1	వస్తాడేమోనని	VM
+))
+3	((	NP
+3.1	మా	PRP
+3.2	అమ్మ	NN
+))
+4	((	VGF
+4.1	జడుసుకొనేది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "16">
+0	((	SSF
+1	((	VGF
+1.1	ఎందుకో	WQ
+1.2	తెలుసా	VM
+1.3	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "17">
+0	((	SSF
+1	((	NP
+1.1	నాయన	NN
+1.2	కోరిక	NN
+1.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "18">
+0	((	SSF
+1	((	NP
+1.1	మూడోసారి	QO
+1.2	కూడా	PSP
+))
+2	((	NP
+2.1	ఆడపిల్లేనా	NN
+))
+3	((	BLK
+3.1	అని	UT
+))
+4	((	NP
+4.1	ఆయన	PRP
+4.2	కోపం	NN
+4.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "19">
+0	((	SSF
+1	((	NP
+1.1	ఆ	DEM
+1.2	కోపంతో	NN
+))
+2	((	NP
+2.1	మా	PRP
+2.2	అమ్మ	NN
+2.3	మీద	NST
+))
+3	((	VGF
+3.1	మండిపడేవాడు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "20">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	మీద	NST
+))
+2	((	VGF
+2.1	మండిపడేవాడు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "21">
+0	((	SSF
+1	((	BLK
+1.1	పాపం	INJ
+))
+2	((	NP
+2.1	ఇందులో	PRP
+))
+3	((	NP
+3.1	మా	PRP
+3.2	అమ్మ	NN
+))
+4	((	NP
+4.1	తప్పు	NN
+4.2	ఏముంది	WQ
+4.3	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "22">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	తప్పు	NN
+1.3	ఏముంది	WQ
+1.4	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "23">
+0	((	SSF
+1	((	NP
+1.1	నాకు	PRP
+))
+2	((	VGF
+2.1	మూడేళ్ళు	NN
+2.2	వచ్చాయి	VM
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "24">
+0	((	SSF
+1	((	RBP
+1.1	మళ్ళీ	RB
+))
+2	((	NP
+2.1	మా	PRP
+2.2	అమ్మ	NN
+))
+3	((	NP
+3.1	పురుడు	NN
+))
+4	((	VGF
+4.1	పోసుకొనింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "25">
+0	((	SSF
+1	((	NP
+1.1	ఈసారి	NN
+))
+2	((	NP
+2.1	నాకు	PRP
+))
+3	((	NP
+3.1	తమ్ముడు	NN
+))
+4	((	VGF
+4.1	పుట్టాడు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "26">
+0	((	SSF
+1	((	NP
+1.1	కొడుకు	NN
+))
+2	((	VGNF
+2.1	పుట్టాడని	VM
+))
+3	((	NP
+3.1	మా	PRP
+3.2	నాయన	NN
+))
+4	((	VGF
+4.1	సంబరపడిపోయాడు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "27">
+0	((	SSF
+1	((	CCP
+1.1	ఐతే	CC
+))
+2	((	NP
+2.1	ఈ	DEM
+2.2	కాన్పుతో	NN
+))
+3	((	NP
+3.1	మా	PRP
+3.2	అమ్మ	NN
+))
+4	((	VGNF
+4.1	చచ్చి	VM
+))
+5	((	VGF
+5.1	బతికింది	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "28">
+0	((	SSF
+1	((	NP
+1.1	ఆపరేషను	NN
+))
+2	((	VGNF
+2.1	చేసి	VM
+))
+3	((	NP
+3.1	బిడ్డను	NN
+))
+4	((	VGF
+4.1	తీశారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "29">
+0	((	SSF
+1	((	NP
+1.1	అప్పటినుంచి	NST
+))
+2	((	NP
+2.1	మా	PRP
+2.2	అమ్మ	NN
+))
+3	((	VGNF
+3.1	చిక్కి	VM
+))
+4	((	VGF
+4.1	సగమైంది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "30">
+0	((	SSF
+1	((	RBP
+1.1	రోగాల	NN
+1.2	పుట్టగా	RB
+))
+2	((	VGF
+2.1	మారింది	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "31">
+0	((	SSF
+1	((	NP
+1.1	అయితేనేం	WQ
+1.2	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "32">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	నాయన	NN
+))
+2	((	VGF
+2.1	సంబరపడి	VM
+2.2	పోతున్నాడు	VAUX
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "33">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	అమ్మ	NN
+))
+2	((	NP
+2.1	అదే	PRP
+))
+3	((	NP
+3.1	పదివేలు	QC
+))
+4	((	VGF
+4.1	అనుకొనింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "34">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	తమ్ముడు	NN
+))
+2	((	VGNF
+2.1	పెరిగే	VM
+2.2	కొలది	QF
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "35">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	అవసరం	NN
+))
+2	((	VGF
+2.1	పెరిగింది	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "36">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+1.2	వాడిని	PRP
+))
+2	((	VGF
+2.1	ఎత్తుకోవాలి	VM
+2.2	,	SYM
+))
+3	((	VGF
+3.1	ఆడించాలి	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "37">
+0	((	SSF
+1	((	NP
+1.1	వాడి	PRP
+1.2	ఉయ్యాల	NN
+))
+2	((	VGF
+2.1	ఊపాలి	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "38">
+0	((	SSF
+1	((	NP
+1.1	వాడు	PRP
+))
+2	((	NP
+2.1	పొయ్యి	NN
+2.2	దగ్గరికి	NST
+))
+3	((	VGF
+3.1	పోకుండా	VM
+3.2	చూడాలి	VAUX
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "39">
+0	((	SSF
+1	((	NP
+1.1	ఒకసారి	NN
+))
+2	((	NP
+2.1	వాడు	PRP
+))
+3	((	NP
+3.1	ఉయ్యాల	NN
+3.2	నుంచి	PSP
+))
+4	((	NP
+4.1	బయటికి	NST
+))
+5	((	NP
+5.1	తల	NN
+))
+6	((	VGF
+6.1	వేలాడేశాడు	VM
+6.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "40">
+0	((	SSF
+1	((	VGNF
+1.1	జారి	VM
+1.2	జారి	RDP
+))
+2	((	VGF
+2.1	కింద	NST
+2.2	పడ్డాడు	VM
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "41">
+0	((	SSF
+1	((	VGNF
+1.1	గుక్కతిప్పుకోకుండా	VM
+))
+2	((	VGF
+2.1	ఏడవసాగాడు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "42">
+0	((	SSF
+1	((	NP
+1.1	వాడిని	PRP
+))
+2	((	VGNN
+2.1	పట్టుకోవడం	VM
+))
+3	((	NP
+3.1	నా	PRP
+3.2	చేత	PSP
+))
+4	((	VGF
+4.1	కాలేదు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "43">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	అమ్మకు	NN
+))
+2	((	VGNF
+2.1	ఎక్కడలేని	VM
+))
+3	((	NP
+3.1	కోపం	NN
+))
+4	((	VGF
+4.1	వచ్చింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "44">
+0	((	SSF
+1	((	NP
+1.1	నన్ను	PRP
+))
+2	((	VGF
+2.1	చావగొట్టింది	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "45">
+0	((	SSF
+1	((	NP
+1.1	అప్పటికి	NST
+1.2	నాకు	PRP
+))
+2	((	NP
+2.1	ఆరేళ్ళు	NN
+2.2	కూడా	PSP
+))
+3	((	VGF
+3.1	నిండలేదు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "46">
+0	((	SSF
+1	((	NP
+1.1	అది	PRP
+))
+2	((	NP
+2.1	నాకు	PRP
+))
+3	((	NP
+3.1	బాగా	INTF
+3.2	గుర్తు	NN
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "47">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	ఈడు	NN
+))
+2	((	NP
+2.1	ఆడపిల్లలు	NN
+))
+3	((	NP
+3.1	కొందరు	PRP
+))
+4	((	NP
+4.1	బడికి	NN
+))
+5	((	VGF
+5.1	పొయ్యేవాళ్లు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "48">
+0	((	SSF
+1	((	NP
+1.1	నేనూ	PRP
+))
+2	((	NP
+2.1	బడికి	NN
+))
+3	((	VGNF
+3.1	పోతానని	VM
+))
+4	((	VGF
+4.1	ఏడ్చాను	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "49">
+0	((	SSF
+1	((	NP
+1.1	ఆడపిల్లకు	NN
+))
+2	((	NP
+2.1	చదువు	NN
+2.2	దేనికి	PRP
+2.3	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "50">
+0	((	SSF
+1	((	VGNF
+1.1	చదివి	VM
+))
+2	((	NP
+2.1	రాజ్యాలు	NN
+))
+3	((	VGNF
+3.1	ఏలాలా	VM
+3.2	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "51">
+0	((	SSF
+1	((	BLK
+1.1	అని	UT
+))
+2	((	NP
+2.1	మా	PRP
+2.2	నాయన	NN
+))
+3	((	VGF
+3.1	కసురుకొన్నాడు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "52">
+0	((	SSF
+1	((	RBP
+1.1	పైగా	RB
+))
+2	((	NP
+2.1	మా	PRP
+2.2	ఇంటిలో	NN
+))
+3	((	NP
+3.1	అందరూ	PRP
+))
+4	((	NP
+4.1	పొలం	NN
+))
+5	((	VGF
+5.1	పోవాలి	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "53">
+0	((	SSF
+1	((	NP
+1.1	పని	NN
+))
+2	((	VGF
+2.1	చేయాలి	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "54">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	పొలంలో	NN
+))
+2	((	NP
+2.1	పని	NN
+))
+3	((	VGNF
+3.1	లేనపుడు	VM
+))
+4	((	NP
+4.1	కూలికి	NN
+))
+5	((	VGF
+5.1	పోవాలి	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "55">
+0	((	SSF
+1	((	NP
+1.1	మరి	RP
+1.2	అప్పుడు	NST
+))
+2	((	NP
+2.1	మా	PRP
+2.2	తమ్ముడిని	NN
+))
+3	((	VGF
+3.1	ఎవరు	WQ
+3.2	చూస్తారు	VM
+3.3	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "56">
+0	((	SSF
+1	((	NP
+1.1	అందుకని	PRP
+))
+2	((	NP
+2.1	నన్ను	PRP
+))
+3	((	NP
+3.1	బడికి	NN
+))
+4	((	VGF
+4.1	పంపలేదు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "57">
+0	((	SSF
+1	((	NP
+1.1	నాకు	PRP
+))
+2	((	NP
+2.1	చదువు	NN
+))
+3	((	VGF
+3.1	రాలేదు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "58">
+0	((	SSF
+1	((	NP
+1.1	ఇంతలో	PRP
+))
+2	((	NP
+2.1	మా	PRP
+2.2	తమ్ముడికి	NN
+))
+3	((	NP
+3.1	ఆరో	QO
+3.2	ఏడు	NN
+))
+4	((	VGF
+4.1	వచ్చింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "59">
+0	((	SSF
+1	((	NP
+1.1	వాడికి	PRP
+))
+2	((	NP
+2.1	కొత్త	JJ
+2.2	గుడ్డలు	NN
+))
+3	((	VGF
+3.1	కుట్టించారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "60">
+0	((	SSF
+1	((	NP
+1.1	పలకా	NN
+1.2	బలపం	NN
+))
+2	((	VGF
+2.1	కొనిచ్చారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "61">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	నాయన	NN
+))
+2	((	NP
+2.1	వాడిని	PRP
+))
+3	((	RBP
+3.1	ముద్దుగా	RB
+))
+4	((	NP
+4.1	బడికి	NN
+))
+5	((	VGF
+5.1	తీసుకొని	VM
+5.2	పొయ్యాడు	VAUX
+5.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "62">
+0	((	SSF
+1	((	NP
+1.1	టీచరమ్మకు	NN
+))
+2	((	VGF
+2.1	అప్పగించి	VM
+2.2	వచ్చాడు	VAUX
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "63">
+0	((	SSF
+1	((	NP
+1.1	వాడు	PRP
+))
+2	((	NP
+2.1	ఇంటిలో	NN
+2.2	అ	RP
+))
+3	((	BLK
+3.1	ఆ	RP
+3.2	ఇ	RP
+3.3	ఈ	RP
+))
+4	((	BLK
+4.1	అని	UT
+))
+5	((	VGF
+5.1	రాశేవాడు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "64">
+0	((	SSF
+1	((	RBP
+1.1	పెద్దగా	RB
+))
+2	((	VGNF
+2.1	సాగదీస్తూ	VM
+))
+3	((	NP
+3.1	వాటిని	PRP
+))
+4	((	VGF
+4.1	పలికేవాడు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "65">
+0	((	SSF
+1	((	NP
+1.1	ఏవేవో	WQ
+1.2	పాటలు	NN
+))
+2	((	NP
+2.1	పాడేవాడు	NN
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "66">
+0	((	SSF
+1	((	NP
+1.1	అది	PRP
+))
+2	((	VGNF
+2.1	చూచి	VM
+))
+3	((	NP
+3.1	మా	PRP
+3.2	అమ్మ	NN
+))
+4	((	VGF
+4.1	మురిసిపొయ్యేది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "67">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	నాయన	NN
+))
+2	((	VGF
+2.1	ఉబ్బిపొయ్యేవాడు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "68">
+0	((	SSF
+1	((	NP
+1.1	నాకు	PRP
+1.2	కూడా	PSP
+))
+2	((	NP
+2.1	ముచ్చట	NN
+))
+3	((	VGF
+3.1	వేసింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "69">
+0	((	SSF
+1	((	NP
+1.1	ఉబలాటం	NN
+))
+2	((	VGF
+2.1	పుట్టేది	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "70">
+0	((	SSF
+1	((	NP
+1.1	సెలవు	NN
+1.2	రోజుల్లో	NN
+))
+2	((	NP
+2.1	మా	PRP
+2.2	తమ్ముడు	NN
+))
+3	((	VGNN
+3.1	ఆడుకోవడానికి	VM
+))
+4	((	VGF
+4.1	పొయ్యేవాడు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "71">
+0	((	SSF
+1	((	NP
+1.1	అప్పుడు	NST
+))
+2	((	NP
+2.1	వాడి	PRP
+))
+3	((	NP
+3.1	పలక	NN
+))
+4	((	VGF
+4.1	తీసుకొనేదాన్ని	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "72">
+0	((	SSF
+1	((	RBP
+1.1	దొంగచాటుగా	RB
+))
+2	((	NP
+2.1	పిచ్చి	JJ
+2.2	రాతలు	NN
+))
+3	((	VGF
+3.1	రాసేదాన్ని	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "73">
+0	((	SSF
+1	((	NP
+1.1	నాకు	PRP
+))
+2	((	NP
+2.1	వయసు	NN
+))
+3	((	VGF
+3.1	రాసాగింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "74">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	అక్కలకు	NN
+))
+2	((	NP
+2.1	పెళ్లిళ్లు	NN
+))
+3	((	VGF
+3.1	అయిపొయ్యాయి	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "75">
+0	((	SSF
+1	((	NP
+1.1	అత్తవారింటికి	NN
+))
+2	((	VGF
+2.1	వెళ్లి	VM
+2.2	పొయ్యారు	VAUX
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "76">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	అమ్మ	NN
+))
+2	((	NP
+2.1	రోగంతో	NN
+))
+3	((	NP
+3.1	మంచం	NN
+))
+4	((	VGF
+4.1	పట్టింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "77">
+0	((	SSF
+1	((	NP
+1.1	ఇంటి	NN
+1.2	పనులన్నీ	NN
+))
+2	((	NP
+2.1	నా	PRP
+2.2	నెత్తిన	NN
+))
+3	((	VGF
+3.1	పడ్డాయి	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "78">
+0	((	SSF
+1	((	NP
+1.1	తెల్లారి	NN
+))
+2	((	VGNF
+2.1	లేచి	VM
+))
+3	((	NP
+3.1	ఇల్లూ	NN
+3.2	వాకిలీ	NN
+))
+4	((	VGF
+4.1	ఊడవాలి	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "79">
+0	((	SSF
+1	((	NP
+1.1	పేడనీళ్లు	NN
+))
+2	((	VGF
+2.1	చల్లాలి	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "80">
+0	((	SSF
+1	((	NP
+1.1	ముగ్గులు	NN
+))
+2	((	VGF
+2.1	వెయ్యాలి	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "81">
+0	((	SSF
+1	((	NP
+1.1	గిన్నెలు	NN
+))
+2	((	VGF
+2.1	తోమాలి	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "82">
+0	((	SSF
+1	((	NP
+1.1	సద్దికూడు	NN
+))
+2	((	VGNF
+2.1	తిని	VM
+))
+3	((	NP
+3.1	బర్రెలు	NN
+))
+4	((	VGNN
+4.1	మేపడానికి	VM
+))
+5	((	NP
+5.1	పొలం	NN
+))
+6	((	VGF
+6.1	పోవాలి	VM
+6.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "83">
+0	((	SSF
+1	((	NP
+1.1	వాటిని	PRP
+))
+2	((	NP
+2.1	పగలంతా	NN
+))
+3	((	VGF
+3.1	మేపాలి	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "84">
+0	((	SSF
+1	((	VGNF
+1.1	వచ్చేటప్పుడు	VM
+))
+2	((	NP
+2.1	కట్టెలూ	NN
+))
+3	((	NP
+3.1	పుల్లలూ	NN
+))
+4	((	VGF
+4.1	ఏరుకొని	VM
+4.2	రావాలి	VAUX
+4.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "85">
+0	((	SSF
+1	((	VGNF
+1.1	ఇంటికొచ్చి	VM
+))
+2	((	NP
+2.1	పొయ్యి	NN
+))
+3	((	VGF
+3.1	ముట్టించాలి	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "86">
+0	((	SSF
+1	((	NP
+1.1	నీళ్లు	NN
+))
+2	((	VGNF
+2.1	కాచి	VM
+))
+3	((	NP
+3.1	తమ్ముడికి	NN
+))
+4	((	VGF
+4.1	పొయ్యాలి	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "87">
+0	((	SSF
+1	((	NP
+1.1	వంట	NN
+))
+2	((	VGF
+2.1	వండాలి	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "88">
+0	((	SSF
+1	((	NP
+1.1	అందరికీ	PRP
+))
+2	((	VGF
+2.1	పెట్టాలి	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "89">
+0	((	SSF
+1	((	RBP
+1.1	ఇలా	RB
+))
+2	((	NP
+2.1	అమ్మ	NN
+2.2	పని	NN
+2.3	కూడా	PSP
+))
+3	((	NP
+3.1	నా	PRP
+3.2	నెత్తిన	NN
+))
+4	((	VGF
+4.1	పడింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "90">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	తమ్ముడు	NN
+))
+2	((	NP
+2.1	ఏడో	QO
+2.2	తరగతికి	NN
+))
+3	((	VGF
+3.1	వచ్చాడు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "91">
+0	((	SSF
+1	((	NP
+1.1	ఇప్పుడు	NST
+))
+2	((	NP
+2.1	వాడు	PRP
+))
+3	((	NP
+3.1	నా	PRP
+3.2	మీద	NST
+))
+4	((	NP
+4.1	పెత్తనం	NN
+))
+5	((	VGF
+5.1	చేస్తున్నాడు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "92">
+0	((	SSF
+1	((	NP
+1.1	వాడు	PRP
+))
+2	((	VGNF
+2.1	ఏమి	WQ
+2.2	చేసినా	VM
+))
+3	((	VGF
+3.1	తప్పులేదు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "93">
+0	((	SSF
+1	((	NP
+1.1	అదే	PRP
+))
+2	((	NP
+2.1	నేను	PRP
+))
+3	((	VGNF
+3.1	చేస్తే	VM
+))
+4	((	NP
+4.1	తప్పు	NN
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "94">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+))
+2	((	NP
+2.1	వాడి	PRP
+))
+3	((	NP
+3.1	ముడ్డి	NN
+))
+4	((	VGF
+4.1	కడిగాను	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "95">
+0	((	SSF
+1	((	VGF
+1.1	మోశాను	VM
+1.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "96">
+0	((	SSF
+1	((	VGF
+1.1	ఆడించాను	VM
+1.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "97">
+0	((	SSF
+1	((	NP
+1.1	అన్నం	NN
+))
+2	((	VGF
+2.1	తినిపించాను	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "98">
+0	((	SSF
+1	((	NP
+1.1	చిన్నప్పుడు	NST
+))
+2	((	NP
+2.1	నన్ను	PRP
+))
+3	((	VGNF
+3.1	చూస్తే	VM
+))
+4	((	NP
+4.1	కేరింతలు	NN
+))
+5	((	VGF
+5.1	కొట్టేవాడు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "99">
+0	((	SSF
+1	((	NP
+1.1	ఇప్పుడు	NST
+))
+2	((	NP
+2.1	నా	PRP
+2.2	కంటికి	NN
+))
+3	((	NP
+3.1	పెద్ద	NN
+))
+4	((	VGF
+4.1	అయిపొయ్యాడు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "100">
+0	((	SSF
+1	((	NP
+1.1	అమ్మా	NN
+1.2	నాయన	NN
+))
+2	((	NP
+2.1	వాడి	PRP
+2.2	మాటే	NN
+))
+3	((	VGF
+3.1	వింటున్నారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "101">
+0	((	SSF
+1	((	NP
+1.1	వాడిని	PRP
+))
+2	((	NP
+2.1	"	SYM
+2.2	మగమహారాజు	NN
+2.3	"	SYM
+))
+3	((	VGF
+3.1	అంటున్నారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "102">
+0	((	SSF
+1	((	NP
+1.1	నన్ను	PRP
+))
+2	((	NP
+2.1	ఆడముండ	NN
+))
+3	((	VGF
+3.1	అంటున్నారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "103">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	చుట్టుపక్కల	NN
+))
+2	((	NP
+2.1	ఆడిపిల్లలు	NN
+2.2	కూడా	PSP
+))
+3	((	NP
+3.1	ఇంత	QF
+3.2	కంటె	PSP
+))
+4	((	VGF
+4.1	సుఖపడింది	VM
+4.2	లేదు	VAUX
+4.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "104">
+0	((	SSF
+1	((	NP
+1.1	వాళ్లయ్యతో	PRP
+))
+2	((	NP
+2.1	కొంతమంది	NN
+))
+3	((	NP
+3.1	బడిలో	NN
+))
+4	((	VGF
+4.1	చేరారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "105">
+0	((	SSF
+1	((	CCP
+1.1	ఐతే	CC
+))
+2	((	NP
+2.1	ఏం	WQ
+2.2	లాభం	NN
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "106">
+0	((	SSF
+1	((	NP
+1.1	మూడు	QC
+1.2	నాలుగేళ్ళలో	QC
+))
+2	((	NP
+2.1	అందరూ	PRP
+))
+3	((	VGF
+3.1	మానేశారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "107">
+0	((	SSF
+1	((	NP
+1.1	ఇంటి	NN
+1.2	చాకిరీతో	NN
+))
+2	((	NP
+2.1	వాళ్లకు	PRP
+))
+3	((	VGF
+3.1	సరిపొయ్యేది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "108">
+0	((	SSF
+1	((	NP
+1.1	కొంతమందినైతే	NN
+))
+2	((	NP
+2.1	ఇల్లు	NN
+))
+3	((	VGNF
+3.1	దాటి	VM
+))
+4	((	VGNN
+4.1	రానివ్వడం	VM
+4.2	లేదు	VAUX
+4.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "109">
+0	((	SSF
+1	((	NP
+1.1	గడప	NN
+))
+2	((	VGNF
+2.1	దాటితే	VM
+))
+3	((	NP
+3.1	ఆడిపిల్లలు	NN
+))
+4	((	VGF
+4.1	చెడిపోతారట	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "110">
+0	((	SSF
+1	((	NP
+1.1	పరువు	NN
+))
+2	((	VGF
+2.1	పోతుందట	VM
+2.2	!	SYM
+))
+3	((	NP
+3.1	చిన్నప్పుడే	NN
+))
+4	((	NP
+4.1	నయం	NN
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "111">
+0	((	SSF
+1	((	NP
+1.1	అందరం	PRP
+))
+2	((	VGNF
+2.1	కలిసి	VM
+))
+3	((	VGF
+3.1	ఆడుకొనేవాళ్లం	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "112">
+0	((	SSF
+1	((	NP
+1.1	చెట్లు	NN
+))
+2	((	VGNF
+2.1	ఎక్కి	VM
+))
+3	((	NP
+3.1	చింత	NN
+3.2	చిగురు	NN
+))
+4	((	VGF
+4.1	కోసేవాళ్లం	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "113">
+0	((	SSF
+1	((	NP
+1.1	కొమ్మల	NN
+1.2	మీద	NST
+))
+2	((	NP
+2.1	ఉయ్యాల	NN
+))
+3	((	VGF
+3.1	ఊగేవాళ్లం	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "114">
+0	((	SSF
+1	((	CCP
+1.1	ఐతే	CC
+))
+2	((	NP
+2.1	వాళ్లకంటే	PRP
+))
+3	((	NP
+3.1	నేనే	PRP
+3.2	మేలు	NN
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "115">
+0	((	SSF
+1	((	NP
+1.1	బర్రెలు	NN
+))
+2	((	VGNN
+2.1	మేపడానికైనా	VM
+))
+3	((	NP
+3.1	ఇల్లు	NN
+))
+4	((	VGF
+4.1	వదిలి	VM
+4.2	పోతాను	VAUX
+4.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "116">
+0	((	SSF
+1	((	VGF
+1.1	ఆడుకొంటాను	VM
+1.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "117">
+0	((	SSF
+1	((	NP
+1.1	పిచ్చి	JJ
+1.2	పాటలు	NN
+))
+2	((	VGF
+2.1	పాడుకొంటాను	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "118">
+0	((	SSF
+1	((	NP
+1.1	మేము	PRP
+))
+2	((	VGF
+2.1	పేదవాళ్లం	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "119">
+0	((	SSF
+1	((	NP
+1.1	గడప	NN
+))
+2	((	VGNF
+2.1	దాటకుంటే	VM
+))
+3	((	NP
+3.1	మాకు	PRP
+))
+4	((	NP
+4.1	ఎలా	WQ
+))
+5	((	NP
+5.1	పూట	NN
+))
+6	((	VGF
+6.1	గడుస్తుంది	VM
+6.2	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "120">
+0	((	SSF
+1	((	NP
+1.1	మగపిల్లలు	NN
+))
+2	((	NP
+2.1	ఎన్ని	WQ
+2.2	ఏళ్లు	NN
+))
+3	((	VGNF
+3.1	వచ్చినా	VM
+))
+4	((	VGF
+4.1	ఆడుకొంటున్నారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "121">
+0	((	SSF
+1	((	NP
+1.1	సినిమాలకు	NN
+))
+2	((	VGF
+2.1	పోతున్నారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "122">
+0	((	SSF
+1	((	NP
+1.1	నడిరాత్రికి	NN
+))
+2	((	NP
+2.1	ఇంటికి	NN
+))
+3	((	VGF
+3.1	వస్తున్నారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "123">
+0	((	SSF
+1	((	NP
+1.1	మరి	RP
+1.2	వాళ్లు	PRP
+))
+2	((	VGF
+2.1	చెడిపోరా	VM
+2.2	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "124">
+0	((	SSF
+1	((	NP
+1.1	వాళ్లంతా	PRP
+))
+2	((	NP
+2.1	మంచి	JJ
+2.2	వాళ్లయితే	PRP
+))
+3	((	NP
+3.1	ఆడిపిల్లలు	NN
+))
+4	((	VGF
+4.1	ఎందుకు	WQ
+4.2	చెడిపోతారు	VM
+4.3	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "125">
+0	((	SSF
+1	((	NP
+1.1	అది	PRP
+))
+2	((	NP
+2.1	నాకు	PRP
+))
+3	((	NP
+3.1	అర్థం	NN
+))
+4	((	VGNN
+4.1	కావడం	VM
+4.2	లేదు	VAUX
+4.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "126">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+))
+2	((	NP
+2.1	పెద్దమనిషిని	NN
+))
+3	((	VGF
+3.1	అయ్యాను	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "127">
+0	((	SSF
+1	((	NP
+1.1	కొత్త	JJ
+1.2	పైటా	NN
+))
+2	((	NP
+2.1	పావడా	NN
+))
+3	((	VGF
+3.1	కొనిచ్చారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "128">
+0	((	SSF
+1	((	NP
+1.1	మూడురోజులు	QC
+1.2	మూల	NN
+))
+2	((	VGF
+2.1	కూర్చోబెట్టారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "129">
+0	((	SSF
+1	((	NP
+1.1	అమ్మలక్కలు	NN
+))
+2	((	VGF
+2.1	వచ్చారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "130">
+0	((	SSF
+1	((	NP
+1.1	అవీ	PRP
+1.2	ఇవీ	PRP
+))
+2	((	VGF
+2.1	తినిపించారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "131">
+0	((	SSF
+1	((	NP
+1.1	అప్పటినుంచీ	NST
+))
+2	((	NP
+2.1	మా	PRP
+2.2	అమ్మకు	NN
+))
+3	((	NP
+3.1	దిగులు	NN
+))
+4	((	VGF
+4.1	పట్టుకుంది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "132">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	నాయనను	NN
+))
+2	((	VGF
+2.1	తొందరపెట్టసాగింది	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "133">
+0	((	SSF
+1	((	NP
+1.1	పెళ్లి	NN
+1.2	సంబంధాలు	NN
+))
+2	((	VGNF
+2.1	వెతకమని	VM
+))
+3	((	VGF
+3.1	పోరుపెట్టసాగింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "134">
+0	((	SSF
+1	((	NP
+1.1	అప్పుడే	NST
+))
+2	((	NP
+2.1	నేను	PRP
+))
+3	((	VGF
+3.1	బరువైపోయాను	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "135">
+0	((	SSF
+1	((	RBP
+1.1	తొందరగా	RB
+))
+2	((	VGF
+2.1	వదిలించుకోవాలని	VM
+2.2	చూస్తున్నారు	VAUX
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "136">
+0	((	SSF
+1	((	NP
+1.1	పరాయిదాన్నిలా	NN
+))
+2	((	VGF
+2.1	లెక్కేస్తున్నారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "137">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	అక్కల	NN
+))
+2	((	NP
+2.1	పెళ్లిళ్లకు	NN
+))
+3	((	NP
+3.1	మా	PRP
+3.2	నాయన	NN
+))
+4	((	NP
+4.1	ఎకరా	NN
+4.2	పొలం	NN
+))
+5	((	VGF
+5.1	అమ్మాడు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "138">
+0	((	SSF
+1	((	NP
+1.1	నా	PRP
+1.2	కోసం	PSP
+))
+2	((	NP
+2.1	మిగతా	NN
+2.2	ఎకరం	NN
+))
+3	((	VGF
+3.1	అమ్మాలని	VM
+3.2	చూస్తున్నాడు	VAUX
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "139">
+0	((	SSF
+1	((	NP
+1.1	నాకు	PRP
+))
+2	((	NP
+2.1	పెళ్లి	NN
+2.2	భయం	NN
+))
+3	((	VGF
+3.1	పట్టుకొనింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "140">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	ఎదురింటి	NN
+1.3	సుజాత	NNP
+))
+2	((	NP
+2.1	నా	PRP
+2.2	కంటె	PSP
+))
+3	((	NP
+3.1	నాలుగేళ్లు	NN
+3.2	పెద్ద	NN
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "141">
+0	((	SSF
+1	((	NP
+1.1	దానికి	PRP
+))
+2	((	NP
+2.1	రెండేళ్ల	NN
+2.2	ముందు	NST
+))
+3	((	VGF
+3.1	పెళ్లయింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "142">
+0	((	SSF
+1	((	NP
+1.1	తర్వాత	NST
+))
+2	((	NP
+2.1	ఏడాదికే	NN
+))
+3	((	VGF
+3.1	తల్లి	NN
+3.2	అయింది	VM
+))
+4	((	NP
+4.1	కాన్పు	NN
+))
+5	((	VGNF
+5.1	కష్టమై	VM
+))
+6	((	NP
+6.1	ఆపరేషను	NN
+))
+7	((	VGF
+7.1	చేశారు	VM
+7.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "143">
+0	((	SSF
+1	((	NP
+1.1	మనిషి	NN
+))
+2	((	VGNF
+2.1	చచ్చి	VM
+))
+3	((	VGF
+3.1	బతికింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "144">
+0	((	SSF
+1	((	NP
+1.1	ఇప్పుడు	NST
+))
+2	((	NP
+2.1	దాని	PRP
+2.2	బిడ్డకు	NN
+))
+3	((	NP
+3.1	ఒకటే	RP
+3.2	రోగాలు	NN
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "145">
+0	((	SSF
+1	((	NP
+1.1	వాడితో	PRP
+))
+2	((	VGNF
+2.1	ఏగలేక	VM
+))
+3	((	NP
+3.1	మనిషి	NN
+))
+4	((	RBP
+4.1	ఎముకల	NN
+4.2	గూడులాగా	RB
+))
+5	((	VGF
+5.1	మారింది	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "146">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	పెద్దనాయన	NN
+1.3	కూతురు	NN
+))
+2	((	NP
+2.1	గౌరికి	NNP
+))
+3	((	VGNF
+3.1	పోయిన	VM
+))
+4	((	NP
+4.1	ఏడాది	NN
+))
+5	((	NP
+5.1	పెళ్లి	NN
+))
+6	((	VGF
+6.1	చేశారు	VM
+6.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "147">
+0	((	SSF
+1	((	NP
+1.1	ఇల్లు	NN
+))
+2	((	VGNF
+2.1	గుల్ల	NN
+2.2	చేసుకొని	VM
+))
+3	((	VGF
+3.1	అప్పులపాలయ్యారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "148">
+0	((	SSF
+1	((	NP
+1.1	ఏమి	WQ
+1.2	లాభం	NN
+1.3	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "149">
+0	((	SSF
+1	((	NP
+1.1	మొగుడు	NN
+))
+2	((	VGNN
+2.1	చూడడానికి	VM
+))
+3	((	RBP
+3.1	బాగానే	RB
+))
+4	((	VGF
+4.1	ఉంటాడు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "150">
+0	((	SSF
+1	((	CCP
+1.1	ఐతే	CC
+))
+2	((	NP
+2.1	పచ్చితాగుబోతు	NN
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "151">
+0	((	SSF
+1	((	NP
+1.1	కట్నం	NN
+))
+2	((	VGNF
+2.1	చాలలేదని	VM
+))
+3	((	NP
+3.1	పెళ్లాన్ని	NN
+))
+4	((	VGF
+4.1	తరిమేశాడు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "152">
+0	((	SSF
+1	((	NP
+1.1	పుట్టెడు	QF
+1.2	శోకంతో	NN
+))
+2	((	NP
+2.1	ఆ	DEM
+2.2	పిల్ల	NN
+))
+3	((	VGF
+3.1	వచ్చేసింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "153">
+0	((	SSF
+1	((	NP
+1.1	ఒకసారి	NN
+))
+2	((	NP
+2.1	బావిలో	NN
+))
+3	((	VGNF
+3.1	దూకి	VM
+))
+4	((	VGNN
+4.1	చావడానికి	VM
+))
+5	((	VGF
+5.1	పూనుకొనింది	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "154">
+0	((	SSF
+1	((	CCP
+1.1	అందుకే	CC
+))
+2	((	NP
+2.1	పెళ్లంటే	NN
+))
+3	((	NP
+3.1	నాకు	PRP
+))
+4	((	RBP
+4.1	భయంగా	RB
+))
+5	((	VGF
+5.1	ఉంది	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "155">
+0	((	SSF
+1	((	RBP
+1.1	ఇలా	RB
+))
+2	((	VGNF
+2.1	ఉండగా	VM
+))
+3	((	NP
+3.1	అక్షరదీపం	NN
+))
+4	((	VGF
+4.1	వచ్చింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "156">
+0	((	SSF
+1	((	NP
+1.1	ఊళ్లో	NN
+))
+2	((	NP
+2.1	నాటకాలు	NN
+))
+3	((	VGF
+3.1	వేశారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "157">
+0	((	SSF
+1	((	NP
+1.1	వాటిని	PRP
+))
+2	((	NP
+2.1	ఆడవాళ్లు	NN
+))
+3	((	VGF
+3.1	విరగబడి	VM
+3.2	చూచారు	VAUX
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "158">
+0	((	SSF
+1	((	NP
+1.1	అవి	PRP
+))
+2	((	VGNF
+2.1	ఎంత	WQ
+2.2	బాగున్నాయో	VM
+))
+3	((	VGF
+3.1	చెప్పలేను	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "159">
+0	((	SSF
+1	((	NP
+1.1	అచ్చం	NN
+))
+2	((	NP
+2.1	మా	PRP
+2.2	బతుకుల్నే	NN
+))
+3	((	VGF
+3.1	చూపించారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "160">
+0	((	SSF
+1	((	NP
+1.1	ఇల్లాలు	NN
+))
+2	((	VGNF
+2.1	చదివితే	VM
+))
+3	((	NP
+3.1	ఇల్లంతా	NN
+))
+4	((	VGNF
+4.1	చదివినట్టే	VM
+))
+5	((	BLK
+5.1	అని	UT
+))
+6	((	VGF
+6.1	చెప్పారు	VM
+6.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "161">
+0	((	SSF
+1	((	NP
+1.1	ఎంత	WQ
+1.2	మంచిమాట	NN
+1.3	!	SYM
+))
+2	((	NP
+2.1	మా	PRP
+2.2	అమ్మ	NN
+))
+3	((	VGF
+3.1	చదువుకొని	VM
+3.2	ఉంటే	VAUX
+))
+4	((	VGF
+4.1	ఎంత	WQ
+4.2	బాగుండేది	VM
+4.3	?	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "162">
+0	((	SSF
+1	((	NP
+1.1	నాలుగు	QC
+1.2	అక్షరాలు	NN
+))
+2	((	VGF
+2.1	నేర్పించేది	VM
+2.2	గదా	RP
+))
+3	((	VGF
+3.1	అనిపించింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "163">
+0	((	SSF
+1	((	NP
+1.1	తరువాత	NST
+))
+2	((	NP
+2.1	ఊళ్లో	NN
+))
+3	((	NP
+3.1	రాత్రి	NN
+3.2	బడులు	NN
+))
+4	((	VGF
+4.1	పెట్టారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "164">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	టీచరమ్మ	NN
+))
+2	((	NP
+2.1	మా	PRP
+2.2	ఇంటికి	NN
+))
+3	((	VGF
+3.1	వచ్చింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "165">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	తమ్ముడిని	NN
+))
+2	((	RBP
+2.1	వాలంటీరుగా	RB
+))
+3	((	VGNF
+3.1	చేరమని	VM
+))
+4	((	VGF
+4.1	అడిగింది	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "166">
+0	((	SSF
+1	((	NP
+1.1	వాడు	PRP
+))
+2	((	VGF
+2.1	సరే	RP
+2.2	అన్నాడు	VM
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "167">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	ఇంటి	NN
+1.3	ముందరే	NST
+))
+2	((	NP
+2.1	లైటు	NN
+))
+3	((	VGF
+3.1	వేశారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "168">
+0	((	SSF
+1	((	NP
+1.1	అందరికీ	PRP
+))
+2	((	NP
+2.1	పలకా	NN
+2.2	బలపాలు	NN
+))
+3	((	NP
+3.1	వాచకాలు	NN
+))
+4	((	VGF
+4.1	ఇచ్చారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "169">
+0	((	SSF
+1	((	NP
+1.1	ఊరంతా	NN
+))
+2	((	RBP
+2.1	చదువుల	NN
+2.2	సంతలాగా	RB
+))
+3	((	VGF
+3.1	మారిపోయింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "170">
+0	((	SSF
+1	((	NP
+1.1	నేనూ	PRP
+))
+2	((	NP
+2.1	రాత్రి	NN
+2.2	బడికి	NN
+))
+3	((	VGNF
+3.1	పోతానని	VM
+))
+4	((	NP
+4.1	మా	PRP
+4.2	అమ్మను	NN
+))
+5	((	VGF
+5.1	అడిగాను	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "171">
+0	((	SSF
+1	((	NP
+1.1	ఆమె	PRP
+))
+2	((	VGF
+2.1	కాదనలేదు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "172">
+0	((	SSF
+1	((	NP
+1.1	మా	PRP
+1.2	తమ్ముడు	NN
+))
+2	((	NP
+2.1	చదువు	NN
+))
+3	((	VGNN
+3.1	చెప్పడం	VM
+))
+4	((	NP
+4.1	మా	PRP
+4.2	నాయనకు	NN
+))
+5	((	RBP
+5.1	పెద్ద	JJ
+5.2	గొప్పగా	RB
+))
+6	((	VGF
+6.1	అనిపించింది	VM
+6.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "173">
+0	((	SSF
+1	((	CCP
+1.1	అందుకే	CC
+))
+2	((	NP
+2.1	ఆయనకూడా	PRP
+))
+3	((	NP
+3.1	నాకు	PRP
+))
+4	((	NP
+4.1	అడ్డం	NN
+))
+5	((	VGF
+5.1	చెప్పలేదు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "174">
+0	((	SSF
+1	((	NP
+1.1	రాత్రి	NN
+))
+2	((	NP
+2.1	బడుల్లో	NN
+))
+3	((	NP
+3.1	ఆడవాళ్లు	NN
+))
+4	((	RBP
+4.1	విపరీతంగా	RB
+))
+5	((	VGF
+5.1	చేరారు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "175">
+0	((	SSF
+1	((	NP
+1.1	మధ్యలో	NST
+))
+2	((	NP
+2.1	బడి	NN
+))
+3	((	VGNF
+3.1	మానేసిన	VM
+))
+4	((	NP
+4.1	వాళ్లు	PRP
+4.2	కూడా	PSP
+))
+5	((	VGF
+5.1	చేరారు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "176">
+0	((	SSF
+1	((	NP
+1.1	బిడ్డ	NN
+1.2	తల్లులు	NN
+1.3	కూడా	PSP
+))
+2	((	NP
+2.1	పలకా	NN
+2.2	బలపం	NN
+))
+3	((	VGF
+3.1	పట్టారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "177">
+0	((	SSF
+1	((	NP
+1.1	లోకం	NN
+))
+2	((	VGNF
+2.1	మారిపోయింది	VM
+))
+3	((	BLK
+3.1	అంటూ	UT
+))
+4	((	NP
+4.1	అందరూ	PRP
+))
+5	((	VGF
+5.1	అనుకోసాగారు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "178">
+0	((	SSF
+1	((	NP
+1.1	నేను	PRP
+))
+2	((	VGNF
+2.1	ఎన్ని	WQ
+2.2	పనులున్నా	VM
+))
+3	((	NP
+3.1	రాత్రి	NN
+3.2	బడికి	NN
+))
+4	((	VGF
+4.1	పోసాగాను	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "179">
+0	((	SSF
+1	((	NP
+1.1	పగలు	NN
+))
+2	((	NP
+2.1	తీరిక	NN
+))
+3	((	VGNF
+3.1	ఉన్నప్పుడు	VM
+))
+4	((	NP
+4.1	ఇంట్లో	NN
+4.2	కూడా	PSP
+))
+5	((	VGF
+5.1	చెప్పించుకొన్నాను	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "180">
+0	((	SSF
+1	((	NP
+1.1	నాలో	PRP
+))
+2	((	NP
+2.1	పట్టుదల	NN
+))
+3	((	VGF
+3.1	పెరిగింది	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "181">
+0	((	SSF
+1	((	NP
+1.1	చదువులో	NN
+))
+2	((	NP
+2.1	మాకు	PRP
+))
+3	((	NP
+3.1	చాలా	QF
+3.2	సంగతులు	NN
+))
+4	((	VGF
+4.1	తెలిశాయి	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "182">
+0	((	SSF
+1	((	NP
+1.1	"	SYM
+1.2	ఆడపిల్లలకు	NN
+))
+2	((	NP
+2.1	18	QC
+2.2	ఏళ్లు	NN
+))
+3	((	VGNF
+3.1	నిండేదాకా	VM
+))
+4	((	NP
+4.1	పెళ్లి	NN
+))
+5	((	VGF
+5.1	చెయ్యగూడదు	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "183">
+0	((	SSF
+1	((	NP
+1.1	లోకం	NN
+))
+2	((	VGNF
+2.1	తెలిసే	VM
+))
+3	((	NP
+3.1	వయసు	NN
+))
+4	((	VGF
+4.1	రావాలి	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "184">
+0	((	SSF
+1	((	NP
+1.1	పిల్లలను	NN
+))
+2	((	VGNN
+2.1	కనడానికి	VM
+))
+3	((	NP
+3.1	శక్తి	NN
+))
+4	((	VGF
+4.1	రావాలి	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "185">
+0	((	SSF
+1	((	NP
+1.1	కట్నం	NN
+))
+2	((	VGNN
+2.1	ఇవ్వడం	VM
+))
+3	((	NP
+3.1	నేరం	NN
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "186">
+0	((	SSF
+1	((	VGNN
+1.1	తీసుకోవడం	VM
+))
+2	((	NP
+2.1	నేరం	NN
+2.2	"	SYM
+))
+3	((	BLK
+3.1	అని	UT
+))
+4	((	NP
+4.1	ఒక	JJ
+4.2	పాఠంలో	NN
+))
+5	((	VGF
+5.1	ఉంది	VM
+5.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "187">
+0	((	SSF
+1	((	NP
+1.1	అసలు	NN
+))
+2	((	NP
+2.1	ఆడవాళ్లు	NN
+))
+3	((	NP
+3.1	ఎందులో	WQ
+3.2	తక్కువ	NN
+3.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "188">
+0	((	SSF
+1	((	RBP
+1.1	మగవాళ్ల	NN
+1.2	లాగా	RB
+))
+2	((	NP
+2.1	పొలం	NN
+2.2	పనులు	NN
+))
+3	((	VGF
+3.1	చేస్తున్నారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "189">
+0	((	SSF
+1	((	NP
+1.1	సంసారాలు	NN
+))
+2	((	VGF
+2.1	నడుపుతున్నారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "190">
+0	((	SSF
+1	((	NP
+1.1	టవున్లలో	NN
+))
+2	((	NP
+2.1	ఆడవాళ్లు	NN
+))
+3	((	NP
+3.1	సైకిళ్లు	NN
+))
+4	((	VGF
+4.1	తొక్కుతున్నారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "191">
+0	((	SSF
+1	((	NP
+1.1	కార్లు	NN
+))
+2	((	VGF
+2.1	నడుపుతున్నారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "192">
+0	((	SSF
+1	((	VGF
+1.1	డాక్టరమ్మలవుతున్నారు	VM
+1.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "193">
+0	((	SSF
+1	((	VGF
+1.1	ప్లీడరమ్మలవుతున్నారు	VM
+1.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "194">
+0	((	SSF
+1	((	NP
+1.1	ఒకప్పుడు	NST
+))
+2	((	NP
+2.1	ఆడవాళ్లు	NN
+))
+3	((	NP
+3.1	రాజ్యాలు	NN
+))
+4	((	VGF
+4.1	ఏలారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "195">
+0	((	SSF
+1	((	NP
+1.1	యుద్ధాలు	NN
+))
+2	((	VGF
+2.1	చేశారు	VM
+2.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "196">
+0	((	SSF
+1	((	NP
+1.1	ఇప్పుడు	NST
+1.2	కూడా	PSP
+))
+2	((	NP
+2.1	మిలటరీలో	NN
+))
+3	((	NP
+3.1	ఆడవాళ్లు	NN
+))
+4	((	VGF
+4.1	ఉన్నారు	VM
+4.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "197">
+0	((	SSF
+1	((	NP
+1.1	పోలీసుల్లో	NN
+))
+2	((	NP
+2.1	ఆడవాళ్లు	NN
+))
+3	((	VGF
+3.1	ఉన్నారు	VM
+3.2	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "198">
+0	((	SSF
+1	((	NP
+1.1	ఆడామగా	NN
+))
+2	((	NP
+2.1	పనిలో	NN
+2.2	సమానం	NN
+2.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "199">
+0	((	SSF
+1	((	NP
+1.1	తెలివిలో	NN
+1.2	సమానం	NN
+1.3	.	SYM
+))
+))
+</Sentence>
+
+<Sentence @id = "200">
+0	((	SSF
+1	((	NP
+1.1	పుట్టుకతో	NN
+1.2	సమానం	NN
+1.3	.	SYM
+))
+))
+</Sentence>

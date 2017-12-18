@@ -1,4 +1,4 @@
-def pos_features(sent, i):
+def crf_pos_features(sent, i):
     word = sent[i][0]
     postag = sent[i][1]
     features = [

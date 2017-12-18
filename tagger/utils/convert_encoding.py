@@ -10,7 +10,7 @@ import argparse
 logger = logging.getLogger(__name__)
 
 def convert_encoding(filename, text_type, language, in_enc, out_enc):
-	
+
 	with codecs.open(filename, 'r', encoding='utf-8') as fp:
 		logger.info('Loading text_type: %s data' % (text_type))
 		output_data = ""
@@ -67,7 +67,7 @@ def get_args():
 
     return parser.parse_args()
 
-    
+
 if __name__ == "__main__":
 
 	curr_dir = path.dirname(path.abspath(__file__))
@@ -76,7 +76,7 @@ if __name__ == "__main__":
 	filename = "%s/%s" % (curr_dir, args.file_path)
 	output_file = "%s/%s" % (curr_dir, args.output_path)
 	output_data=convert_encoding(filename, args.data_format, args.language, args.in_enc, args.out_enc)
-	write_to_file(output_data, output_file)   
+	write_to_file(output_data, output_file)
 
 
 
