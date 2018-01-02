@@ -20,7 +20,7 @@ If you reuse this software, please use the following citation:
 ### Training Data Statistics and System Performances
 
 | Languages  |  # Word   | # Sent  |  CRF POS    | CRF Chunk  |
-| ---------- | ----------|---------|--------------------------|
+| ---------- | ----------|---------|-------------|------------|
 |   tel      |   347k    |   30k   |     93%     |    96%     |
 |   hin      |   350k    |  16.3k  |     93%     |    97%     |
 |   ben      |   298.3k  |  14.6k  |     84%     |    95%     |
