@@ -14,8 +14,8 @@ def load_data(text_type, filename, lang, tokenize_text=False, split_sent=True):
             for line in fp:
                 line = line.strip()
                 ds = line.split()
-                print("Line", line)
-                print("DS", ds)
+                #print("Line", line)
+                #print("DS", ds)
                 if line == "":
                     continue
                 elif line[0:2] == "<S":
@@ -58,8 +58,9 @@ def load_data(text_type, filename, lang, tokenize_text=False, split_sent=True):
         elif text_type == "txt":
             if split_sent == True:
                 text = fp.read()
-                tok = IndicTokenizer(lang=lang, split_sen=False)
-                tokenize_sents = tok.tokenize(text)
+                tok = IndicTokenizer(lang=lang, split_sen=split_sent)
+                tokenized_text = tok.tokenize(text)
+                tokenize_sents = tokenized_text.split("\n")
                 for line in tokenize_sents:
                     sent = []
                     tokens = line.split()

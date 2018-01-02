@@ -52,7 +52,7 @@ def get_args():
                         help="Test data path ex: data/test/telugu/test.txt")
     parser.add_argument("-o", "--output_file", dest="output_path", type=str, metavar='<str>',
                          help="The path to the output file",
-                         default=path.join(path.dirname(path.abspath(__file__)), "outputs"))
+                         default=path.join(path.dirname(path.abspath(__file__)), "outputs", "output_file"))
 
 
     return parser.parse_args()
@@ -61,7 +61,7 @@ def pipeline():
     curr_dir = path.dirname(path.abspath(__file__))
     args = get_args()
 
-    data_writer.set_logger(args.model_type, args.output_path)
+    data_writer.set_logger(args.model_type, path.join(path.dirname(path.abspath(__file__)), "outputs"))
 
     if args.tag_type != "parse":
         model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, args.tag_type, args.encoding)    
@@ -130,7 +130,7 @@ def pipeline():
                 test_fname = path.basename(test_data_path)
                 output_file = "%s/%s.parse" % (args.output_path, test_fname)
                 data_writer.write_anno_to_file(output_file, test_sents_pos, y_chunk, "chunk")
-                logger.info("Output: %s" % output_file)
+                logger.info("Output in: %s" % output_file)
                 # data_writer.write_to_screen(output_file)
         else:            
             X_test = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in test_sents ]
@@ -139,9 +139,12 @@ def pipeline():
                 tagger = CRF(model_path)
                 tagger.load_model()
                 y_pred = tagger.predict(X_test)
+            
+                output_file = "%s" % (args.output_path)
+                data_writer.write_anno_to_file(output_file, test_sents, y_pred, args.tag_type)
+                logger.info("Output in: %s" % output_file)
+            
 
-            output_file = "%s" % (args.output_path)
-            data_writer.write_anno_to_file(output_file, test_sents, y_pred, args.tag_type)
         
 if __name__ == '__main__':
     pipeline()
