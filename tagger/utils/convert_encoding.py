@@ -1,6 +1,19 @@
 import sys,os.path as path
 sys.path.append(path.dirname(path.dirname(path.dirname(path.abspath(__file__)))))
 
+"""
+Convert WX to UTF
+
+To run:
+python tagger/utils/convert_encoding.py -ie wx -oe utf -d ssf -f data/train/hin/train.wx.ssf -o outputs/train.utf.ssf -l hin
+
+-ie - Input encoding
+-oe - Output encoding
+-d -  Data format (ssf)
+-i -  Input file
+-o -  Output file
+"""
+
 import re, os
 import codecs
 import logging
@@ -19,20 +32,21 @@ def convert_encoding(filename, text_type, language, in_enc, out_enc):
 			for line in fp:
 				line = line.strip()
 				ds = line.split()
-				print("Line:--", ds)
+				#print("Line:--", ds)
 				if line == "":
 					output_data += u"\n"
-				elif line[0] == "<" or ds[0] == "))":
+				elif line[0] == "<":
 					output_data += u"%s\n" % (line)
+				elif ds[0] == "))":
+					output_data += u"\t%s\n" % (line)
 				elif ds[0] == "0" or ds[1] == "((":
 					output_data += u"%s\n" % (u"\t".join(ds))
 				elif ds[1] != "":
-					print("check", ds)
+					#print("check", ds)
 					word, tag = ds[1], ds[2]
 					word_con = converter.convert(word)
 					output_data += u"%s\t%s\t%s\n" % (ds[0], word_con, tag)
 				else:
-					print("check--",line)
 					pass
 			return output_data
 		else:
@@ -43,7 +57,7 @@ def convert_encoding(filename, text_type, language, in_enc, out_enc):
 			elif text_type == "conll":
 				converter = WXC(order='%s2%s' % (in_enc, out_enc), lang=language, format_='conll')
 			else:
-				print("Unknown Format", text_type)
+				raise Exception("Unknown Format %s" % text_type)
 				pass
        		text = fp.read()
         	output_data = converter.convert(text)
@@ -60,7 +74,7 @@ def get_args():
                         help="Input Encoding of the data (utf, wx)")
     parser.add_argument("-d", "--data_format", dest="data_format", type=str, metavar='<str>', required=True,
                         help="Data format (ssf, tnt, txt)")
-    parser.add_argument("-f", "--file_path", dest="file_path", type=str, metavar='<str>', required=True,
+    parser.add_argument("-i", "--input_path", dest="file_path", type=str, metavar='<str>', required=True,
                         help="File to be converted file path ex: data/test/telugu/test.wx.ssf")
     parser.add_argument("-o", "--output_path", dest="output_path", type=str, metavar='<str>', required=True,
                          help="The path to the output file ex: outputs/test.utf.ssf")
@@ -70,13 +84,10 @@ def get_args():
 
 if __name__ == "__main__":
 
-	curr_dir = path.dirname(path.abspath(__file__))
 	args = get_args()
 
-	filename = "%s/%s" % (curr_dir, args.file_path)
-	output_file = "%s/%s" % (curr_dir, args.output_path)
-	output_data=convert_encoding(filename, args.data_format, args.language, args.in_enc, args.out_enc)
-	write_to_file(output_data, output_file)
+	output_data=convert_encoding(args.input_path, args.data_format, args.language, args.in_enc, args.out_enc)
+	write_to_file(output_data, args.output_path)
 
 
 

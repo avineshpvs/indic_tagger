@@ -17,6 +17,34 @@ If you reuse this software, please use the following citation:
 }
 ```
 
+### Training Data Statistics and System Performances
+
+| Languages  |  # Word   | # Sent  |         Models           |
+| ---------- | ----------|---------|--------------------------|
+|            |           |         |           CRF            |
+|            |           |         |--------------------------|
+|            |           |         | POS Tagging |  Chunking  |
+|            |           |         |--------------------------|
+|   tel      |   347k    |   30k   |     93%     |    96%     |
+|------------|-----------|---------|-------------|------------|
+|   hin      |   350k    |  16.3k  |     93%     |    97%     |
+|------------|-----------|---------|-------------|------------|
+|   ben      |   298.3k  |  14.6k  |     84%     |    95%     |
+|------------|-----------|---------|-------------|------------|
+|   pun      |   152.5k  |  5.6k   |     92%     |    98%     |
+|------------|-----------|---------|-------------|------------|
+|   mar      |   207.9k  |  8.5k   |     89%     |    95%     |
+|------------|-----------|---------|-------------|------------|
+|   urd      |   158.9k  |  7.6k   |     90%     |    96%     |
+|------------|-----------|---------|-------------|------------|
+|   tam      |   337k    |  14.2k  |     88%     |    92%     |
+|------------|-----------|---------|-------------|------------|
+|   mal      |   192k    |  11.4k  |             |    95%     | 
+|------------|-----------|---------|-------------|------------|
+|   kan      |   294.3k  |  16.5k  |             |            |
+|------------|-----------|---------|-------------|------------|
+
+
 ### Install
 
 	pip install -r requirements
@@ -42,8 +70,9 @@ If you reuse this software, please use the following citation:
 
 ### ToDo List
 
-- [x] Telugu, Hindi utf, wx trained CRF
-- [ ] Bengali, Marathi, Punjabi,  utf, wx trained CRF
+- [x] Telugu, Hindi trained CRF models
+- [x] Bengali, Punjabi, Marathi, Urdu, Tamil trained CRF models
+- [ ] Malayalam, Kannada trained CRF models
 - [ ] HMM trained  
 - [ ] Maximum Entropy
 - [ ] Deep learning (CNN, LSTM, BI-LSTM)

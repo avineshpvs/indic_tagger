@@ -26,7 +26,7 @@ import logging
 import pickle
 import numpy as np
 from time import time
-import sklearn
+from sklearn.model_selection import train_test_split
 from tagger.src.algorithm.CRF import CRF
 
 logger = logging.getLogger(__name__)
@@ -42,13 +42,13 @@ def get_args():
                          help="Language of the dataset: tel (telugu), hin (hindi), tam (tamil), kan (kannada), pun (pubjabi)")
     parser.add_argument("-t", "--tag_type", dest="tag_type", type=str, metavar='<str>', required=True,
                          help="Tag type: pos, chunk, parse")
-    parser.add_argument("-m", "--model_type", dest="model_type", type=str, metavar='<str>', default='regp',
+    parser.add_argument("-m", "--model_type", dest="model_type", type=str, metavar='<str>', required=True,
                         help="Model type (crf|hmm|cnn|lstm:) (default=crf)")
-    parser.add_argument("-e", "--encoding", dest="encoding", type=str, metavar='<str>',
+    parser.add_argument("-e", "--encoding", dest="encoding", type=str, metavar='<str>', required=True,
                         help="Encoding of the data (utf8, wx)")
-    parser.add_argument("-f", "--data_format", dest="data_format", type=str, metavar='<str>',
+    parser.add_argument("-f", "--data_format", dest="data_format", type=str, metavar='<str>', required=True,
                         help="Data format (ssf, tnt, txt)")
-    parser.add_argument("-i", "--input_file", dest="test_data", type=str, metavar='<str>', required=True,
+    parser.add_argument("-i", "--input_file", dest="test_data", type=str, metavar='<str>', required=False,
                         help="Test data path ex: data/test/telugu/test.txt")
     parser.add_argument("-o", "--output_file", dest="output_path", type=str, metavar='<str>',
                          help="The path to the output file",
@@ -69,21 +69,21 @@ def pipeline():
     if args.pipeline_type == 'train':
         logger.info('Start Training#')
         logger.info('Tagger model type: %s' % (args.model_type))
-        train_data_path = "%s/data/train/%s/train.%s.%s" % (curr_dir, args.language, args.encoding, args.data_format)
-        test_data_path = "%s/%s" % (curr_dir, args.test_data)      
+        data_path = "%s/data/train/%s/train.%s.%s" % (curr_dir, args.language, args.encoding, args.data_format)
 
-        train_sents = data_reader.load_data(args.data_format, train_data_path, args.language)
-        test_sents = data_reader.load_data(args.data_format, test_data_path, args.language)
+        data_sents = data_reader.load_data(args.data_format, data_path, args.language)
 
-        X_train = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in train_sents ]
-        y_train = [ generate_features.sent2labels(s, args.tag_type) for s in train_sents ]
+        no_words = sum(len(sent) for sent in data_sents)
+        logger.info("No. of words: %d" % (no_words))
+        logger.info("No. of sents: %d" % (len(data_sents)))
 
-        X_test = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in test_sents ]
-        y_test = [ generate_features.sent2labels(s, args.tag_type) for s in test_sents ]
+        X_data = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in data_sents ]
+        y_data = [ generate_features.sent2labels(s, args.tag_type) for s in data_sents ]
+
+        X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.10, random_state=42)
 
         print('Train data size:', len(X_train), len(y_train))
         print('Test data size:', len(X_test), len(y_test))
-
 
         if args.model_type == "crf":
             tagger = CRF(model_path)
@@ -107,7 +107,7 @@ def pipeline():
     if args.pipeline_type == "predict":
 
         test_data_path = "%s" % (args.test_data)      
-        test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=True)
+        test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=True, split_sent=True)
         if args.tag_type == "parse":
             #Pos tagging
             X_test = [ generate_features.sent2features(s, "pos", args.model_type) for s in test_sents ]

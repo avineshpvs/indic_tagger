@@ -1,6 +1,3 @@
-import sys,os.path as path
-sys.path.append(path.dirname(path.dirname(path.dirname(path.abspath(__file__)))))
-
 import re, os
 import codecs
 import logging
@@ -8,7 +5,7 @@ from irtokz import IndicTokenizer
 
 logger = logging.getLogger(__name__)
 
-def load_data(text_type, filename, lang, tokenize_text=False):
+def load_data(text_type, filename, lang, tokenize_text=False, split_sent=True):
     data_tuple = []
     with codecs.open(filename, 'r', encoding='utf-8') as fp:
         logger.info('Loading text_type: %s format' % (text_type))
@@ -17,7 +14,8 @@ def load_data(text_type, filename, lang, tokenize_text=False):
             for line in fp:
                 line = line.strip()
                 ds = line.split()
-                #print ds
+                print("Line", line)
+                print("DS", ds)
                 if line == "":
                     continue
                 elif line[0:2] == "<S":
@@ -40,9 +38,8 @@ def load_data(text_type, filename, lang, tokenize_text=False):
                         sent.append((word, tag, "B-%s" % (chunk_tag)))
                         start_c = 0
                     if start_c == 0:
-                        sent.append((word, tag, "I-%s" % (chunk_tag)))
-                    
-        if text_type == "conll":
+                        sent.append((word, tag, "I-%s" % (chunk_tag)))          
+        elif text_type == "conll":
             sent = []
             for line in fp:
                 line = line.strip()
@@ -58,20 +55,28 @@ def load_data(text_type, filename, lang, tokenize_text=False):
                 else:
                     data_tuple.append(sent)
                     sent = []
-
-        if text_type == "txt":
-            for line in fp:
-                sent = []
-                if tokenize_text:
-                    tok = IndicTokenizer(lang=lang, split_sen=False)
-                    line = tok.tokenize(line)
-                tokens = line.split()
-                for token in tokens:
-                    sent.append([token, "", ""])
-                data_tuple.append(sent)
+        elif text_type == "txt":
+            if split_sent == True:
+                text = fp.read()
+                tok = IndicTokenizer(lang=lang, split_sen=False)
+                tokenize_sents = tok.tokenize(text)
+                for line in tokenize_sents:
+                    sent = []
+                    tokens = line.split()
+                    for token in tokens:
+                        sent.append([token, "", ""])
+                    data_tuple.append(sent)
+            else:
+                for line in fp:
+                    sent = []
+                    if tokenize_text:
+                        tok = IndicTokenizer(lang=lang, split_sen=False)
+                        line = tok.tokenize(line)
+                    tokens = line.split()
+                    for token in tokens:
+                        sent.append([token, "", ""])
+                    data_tuple.append(sent)
         else:
-            raise Exception("Check for the format option: ssf, conll, txt")
+            print("Check - text_type", text_type)
 
     return data_tuple
-
-  
