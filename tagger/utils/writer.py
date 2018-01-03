@@ -6,7 +6,6 @@ def write_to_file(text, filename):
     with codecs.open(filename, 'w', encoding='utf8', errors='ignore') as fp:
     	fp.write(text)
 
-
 def write_anno_to_file(filename, X_data, y_data, tag_type):
 	with codecs.open(filename, 'w', encoding='utf8', errors='ignore') as fp:
 		text = ""
@@ -25,6 +24,17 @@ def write_to_screen(filename):
         text = fp.read()
         print(text)
  
+def mkdirp(path):
+    if path == '':
+        return
+    try:
+        os.makedirs(path)
+    except OSError as exc:  # Python >2.5
+        if exc.errno == errno.EEXIST and os.path.isdir(path):
+            pass
+        else:
+            raise
+
 def set_logger(method, out_dir=None):
     console_format = '[%(levelname)s] (%(name)s) %(message)s'
     logger = logging.getLogger()

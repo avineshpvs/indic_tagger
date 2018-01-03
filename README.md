@@ -41,13 +41,13 @@ If you reuse this software, please use the following citation:
 
 ### Run
 
-	python tagger_pipeline.py -p predict -l tel -t pos -m crf -f text -e utf -i input_file -o output_file
+	python pipeline.py -p predict -l tel -t pos -m crf -f txt -e utf -i input_file -o output_file
 	
     -l, --languages         select language (3 letter ISO-639 code) {hin,
                             ben, mal, pan, tel, tam, kan, mar}
     -t, --tag_type      	pos, chunk
     -m, --model_type    	crf, hmm, cnn, lstm
-    -f, --data_format   	ssf, tnt, text
+    -f, --data_format   	ssf, tnt, txt, conll
     -e, --encoding      	utf8, wx
     -i, --input_file        <input-file>
     -o, --output_file       <output-file>
@@ -59,7 +59,8 @@ If you reuse this software, please use the following citation:
 
 - [x] Telugu, Hindi trained CRF models
 - [x] Bengali, Punjabi, Marathi, Urdu, Tamil trained CRF models
-- [ ] Malayalam, Kannada trained CRF models
+- [ ] Bug: Utf-8 error Malayalam, Kannada trained CRF models
+- [ ] Bug: Punjabi & Urdu training file doesn't have "|" (or) end of sentence marker. 
 - [ ] HMM trained  
 - [ ] Maximum Entropy
 - [ ] Deep learning (CNN, LSTM, BI-LSTM)

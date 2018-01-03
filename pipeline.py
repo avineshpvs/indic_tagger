@@ -9,13 +9,14 @@ python pipeline.py -p train -o outputs -l tel -t chunk -m crf -i data/test/tel/t
     -t, --tag_type      - pos, chunk
     -m, --model_type    - crf, hmm, cnn, lstm
     -f, --data_format   - ssf, tnt, text
-    -e, --encoding      - utf8, wx
+    -e, --encoding      - utf8, wx (default: utf8)
     -i, --input_file    - path to the test data file
     -o, --output_file   - path to the output file
-    
+    -s, --sent_split    - split the sentences in the test data (default: True)
 '''
 
 import sys, os.path as path
+import os
 sys.path.append(path.dirname(path.abspath(__file__)))
 
 import tagger.src.data_reader as data_reader
@@ -44,24 +45,30 @@ def get_args():
                          help="Tag type: pos, chunk, parse")
     parser.add_argument("-m", "--model_type", dest="model_type", type=str, metavar='<str>', required=True,
                         help="Model type (crf|hmm|cnn|lstm:) (default=crf)")
-    parser.add_argument("-e", "--encoding", dest="encoding", type=str, metavar='<str>', required=True,
-                        help="Encoding of the data (utf8, wx)")
+    parser.add_argument("-e", "--encoding", dest="encoding", type=str, metavar='<str>', required=False,
+                        help="Encoding of the data (utf8, wx)",
+                        default="utf8")
     parser.add_argument("-f", "--data_format", dest="data_format", type=str, metavar='<str>', required=True,
                         help="Data format (ssf, tnt, txt)")
     parser.add_argument("-i", "--input_file", dest="test_data", type=str, metavar='<str>', required=False,
                         help="Test data path ex: data/test/telugu/test.txt")
+    parser.add_argument("-s", "--sent_split", dest="sent_split", type=str, metavar='<str>', required=False,
+                        help="Test data path ex: data/test/telugu/test.txt",
+                        default=True)
     parser.add_argument("-o", "--output_file", dest="output_path", type=str, metavar='<str>',
                          help="The path to the output file",
                          default=path.join(path.dirname(path.abspath(__file__)), "outputs", "output_file"))
-
-
     return parser.parse_args()
 
 def pipeline():
     curr_dir = path.dirname(path.abspath(__file__))
     args = get_args()
 
-    data_writer.set_logger(args.model_type, path.join(path.dirname(path.abspath(__file__)), "outputs"))
+    output_dir = path.join(path.dirname(path.abspath(__file__)), "outputs")
+    if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+
+    data_writer.set_logger(args.model_type, output_dir) 
 
     if args.tag_type != "parse":
         model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, args.tag_type, args.encoding)    
@@ -107,7 +114,7 @@ def pipeline():
     if args.pipeline_type == "predict":
 
         test_data_path = "%s" % (args.test_data)      
-        test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=True, split_sent=True)
+        test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=True, split_sent=args.sent_split)
         if args.tag_type == "parse":
             #Pos tagging
             X_test = [ generate_features.sent2features(s, "pos", args.model_type) for s in test_sents ]
@@ -128,10 +135,10 @@ def pipeline():
                 y_chunk = chunker.predict(X_test)
 
                 test_fname = path.basename(test_data_path)
-                output_file = "%s/%s.parse" % (args.output_path, test_fname)
+                output_file = "%s/%s.parse" % (output_dir, test_fname)
                 data_writer.write_anno_to_file(output_file, test_sents_pos, y_chunk, "chunk")
                 logger.info("Output in: %s" % output_file)
-                # data_writer.write_to_screen(output_file)
+                data_writer.write_to_screen(output_file)
         else:            
             X_test = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in test_sents ]
 
@@ -140,11 +147,10 @@ def pipeline():
                 tagger.load_model()
                 y_pred = tagger.predict(X_test)
             
-                output_file = "%s" % (args.output_path)
+                output_file = "%s/%s" % (output_dir, args.output_path)
                 data_writer.write_anno_to_file(output_file, test_sents, y_pred, args.tag_type)
                 logger.info("Output in: %s" % output_file)
-            
-
+                data_writer.write_to_screen(output_file)
         
 if __name__ == '__main__':
     pipeline()
