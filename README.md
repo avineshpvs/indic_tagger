@@ -17,7 +17,7 @@ If you reuse this software, please use the following citation:
 }
 ```
 
-### Training Data Statistics (#Words and # Sents)and System Performances (F1 macro)
+### Training Data Statistics and System Performances (F1 macro)
 
 | Languages  |  # Words  | # Sents |  CRF POS    | CRF Chunk  |
 | ---------- | ----------|---------|-------------|------------|
