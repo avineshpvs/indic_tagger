@@ -39,21 +39,24 @@ If you reuse this software, please use the following citation:
 	pip install git+git://github.com/irshadbhat/indic-tokenizer.git
 
 
-### Run
+### Run 
 
-	python pipeline.py -p predict -l tel -t pos -m crf -f txt -e utf -i input_file -o output_file
-	
-    -l, --languages         select language (3 letter ISO-639 code) {hin,
-                            ben, mal, pan, tel, tam, kan, mar}
-    -t, --tag_type      	pos, chunk
+    python pipeline.py -p predict -l tel -t pos -m crf -f txt -e utf -i input_file -o output_file
+
+    -l, --languages       select language (3 letter ISO-639 code) 
+                          {hin, ben, mal, pun, tel, tam, kan, mar, urd}
+    -t, --tag_type      	pos, chunk, parse
     -m, --model_type    	crf, hmm, cnn, lstm
     -f, --data_format   	ssf, tnt, txt, conll
-    -e, --encoding      	utf8, wx
-    -i, --input_file        <input-file>
-    -o, --output_file       <output-file>
+    -e, --encoding      	utf8, wx   (default: utf8)
+    -i, --input_file      <input-file>
+    -o, --output_file     <output-file>
+    -s, --sent_split      True/False (default: True)
 	
-	python tagger_pipeline.py --help 
+    python pipeline.py --help 
 
+    To Train:
+    python pipeline.py -p train -o outputs -l tel -t pos -m crf -e utf -f ssf
 
 ### ToDo List
 
