@@ -2,7 +2,7 @@
 
 In this project, we build part-of-speech (POS) taggers and chunkers for Indian Languages.
 
-Languages supported: Telugu, Hindi, Tamil, Marathi, Punjabi, Kannada, Malayalam
+Languages supported: Telugu, Hindi, Tamil, Marathi, Punjabi, Kannada, Malayalam, Urdu, Bengali
 
 If you reuse this software, please use the following citation:
 
