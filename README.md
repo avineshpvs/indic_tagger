@@ -28,8 +28,8 @@ If you reuse this software, please use the following citation:
 |   mar      |   207.9k  |  8.5k   |     89%     |    95%     |
 |   urd      |   158.9k  |  7.6k   |     90%     |    96%     |
 |   tam      |   337k    |  14.2k  |     88%     |    92%     |
-|   mal      |   192k    |  11.4k  |             |    95%     | 
-|   kan      |   294.3k  |  16.5k  |             |            |
+|   mal      |   192k    |  11.4k  |     96%     |    95%     | 
+|   kan      |   294.3k  |  16.5k  |     90%     |    98%     |
 
 
 ### Install
@@ -62,7 +62,7 @@ If you reuse this software, please use the following citation:
 
 - [x] Telugu, Hindi trained CRF models
 - [x] Bengali, Punjabi, Marathi, Urdu, Tamil trained CRF models
-- [ ] Bug: Utf-8 error Malayalam, Kannada trained CRF models
+- [x] Bug: Utf-8 error Malayalam, Kannada trained CRF models
 - [ ] Bug: Punjabi & Urdu training file doesn't have "|" (or) end of sentence marker. 
 - [ ] HMM trained  
 - [ ] Maximum Entropy
