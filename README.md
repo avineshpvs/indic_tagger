@@ -58,6 +58,9 @@ If you reuse this software, please use the following citation:
     To Train:
     python pipeline.py -p train -o outputs -l tel -t pos -m crf -e utf -f ssf
 
+    To Test Spacy Model:
+    python spacy_tagger_test.py -l te -t pos
+
 ### ToDo List
 
 - [x] Telugu, Hindi trained CRF models
