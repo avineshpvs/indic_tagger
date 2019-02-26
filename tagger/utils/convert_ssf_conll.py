@@ -53,7 +53,12 @@ def convert_format(sents, filename):
 	with codecs.open(filename, 'w', encoding='utf8', errors='ignore') as fp:
 		for sent in sents:
 			for index, item in enumerate(sent):
-				fp.write(str(index+1) + "\t" + "\t".join(item) + "\n")
+				tag = item[1].replace("?","").replace(":","")
+				chunk = item[2].replace("?","").replace(":","")
+				word = item[0].replace("?","").replace(":","")
+				if tag:
+					if word:
+						fp.write(str(index+1) + "\t" + word +"\t" + tag+"\t"+chunk + "\n")
 			fp.write("\n")
 
 def get_args():

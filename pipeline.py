@@ -15,6 +15,8 @@ python pipeline.py -p train -o outputs -l tel -t chunk -m crf -i data/test/tel/t
     -s, --sent_split    - split the sentences in the test data (default: True)
 '''
 
+import anago
+from anago.utils import load_data_and_labels 
 import sys, os.path as path
 import os
 sys.path.append(path.dirname(path.abspath(__file__)))
@@ -72,6 +74,11 @@ def pipeline():
 
     if args.tag_type != "parse":
         model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, args.tag_type, args.encoding)    
+        if args.model_type == "lstm":
+              model_path = "%s/models/%s/lstm/" % (curr_dir, args.language)    
+              if not os.path.exists(model_path):
+                  os.makedirs(model_path)
+            
 
     if args.pipeline_type == 'train':
         logger.info('Start Training#')
@@ -87,26 +94,39 @@ def pipeline():
         X_data = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in data_sents ]
         y_data = [ generate_features.sent2labels(s, args.tag_type) for s in data_sents ]
 
-        X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.10, random_state=42)
+        X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.90, random_state=42)
 
         print('Train data size:', len(X_train), len(y_train))
         print('Test data size:', len(X_test), len(y_test))
+        print('Lang:', args.language)
 
         if args.model_type == "crf":
             tagger = CRF(model_path)
+            tagger.train(X_train, y_train)
+            tagger.load_model()
+            tagger.test(X_test, y_test)
+        elif args.model_type == "lstm":
+            x_data , y_data1 = load_data_and_labels(data_path) #Load data from train_test.txt file
+            x_train, x_test, y_train1, y_test1 = train_test_split(x_data, y_data1, test_size=0.10, random_state=42) #Split the data into train and test
+            model = anago.Sequence() #Intialize BiLSTM model
+            model.fit(x_train, y_train1, epochs=10) #Train the model for 10 echos
 
-        tagger.train(X_train, y_train)
-        tagger.load_model()
-        tagger.test(X_test, y_test)
+            print(model.score(x_test, y_test1)) #Run the model on test data
+            model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
 
     if args.pipeline_type == "test":
-        test_data_path = "%s/%s" % (curr_dir, args.test_data)      
-
-        test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=False)
-        X_test = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in test_sents ]
-        y_test = [ generate_features.sent2labels(s, args.tag_type) for s in test_sents ]
+        if args.model_type == "lstm":
+            model = anago.Sequence.load(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
+            f = open(args.test_data, "r")
+            sent = f.read() 
+            print(model.analyze(sent))
 
         if args.model_type == "crf":
+            test_data_path = "%s/%s" % (curr_dir, args.test_data)      
+
+            test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=False)
+            X_test = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in test_sents ]
+            y_test = [ generate_features.sent2labels(s, args.tag_type) for s in test_sents ]
             tagger = CRF(model_path)
             tagger.load_model()
             tagger.test(X_test, y_test)
