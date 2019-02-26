@@ -35,6 +35,8 @@ If you reuse this software, please use the following citation:
 ### Install
 
 	pip install -r requirements
+	
+	pip install anago
 
 	pip install git+git://github.com/irshadbhat/indic-tokenizer.git
 
@@ -58,6 +60,12 @@ If you reuse this software, please use the following citation:
     To Train:
     python pipeline.py -p train -o outputs -l tel -t pos -m crf -e utf -f ssf
 
+    To Train LSTM models:
+    python pipeline.py -p train -t pos -f conll -m lstm -e utf -l kan
+    
+    To Test LSTM models:
+    python pipeline.py -p test -t pos -f conll -m lstm -e utf -l kan -i data/test/kan/test.utf.txt
+    
     To Test Spacy Model:
     python spacy_tagger_test.py -l te -t pos
 
