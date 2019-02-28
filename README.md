@@ -36,8 +36,6 @@ If you reuse this software, please use the following citation:
 
 	pip install -r requirements
 	
-	pip install anago
-
 	pip install git+git://github.com/irshadbhat/indic-tokenizer.git
 
 
