@@ -7,7 +7,7 @@ from keras.layers import Dense, LSTM, Bidirectional, Embedding, Input, Dropout, 
 from keras.layers.merge import Concatenate
 from keras.models import Model, model_from_json
 
-from anago.layers import CRF
+from lstmcrf.layers import CRF
 
 
 def save_model(model, weights_file, params_file):

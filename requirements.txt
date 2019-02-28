@@ -1,3 +1,11 @@
 numpy>=1.12.0
 python_crfsuite>=0.9.5
 scikit_learn>=0.19.1
+keras-preprocessing>=1.0.5
+scipy>=0.14
+keras-applications>=1.0.6
+werkzeug>=0.11.10
+tensorflow>=1.8.0
+anago==1.0.8
+Keras>=2.2.0
+

@@ -15,8 +15,9 @@ python pipeline.py -p train -o outputs -l tel -t chunk -m crf -i data/test/tel/t
     -s, --sent_split    - split the sentences in the test data (default: True)
 '''
 
-import anago
-from anago.utils import load_data_and_labels 
+import lstmcrf
+from lstmcrf.utils import load_data_and_labels 
+from lstmcrf.wrapper import Sequence
 import sys, os.path as path
 import os
 sys.path.append(path.dirname(path.abspath(__file__)))
@@ -106,17 +107,17 @@ def pipeline():
             tagger.load_model()
             tagger.test(X_test, y_test)
         elif args.model_type == "lstm":
-            x_data , y_data1 = load_data_and_labels(data_path) #Load data from train_test.txt file
+            x_data , y_data1, y_data2 = load_data_and_labels(data_path) #Load data from train_test.txt file
             x_train, x_test, y_train1, y_test1 = train_test_split(x_data, y_data1, test_size=0.10, random_state=42) #Split the data into train and test
-            model = anago.Sequence() #Intialize BiLSTM model
-            model.fit(x_train, y_train1, epochs=10) #Train the model for 10 echos
+            model = Sequence() #Intialize BiLSTM model
+            model.fit(x_train, y_train1, epochs=1) #Train the model for 10 echos
 
             print(model.score(x_test, y_test1)) #Run the model on test data
             model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
 
     if args.pipeline_type == "test":
         if args.model_type == "lstm":
-            model = anago.Sequence.load(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
+            model = Sequence().load(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
             f = open(args.test_data, "r")
             sent = f.read() 
             print(model.analyze(sent))

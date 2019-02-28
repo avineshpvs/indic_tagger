@@ -1,7 +1,7 @@
 """Training-related module.
 """
-from anago.callbacks import F1score
-from anago.utils import NERSequence
+from lstmcrf.callbacks import F1score
+from lstmcrf.utils import NERSequence
 
 
 class Trainer(object):
