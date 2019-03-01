@@ -42,7 +42,7 @@ def load_data_and_labels(filename, encoding='utf-8'):
                    clabels.append(chunks)
                 words, tags, chunks = [], [], []
 
-    return sents, labels, chunks
+    return sents, labels, clabels 
 
 
 class NERSequence(Sequence):

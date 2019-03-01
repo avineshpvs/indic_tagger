@@ -76,7 +76,10 @@ def pipeline():
     if args.tag_type != "parse":
         model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, args.tag_type, args.encoding)    
         if args.model_type == "lstm":
-              model_path = "%s/models/%s/lstm/" % (curr_dir, args.language)    
+              if args.tag_type == "pos":
+                  model_path = "%s/models/%s/lstm/" % (curr_dir, args.language)    
+              elif args.tag_type == "chunk":
+                  model_path = "%s/models/%s/lstm/chunk/" % (curr_dir, args.language)    
               if not os.path.exists(model_path):
                   os.makedirs(model_path)
             
@@ -95,7 +98,7 @@ def pipeline():
         X_data = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in data_sents ]
         y_data = [ generate_features.sent2labels(s, args.tag_type) for s in data_sents ]
 
-        X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.90, random_state=42)
+        X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.10, random_state=42)
 
         print('Train data size:', len(X_train), len(y_train))
         print('Test data size:', len(X_test), len(y_test))
@@ -107,13 +110,19 @@ def pipeline():
             tagger.load_model()
             tagger.test(X_test, y_test)
         elif args.model_type == "lstm":
-            x_data , y_data1, y_data2 = load_data_and_labels(data_path) #Load data from train_test.txt file
-            x_train, x_test, y_train1, y_test1 = train_test_split(x_data, y_data1, test_size=0.10, random_state=42) #Split the data into train and test
-            model = Sequence() #Intialize BiLSTM model
-            model.fit(x_train, y_train1, epochs=1) #Train the model for 10 echos
-
-            print(model.score(x_test, y_test1)) #Run the model on test data
-            model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
+            x_data , y_data1, y_data2 = load_data_and_labels(data_path) 
+            if args.tag_type == "pos":
+               x_train, x_test, y_train1, y_test1 = train_test_split(x_data, y_data1, test_size=0.10, random_state=42) #Split the data into train and test
+               model = Sequence() #Intialize BiLSTM model
+               model.fit(x_train, y_train1, epochs=10) #Train the model for 10 echos
+               print(model.score(x_test, y_test1)) #Run the model on test data
+               model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
+            if args.tag_type == "chunk":
+               x_train, x_test, y_train2, y_test2 = train_test_split(x_data, y_data2, test_size=0.10, random_state=42) #Split the data into train and test
+               model = Sequence() #Intialize BiLSTM model
+               model.fit(x_train, y_train2, epochs=10) #Train the model for 10 echos
+               print(model.score(x_test, y_test2)) #Run the model on test data
+               model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
 
     if args.pipeline_type == "test":
         if args.model_type == "lstm":
