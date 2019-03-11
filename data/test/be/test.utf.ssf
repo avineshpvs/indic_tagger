@@ -1,0 +1,12075 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Bangla">
+<Sentence id=1>
+1	মহিষের	NN
+2	সন্তান	NN
+3	:	SYM
+4	তোড়া	NNP
+5	উপজাতি	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=2>
+1	বাসস্থান-ঘরগৃহস্থালি	NN
+2	তোড়া	NNP
+3	ভাষায়	NN
+4	গ্রামকেও	NN
+5	বলে	VM
+6	`	SYM
+7	মোদ	NN
+8	'	SYM
+9	৷	SYM
+</Sentence>
+<Sentence id=3>
+1	মোদের	NN
+2	আয়তন	NN
+3	খুব	INTF
+4	বড়ো	JJ
+5	নয়	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=4>
+1	প্রতি	QF
+2	মোদে	NN
+3	আছে	VM
+4	কিছু	QF
+5	কুঁড়েঘর	NN
+6	,	SYM
+7	সাধারণ	JJ
+8	মহিষশালা	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=5>
+1	আর	CC
+2	গ্রামের	NN
+3	বাইরে	NST
+4	থাকে	VM
+5	ডেয়ারি-মন্দির	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=6>
+1	আয়তনের	NN
+2	তারতম্য	NN
+3	অনুসারে	PSP
+4	গ্রামগুলি	NN
+5	দু	QC
+6	রকমের	NN
+7	:	SYM
+8	এতূডমোদ	NNP
+9	(	SYM
+10	বড়ো	JJ
+11	গ্রাম	NN
+12	)	SYM
+13	ওকিনমোদ	NNP
+14	(	SYM
+15	ছোট	JJ
+16	গ্রাম	NN
+17	)	SYM
+18	৷	SYM
+</Sentence>
+<Sentence id=7>
+1	কোন	DEM
+2	কোন	RDP
+3	গ্রামের	NN
+4	আবার	CC
+5	ধর্মীয়	JJ
+6	বাC﻿মহিষের	NN
+7	সন্তান	NN
+8	:	SYM
+9	তোড়া	NNP
+10	উপজাতি	NN
+11	৷	SYM
+</Sentence>
+<Sentence id=8>
+1	িকে	PRP
+2	বলে	VM
+3	`	SYM
+4	সোতি-মোদ	NNP
+5	'	SYM
+6	৷	SYM
+</Sentence>
+<Sentence id=9>
+1	কুঁড়েঘরগুলির	NN
+2	আকার	NN
+3	বাংলার	NNP
+4	বা	CC
+5	ভারতের	NNP
+6	অন্য	JJ
+7	অঞ্চলের	NN
+8	প্রচলিত	JJ
+9	কুঁড়ে	NN
+10	ঘর	NN
+11	নয়	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=10>
+1	এগুলি	PRP
+2	দেখতে	NN
+3	শোয়ানো	JJ
+4	পিপের	NN
+5	মতো	PSP
+6	৷	SYM
+</Sentence>
+<Sentence id=11>
+1	এক	QC
+2	দিকের	PSP
+3	বাঁশের	NN
+4	কাঠামো	NN
+5	খিলানের	NN
+6	মতো	PSP
+7	বেঁকে	JJ
+8	গিয়ে	VM
+9	অন্যদিকের	NN
+10	মাটিতে	NN
+11	মিশেছে	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=12>
+1	সেগুলি	PRP
+2	বেত	NN
+3	জাতীয়	JJ
+4	লতা	NN
+5	দিয়ে	PSP
+6	পরস্পর	NN
+7	বাঁধা	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=13>
+1	ঘরগুলি	NN
+2	লম্বায়	NN
+3	18	QC
+4	ফুট	NN
+5	,	SYM
+6	চওড়ায়	NN
+7	9	QC
+8	ফুট	NN
+9	আর	CC
+10	উচ্চতায়	NN
+11	10	QC
+12	ফুটের	NN
+13	মতো	PSP
+14	৷	SYM
+</Sentence>
+<Sentence id=14>
+1	উপরের	NST
+2	ঢালু	JJ
+3	চাল	NN
+4	ঘাস-পাতা	NN
+5	দিয়ে	PSP
+6	মোটা	JJ
+7	করে	PSP
+8	ছাওয়া	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=15>
+1	যাতে	CC
+2	বৃষ্টির	NN
+3	জল	NN
+4	ভেতরে	NST
+5	ঢুকতে	VM
+6	না	NEG
+7	পারে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=16>
+1	কুঁড়ের	NN
+2	সামনের	NST
+3	দিকে	PSP
+4	একটি	QC
+5	মাত্র	QF
+6	দরজা	NN
+7	,	SYM
+8	আর	CC
+9	কোথাও	WQ
+10	কোন	QF
+11	রকমের	NN
+12	জানলা	NN
+13	বা	CC
+14	ঘুলঘুলি	NN
+15	নেই	VM
+16	৷	
+</Sentence>
+<Sentence id=17>
+1	ঘরের	NN
+2	ভেতরে	NST
+3	ডানদিকের	NN
+4	মেঝে	NN
+5	কিছুটা	QF
+6	উঁচু	JJ
+7	করে	PSP
+8	তোলা	VM
+9	-	SYM
+10	সেটি	PRP
+11	তাদের	PRP
+12	শোবার	NN
+13	জায়গা	NN
+14	৷	SYM
+</Sentence>
+<Sentence id=18>
+1	বাঁদিকে	NN
+2	অগ্নিকুণ্ড	NN
+3	-	SYM
+4	তার	PRP
+5	পাশে	NST
+6	রান্না	NN
+7	করার	VM
+8	জায়গা	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=19>
+1	সেখানেও	PRP
+2	মেঝে	NN
+3	কিছুটা	QF
+4	উঁচু	JJ
+5	-	SYM
+6	রান্নার	NN
+7	সরঞ্জাম	NN
+8	ও	CC
+9	বাসনকোসন	NN
+10	থাকে	VM
+11	সেখানে	PRP
+12	৷	SYM
+</Sentence>
+<Sentence id=20>
+1	প্রতিটি	QF
+2	ঘরের	NN
+3	ভেতরে	NST
+4	একটা	QC
+5	নির্দিষ্ট	JJ
+6	জায়গায়	NN
+7	থাকে	VM
+8	চাল	NN
+9	গুঁড়ো	NN
+10	করার	VM
+11	মুষল	NN
+12	৷	SYM
+</Sentence>
+<Sentence id=21>
+1	কুঁড়েগুলি	NN
+2	সাধারণত	RB
+3	চারপাশে	NST
+4	বেড়া	NN
+5	দিয়ে	VM
+6	ঘেরা	NN
+7	থাকে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=22>
+1	আজকাল	RB
+2	সহায়তায়	NN
+3	তোড়াদের	NNP
+4	জন্য	PSP
+5	কিছু	QF
+6	পাকাবাড়ী	NN
+7	করে	VM
+8	দেওয়া	VAUX
+9	হয়েছে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=23>
+1	জীবনযাপনের	NN
+2	জন্য	PSP
+3	প্রয়োজনীয়	JJ
+4	জিনিসপত্র	NN
+5	যাতে	CC
+6	তারা	PRP
+7	পায়	VM
+8	তারজন্যে	CC
+9	গ্রামের	NN
+10	কাছাকাছি	NST
+11	কিছুটা	QF
+12	করে	PSP
+13	জমি	NN
+14	তাদের	PRP
+15	পাট্টা	NN
+16	দেওয়া	VM
+17	হয়েছে	VAUX
+18	৷	SYM
+</Sentence>
+<Sentence id=24>
+1	এই	DEM
+2	জঙ্গল	NN
+3	এলাকায়	NN
+4	তারা	PRP
+5	স্বচ্ছন্দে	RB
+6	মোষ	NN
+7	চরাতে	VM
+8	পারে	VAUX
+9	,	SYM
+10	বন	NN
+11	থেকে	PSP
+12	জ্বালানি	NN
+13	সংগ্রহ	NN
+14	করতে	VM
+15	পারে	VAUX
+16	৷	SYM
+</Sentence>
+<Sentence id=25>
+1	এমন	DEM
+2	পাট্টা	NN
+3	জমির	NN
+4	সর্বমোট	JJ
+5	পরিমাণ	NN
+6	2795	QC
+7	একর	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=26>
+1	বাসের	NN
+2	ঘরের	NN
+3	পাশেই	NST
+4	থাকে	VM
+5	সাধারণ	JJ
+6	মহিষশালা	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=27>
+1	মোষ	NN
+2	ও	CC
+3	তাদের	PRP
+4	বাছুরের	NN
+5	জন্য	PSP
+6	আলাদা	JJ
+7	আলাদা	RDP
+8	খোঁয়াড়ের	NN
+9	ব্যবস্থা	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=28>
+1	ধর্মীয়	JJ
+2	মহিষশালা	NN
+3	ও	CC
+4	ডেয়ারিগুলি	NN
+5	থাকে	VM
+6	গ্রাম	NN
+7	থেকে	PSP
+8	বেশ	INTF
+9	কিছুটা	QF
+10	দূরে	NST
+11	,	SYM
+12	সাধারণের	NN
+13	স্পর্শ	NN
+14	বাঁচিয়ে	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=29>
+1	গ্রামের	NN
+2	পাশে	NST
+3	যেখানে	PRP
+4	জলের	NN
+5	উত্স	NN
+6	আছে	VM
+7	সেখানেই	PRP
+8	এই	DEM
+9	ডেয়ারিগুলি	NN
+10	স্থাপিত	JJ
+11	৷	SYM
+</Sentence>
+<Sentence id=30>
+1	এখানে	PRP
+2	মোষ	NN
+3	,	SYM
+4	বাছুর	NN
+5	ও	CC
+6	অতি	INTF
+7	ছোট	JJ
+8	বাছুরের	NN
+9	জন্য	PSP
+10	তিন	QC
+11	রকমের	NN
+12	গোয়ালের	NN
+13	বন্দোবস্ত	NN
+14	৷	SYM
+</Sentence>
+<Sentence id=31>
+1	তোড়াদের	NN
+2	জীবনযাপন	NN
+3	প্রণালী	NN
+4	অভিজাত	JJ
+5	,	SYM
+6	কিন্তু	CC
+7	তারা	PRP
+8	দরিদ্র	JJ
+9	৷	SYM
+</Sentence>
+<Sentence id=32>
+1	আর্থিক	JJ
+2	সঙ্গতি	NN
+3	কারো	PRP
+4	নেই	NEG
+5	৷	SYM
+</Sentence>
+<Sentence id=33>
+1	তাদের	PRP
+2	ঘরে	NN
+3	আসবাব	NN
+4	বলতে	UT
+5	কিছু	QF
+6	নেই	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=34>
+1	তারা	PRP
+2	চাষ	NN
+3	করে	VM
+4	না	NEG
+5	,	SYM
+6	পশু	NN
+7	বা	CC
+8	মাছ	NN
+9	মারে	VM
+10	না	NEG
+11	৷	SYM
+</Sentence>
+<Sentence id=35>
+1	এ	DEM
+2	জন্য	PSP
+3	তাদের	PRP
+4	আছে	VM
+5	শুধু	QF
+6	দা	NN
+7	আর	CC
+8	কুড়ুল	NN
+9	যার	PRP
+10	প্রয়োজন	NN
+11	হয়	VM
+12	কাঠ	NN
+13	কাটার	VM
+14	জন্য	PSP
+15	৷	SYM
+</Sentence>
+<Sentence id=36>
+1	আর	CC
+2	আছে	VM
+3	তীর	XC
+4	ধনুক	NN
+5	,	SYM
+6	শিকারের	NN
+7	জন্য	PSP
+8	অবশ্যই	RB
+9	নয়	NEG
+10	-	SYM
+11	ধর্মীয়	JJ
+12	তাত্পর্য্য	NN
+13	আছে	VM
+14	বলে	UT
+15	৷	SYM
+</Sentence>
+<Sentence id=37>
+1	আর	CC
+2	কিছুটা	QF
+3	আত্মরক্ষার	NN
+4	প্রয়োজনে	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=38>
+1	পশুপালনের	NN
+2	জন্য	PSP
+3	এবং	CC
+4	ঘি	NN
+5	দুধ	NN
+6	মাখন	NN
+7	রাখার	VM
+8	জন্য	PSP
+9	প্রয়োজনীয়	NN
+10	নানারকম	JJ
+11	সরঞ্জাম	NN
+12	ও	CC
+13	পাত্র	NN
+14	তারা	PRP
+15	প্রতিবেশী	NN
+16	কোটাদের	NNP
+17	কাছ	NST
+18	থেকে	PSP
+19	কেনে	VM
+20	৷	SYM
+</Sentence>
+<Sentence id=39>
+1	কোটারা	NNP
+2	শিল্পীর	NN
+3	জাত	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=40>
+1	তোড়ারা	NNP
+2	নিরামিষাশী	JJ
+3	৷	SYM
+</Sentence>
+<Sentence id=41>
+1	তবে	CC
+2	বিশেষ	JJ
+3	কোন	QF
+4	উত্সব	NN
+5	অনুষ্ঠানে	NN
+6	তারা	PRP
+7	দেবতাকে	NN
+8	উত্সর্গ	NN
+9	করা	VM
+10	মাংস	NN
+11	খেয়ে	VM
+12	থাকে	VAUX
+13	৷	SYM
+</Sentence>
+<Sentence id=42>
+1	আগে	NST
+2	তারা	PRP
+3	ঘি	NN
+4	দুধ	NN
+5	মধু	NN
+6	ফলমূল	NN
+7	খেয়ে	VM
+8	বেঁচে	VM
+9	থাকতVAUX	
+10	৷	SYM
+</Sentence>
+<Sentence id=43>
+1	এখন	PRP
+2	খাদ্যাভ্যাস	NN
+3	বদলেছে	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=44>
+1	চালের	NN
+2	পায়েস	NN
+3	এখন	PRP
+4	এদের	PRP
+5	প্রিয়	JJ
+6	খাদ্যবস্তু	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=45>
+1	তোড়াদের	NNP
+2	ধর্মকর্ম	NN
+3	সমস্তই	QF
+4	মোষ	NN
+5	এবং	CC
+6	ডেয়ারির	NN
+7	সঙ্গে	PSP
+8	সম্পর্কিত	JJ
+9	৷	SYM
+</Sentence>
+<Sentence id=46>
+1	এদের	PRP
+2	ধর্ম-দর্শন	NN
+3	নিয়ে	PSP
+4	তেমন	PRP
+5	গবেষণা	NN
+6	হয়নি	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=47>
+1	এ	DEM
+2	বিষয়ে	NN
+3	আরো	QF
+4	বিস্তৃত	RB
+5	ও	CC
+6	ব্যাপকভাবে	RB
+7	অনুসন্ধানের	NN
+8	প্রয়োজন	NN
+9	আছে	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=48>
+1	সাধারণভাবে	RB
+2	বলা	VM
+3	চলে	VAUX
+4	পবিত্র	JJ
+5	মোষের	NN
+6	দুধ	NN
+7	দোয়া	VM
+8	,	SYM
+9	সেই	PRP
+10	দুধ	NN
+11	থেকে	PSP
+12	মাখন	NN
+13	তোলা	VM
+14	ও	CC
+15	তার	PRP
+16	থেকে	PSP
+17	ঘি	NN
+18	প্রস্তুত	NN
+19	করা	VM
+20	হল	VM
+21	তোড়াদের	NN
+22	সর্বপ্রধান	JJ
+23	ধর্মকর্ম	NN
+24	৷	SYM
+</Sentence>
+<Sentence id=49>
+1	গ্রাম	NN
+2	থেকে	PSP
+3	দূরে	JJ
+4	পবিত্র	JJ
+5	মোষের	NN
+6	গোয়ালের	NN
+7	পাশে	NST
+8	যে	PRP
+9	গব্যশালা	NN
+10	থাকে	VM
+11	সেটিই	PRP
+12	তাদের	PRP
+13	মন্দির	NN
+14	৷	SYM
+</Sentence>
+<Sentence id=50>
+1	এই	DEM
+2	গব্যশালার	NN
+3	প্রতিটি	QF
+4	কাজ	NN
+5	তাদের	PRP
+6	ধর্মসাধনার	NN
+7	অঙ্গ	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=51>
+1	মোষ	NN
+2	চরানো	VM
+3	থেকে	PSP
+4	শুরু	NN
+5	করে	VM
+6	ঘি	NN
+7	তৈরি	VM
+8	পর্য্যন্ত	PSP
+9	সমস্ত	JJ
+10	কাজ	NN
+11	ধর্মীয়	JJ
+12	আচার-আচরণ	NN
+13	বলে	UT
+14	বিবেচিত	NN
+15	হয়	VM
+16	৷	SYM
+</Sentence>
+<Sentence id=52>
+1	ডেয়ারির	NN
+2	প্রতিটি	QF
+3	বস্তু	NN
+4	যেমন	CC
+5	-	SYM
+6	বাঁশের	NN
+7	ঝুড়ি	NN
+8	,	SYM
+9	দুধের	NN
+10	পাত্র	NN
+11	,	SYM
+12	মোষের	NN
+13	গলার	NN
+14	ঘণ্টা	NN
+15	,	SYM
+16	গোয়ালের	NN
+17	প্রদীপ	NN
+18	ইত্যাদি	RP
+19	বিশেষ	INTF
+20	পবিত্র	JJ
+21	বলে	UT
+22	বিবেচিত	NN
+23	হয়	VM
+24	এব	CC
+25	বস্তুগুলি	NN
+26	ব্যবহারও	NN
+27	করা	VM
+28	হয়	VAUX
+29	পূজার	NN
+30	সামগ্রীর	NN
+31	মতো	PSP
+32	পবিত্রভাবে	RB
+33	৷	SYM
+</Sentence>
+<Sentence id=53>
+1	এই	DEM
+2	ডেয়ারির	NN
+3	মোষ	NN
+4	সকলে	PRP
+5	চরাবারও	VM
+6	অধিকারী	NN
+7	নয়	NEG
+8	,	SYM
+9	অন্য	JJ
+10	কাজ	VM
+11	করা	VAUX
+12	তো	RP
+13	দূরের	JJ
+14	কথা	NN
+15	৷	SYM
+</Sentence>
+<Sentence id=54>
+1	বাইরের	NST
+2	সমস্ত	QF
+3	জিনিসের	NN
+4	ছোঁয়াচ	NN
+5	বাঁচিয়ে	VM
+6	ডেয়ারির	NN
+7	বস্তুগুলির	NN
+8	পবিত্রতা	NN
+9	রক্ষা	NN
+10	করা	VM
+11	হয়	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=55>
+1	সাধারণ	JJ
+2	গোয়ালে	NN
+3	যে	DEM
+4	সব	QF
+5	সাধারণ	JJ
+6	মোষ	NN
+7	থাকে	VM
+8	তাদের	PRP
+9	ক্ষেত্রে	PSP
+10	এতসব	QF
+11	বিধিনিষেধ	NN
+12	নেই	NEG
+13	৷	SYM
+</Sentence>
+<Sentence id=56>
+1	সে	PRP
+2	মোষ	NN
+3	যে-কেউ	PRP
+4	চরাতে	VM
+5	পারে	VAUX
+6	,	SYM
+7	দুধ	NN
+8	দুইতে	VM
+9	পারে	VAUX
+10	,	SYM
+11	সে	PRP
+12	দুধ	NN
+13	ঘরে	NN
+14	এনে	VM
+15	তার	PRP
+16	থেকে	PSP
+17	মাখন	NN
+18	তুলে	VM
+19	ঘিও	NN
+20	করা	VM
+21	যেতে	VAUX
+22	পারে	VAUX
+23	৷	SYM
+</Sentence>
+<Sentence id=57>
+1	তবে	CC
+2	তা	PRP
+3	ধর্মকর্ম	NN
+4	বলে	UT
+5	বিবেচিত	NN
+6	হবে	VM
+7	না	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=58>
+1	ধর্মীয়	JJ
+2	ডেয়ারি-মন্দিরগুলির	NN
+3	আবার	CC
+4	মর্য্যাদা	NN
+5	অনুযায়ী	PSP
+6	স্তরভেদ	NN
+7	আছে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=59>
+1	পবিত্র	JJ
+2	মোষগুলির	NN
+3	পবিত্রতার	NN
+4	তিনটি	QC
+5	স্তর	NN
+6	আছে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=60>
+1	সেই	PRP
+2	অনুযায়ী	PSP
+3	মন্দিরগুলির	NN
+4	পবিত্রতাও	NN
+5	তিন	QC
+6	স্তরের	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=61>
+1	অবশ্য	RB
+2	এই	DEM
+3	ভেদ	NN
+4	শুধু	QF
+5	তোরথস	NNP
+6	গোষ্ঠীতেই	NN
+7	আছে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=62>
+1	তৌফিলি	NNP
+2	গোষ্ঠীতে	NN
+3	পবিত্র	JJ
+4	মোষের	NN
+5	একটাই	QC
+6	স্তর	NN
+7	-	SYM
+8	“	SYM
+9	পোস্তঈর	NNP
+10	“	SYM
+11	৷	SYM
+</Sentence>
+<Sentence id=63>
+1	তোরথসদের	NNP
+2	সবচেয়ে	INTF
+3	উঁচু	JJ
+4	স্তরের	NN
+5	মোষ	NN
+6	ও	CC
+7	ডেয়ারির	NN
+8	হল	VM
+9	“	SYM
+10	তী	NNP
+11	“	SYM
+12	৷	SYM
+</Sentence>
+<Sentence id=64>
+1	কাসপ	NNP,
+2	নোস	NNP
+3	,	SYM
+4	মোর	NNP
+5	,	SYM
+6	পীরগোড	NNP
+7	এবং	CC
+8	নিডি	NNP
+9	-	SYM
+10	এই	DEM
+11	পাঁচটি	QC
+12	উপগোষ্ঠীতে	NN
+13	“	SYM
+14	তী	NNP
+15	“	SYM
+16	থাকতে	VM
+17	পারে	VAUX
+18	৷	SYM
+</Sentence>
+<Sentence id=65>
+1	দ্বিতীয়	QO
+2	স্তরের	NN
+3	ডেয়ারির	NN
+4	নাম	NN
+5	“	SYM
+6	উইসেলি	NNP
+7	“	SYM
+8	;	SYM
+9	তোরথসদের	NNP
+10	নোস্	NNP
+11	গোষ্ঠীর	NN
+12	এই	DEM
+13	ডেয়ারি	NN
+14	বিশেষ	INTF
+15	পবিত্র	JJ
+16	বলে	UT
+17	মনে	NN
+18	করা	VM
+19	হয়	VAUX
+20	৷	SYM
+</Sentence>
+<Sentence id=66>
+1	এই	DEM
+2	ডেয়ারির	NN
+3	কুঁড়েঘরটির	NN
+4	গড়নে	NN
+5	বিশিষ্টতা	NN
+6	আছে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=67>
+1	এটি	DEM
+2	সাধারণ	JJ
+3	কুঁড়ের	NN
+4	মতো	PSP
+5	দেখতে	VM
+6	নয়	NEG
+7	-	SYM
+8	শঙ্কুর	NN
+9	আকারের	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=68>
+1	এর	PRP
+2	নামও	NN
+3	আলাদা	JJ
+4	-	SYM
+5	‘	SYM
+6	পৌ	NNP
+7	‘	SYM
+8	৷	SYM
+</Sentence>
+<Sentence id=69>
+1	সবচেয়ে	INTF
+2	নিচু	JJ
+3	স্তরের	NN
+4	ডেয়ারির	NN
+5	নাম	NN
+6	‘	SYM
+7	পোলি	NNP
+8	‘	SYM
+9	৷	SYM
+</Sentence>
+<Sentence id=70>
+1	প্রতি	QF
+2	মন্দিরে	NN
+3	একজন	NN
+4	করে	PSP
+5	পুরোহিত	NN
+6	থাকে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=71>
+1	লক্ষণীয়	JJ
+2	এই	DEM
+3	যে	CC
+4	,	SYM
+5	উইসোলি	NNP
+6	ও	CC
+7	তী	NNP
+8	ডেয়ারি-মন্দির	NN
+9	তোরথসদের	NNP
+10	হলেও	VM
+11	সেখানে	PRP
+12	প্রধান	JJ
+13	পুরোহিত	NN
+14	থাকে	VM
+15	তৌফিলি	NNP
+16	গোষ্ঠীর	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=72>
+1	তী	NNP
+2	,	SYM
+3	পৌ	NNP
+4	ও	CC
+5	পোলি	NNP
+6	তোড়াদের	NNP
+7	অতি	INTF
+8	পবিত্র	JJ
+9	স্থান	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=73>
+1	তারা	PRP
+2	এর	PRP
+3	পবিত্রতা	NN
+4	রক্ষা	NN
+5	করে	VM
+6	চলে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=74>
+1	এখান	PRP
+2	থেকে	PSP
+3	দুধ	NN
+4	চুরি	NN
+5	করা	VM
+6	গুরুতর	JJ
+7	পাপ	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=75>
+1	ধর্মীয়	JJ
+2	মোষেদের	NN
+3	কাজে	NN
+4	অবহেলা	NN
+5	বা	CC
+6	তাদের	PRP
+7	প্রতি	NN
+8	অনাচার	NN
+9	পাপ	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=76>
+1	দিনের	NN
+2	বেলা	NN
+3	,	SYM
+4	সঙ্গমের	NN
+5	পর	NST
+6	বা	CC
+7	শ্মশান	NN
+8	থেকে	PSP
+9	ফিরে	VM
+10	,	SYM
+11	কিংবা	CC
+12	তামাক	NN
+13	পাতা	NN
+14	মুখে	NN
+15	রেখে	VM
+16	পবিত্র	JJ
+17	মোষেদের	NN
+18	কাছে	NST
+19	যাওয়া	VM
+20	বা	CC
+21	ডেয়ারিতে	NN
+22	প্রবেশ	NN
+23	করা	VM
+24	মহাপাপ	NN
+25	৷	SYM
+</Sentence>
+<Sentence id=77>
+1	স্ত্রীলোকেরা	NN
+2	ডেয়ারি	NN
+3	বা	CC
+4	মন্দিরের	NN
+5	কোন	QF
+6	কাজ	NN
+7	করতে	VM
+8	পারে	VAUX
+9	না	NEG
+10	৷	SYM
+</Sentence>
+<Sentence id=78>
+1	তোড়াধর্মতন্ত্র	NNP
+2	তাদের	PRP
+3	সে	PRP
+4	অধিকার	NN
+5	থেকে	PSP
+6	বঞ্চিত	NN
+7	করেছে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=79>
+1	তোড়াদের	NNP
+2	ধর্মীয়	JJ
+3	আচারের	NN
+4	মধ্যে	NST
+5	প্রার্থনারও	NN
+6	প্রচলন	NN
+7	আছে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=80>
+1	তবে	CC
+2	সে	PRP
+3	প্রার্থনা	NN
+4	কোন	QF
+5	দেবতার	NN
+6	স্তুতি	NN
+7	নয়	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=81>
+1	প্রার্থনা	NN
+2	আসলে	RB
+3	পবিত্র	JJ
+4	বস্তুগুলির	NN
+5	স্মরণ	NN
+6	ও	CC
+7	উচ্চারণ	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=82>
+1	তাদের	PRP
+2	আকাঙ্ক্ষিত	JJ
+3	বস্তুর	NN
+4	একটি	QC
+5	তালিকাও	NN
+6	তারা	PRP
+7	আবৃত্তি	NN
+8	করে	VM
+9	থাকে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=83>
+1	তোড়াদের	NNP
+2	কয়েকজন	NN
+3	দেবতা	NN
+4	থাকলেও	VM
+5	তাদের	PRP
+6	আনুষ্ঠানিক	JJ
+7	পূজা	NN
+8	প্রচলিত	NN
+9	নেই	NEG
+10	৷	SYM
+</Sentence>
+<Sentence id=84>
+1	তোড়াদের	NNP
+2	ধর্ম	NN
+3	একান্তভাবেই	RB
+4	আচার	NN
+5	নির্ভর	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=85>
+1	বাহ্য	JJ
+2	এবং	CC
+3	সাংসারিক	JJ
+4	কতকগুলি	NN
+5	কৃত্য	JJ
+6	তাদের	PRP
+7	সমাজে	NN
+8	ধর্মকর্মের	NN
+9	মর্য্যাদা	NN
+10	পেয়েছে	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=86>
+1	অনুমান	NN
+2	করা	VM
+3	হয়	VAUX
+4	,	SYM
+5	এদের	PRP
+6	সমাজে	NN
+7	একসময়	NN
+8	দেবপূজার	NN
+9	প্রচলন	NN
+10	ছিল	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=87>
+1	পরিস্থিতির	NN
+2	পরিবর্তনের	NN
+3	নানা	JJ
+4	কারণে	NN
+5	দেবতার	NN
+6	ভূমিকা	NN
+7	গৌণ	JJ
+8	হয়ে	VM
+9	পড়েছে	VAUX
+10	;	SYM
+11	দেবঅর্চনার	NN
+12	স্থান	NN
+13	দখল	NN
+14	করেছে	VM
+15	বর্তমানের	NN
+16	কৃত্যগুলি	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=88>
+1	সে	PRP
+2	সম্পর্কে	NN
+3	রিভার্স	NNP
+4	বলেছেন	VM
+5	:	SYM
+6	(	
+7	ইরেজী	
+8	অশ	
+9	)তোড়া	NNP
+10	ছেলেমেয়ে	NN
+11	যখন	PRP
+12	নিতান্ত	RB
+13	শিশু	NN
+14	,	SYM
+15	কয়েকমাস	NN
+16	মাত্র	QF
+17	তাদের	PRP
+18	বয়স	NN
+19	,	SYM
+20	তখনই	PRP
+21	মা-বাবা	NN
+22	তাদের	PRP
+23	বিবাহ	NN
+24	স্থির	NN
+25	করে	VM
+26	রাখে	VAUX
+27	৷	SYM
+</Sentence>
+<Sentence id=89>
+1	সম্বন্ধ	NN
+2	পাকা	NN
+3	করার	VM
+4	সময়	NN
+5	কোন	QF
+6	রকম	NN
+7	অনুষ্ঠান	NN
+8	হয়	VM
+9	না	NEG
+10	৷	SYM
+</Sentence>
+<Sentence id=90>
+1	সম্বন্ধ	NN
+2	পাকা	NN
+3	হবার	VM
+4	পর	NST
+5	থেকে	PSP
+6	উভয়	NN
+7	পক্ষ	NN
+8	মাঝে	RB
+9	মাঝে	RDP
+10	জামা	NN
+11	কাপড়	NN
+12	আদানপ্রদান	NN
+13	করে	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=91>
+1	ঋতুমতী	JJ
+2	না	NEG
+3	হওয়া	VM
+4	পর্য্যন্ত	PSP
+5	মেয়ে	NN
+6	মা-বাবার	NN
+7	কাছে	NST
+8	থাকে	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=92>
+1	বড়ো	JJ
+2	হয়ে	VM
+3	মা-বাবার	NN
+4	স্থির	NN
+5	করা	VM
+6	সম্বন্ধ	NN
+7	অগ্রাহ্য	NN
+8	করে	VM
+9	নিজের	PRP
+10	পছন্দ	NN
+11	মতো	PSP
+12	কাউকে	NN
+13	সে	PRP
+14	বিয়ে	NN
+15	করতে	VM
+16	পারে	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=93>
+1	সমাজ-পঞ্চায়েত	NN
+2	(	SYM
+3	নোয়াম	NNP
+4	)	SYM
+5	তাতে	PRP
+6	বাধা	NN
+7	দেয়	VM
+8	না	NEG
+9	৷	SYM
+</Sentence>
+<Sentence id=94>
+1	বিবাহের	NN
+2	উপযুক্ত	JJ
+3	পাত্রী	NN
+4	হন	VM
+5	‘SYM	
+6	মোচিনি	NNP
+7	'	SYM
+8	,	SYM
+9	অর্থাত্	CC
+10	পিসতুতো	JJ
+11	বোন	NN
+12	;	SYM
+13	মামাতো	JJ
+14	বোনের	NN
+15	স্থান	NN
+16	তার	PRP
+17	পরে	NST
+18	৷	SYM
+</Sentence>
+<Sentence id=95>
+1	তোড়াদের	NNP
+2	বিয়েতে	NN
+3	কোন	QF
+4	মন্ত্রোচ্চারণ	NN
+5	হয়	VM
+6	না	NEG
+7	বা	CC
+8	কোন	QF
+9	রকম	NN
+10	আচার	NN
+11	পালন	NN
+12	নেই	NEG
+13	৷	SYM
+</Sentence>
+<Sentence id=96>
+1	পাত্রীর	NN
+2	বাড়ি	NN
+3	গিয়ে	VM
+4	পাত্র	NN
+5	তার	PRP
+6	ভাবী	JJ
+7	শ্বশুরের	NN
+8	পাদ-বন্দনা	NN
+9	করে	VM
+10	,	SYM
+11	তাদের	PRP
+12	প্রণামের	NN
+13	নিজস্ব	JJ
+14	পদ্ধতি	NN
+15	আছে	VM
+16	৷	SYM
+</Sentence>
+<Sentence id=97>
+1	গুরুজনের	NN
+2	সামনে	NST
+3	বসে	VM
+4	পর্যায়ক্রমে	RB
+5	তার	PRP
+6	দুটি	QC
+7	পা	NN
+8	তুলে	VM
+9	নিয়ে	VAUX
+10	সে	PRP
+11	নিজের	PRP
+12	মাথায়	NN
+13	ঠেকায়	VM
+14	এব	CC
+15	নিজের	PRP
+16	ইচ্ছা	NN
+17	জানায়	VM
+18	৷	SYM
+</Sentence>
+<Sentence id=98>
+1	কন্যার	NN
+2	বাবা	NN
+3	তখন	PRP
+4	তার	PRP
+5	কাছ	NST
+6	থেকে	PSP
+7	পণ	NN
+8	(	SYM
+9	কয়েকটি	QF
+10	মোষ	NN
+11	)	SYM
+12	দাবি	NN
+13	করে	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=99>
+1	পাত্র	NN
+2	দিতে	VM
+3	রাজী	NN
+4	হলে	VM
+5	বিয়ে	NN
+6	ঠিক	NN
+7	হয়	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=100>
+1	বর	NN
+2	যতদিন	NN
+3	পর্য্যন্ত	PSP
+4	পণের	NN
+5	মোষ	NN
+6	দিতে	VM
+7	না	NEG
+8	পারে	VM
+9	ততদিন	NN
+10	বিয়ে	NN
+11	হয়	VM
+12	না	NEG
+13	৷	SYM
+</Sentence>
+<Sentence id=101>
+1	পণ	NN
+2	অবশ্য	RB
+3	কনের	NN
+4	বাবাকেও	NN
+5	দিতে	VM
+6	হয়	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=102>
+1	বরের	NN
+2	কাছে	NST
+3	সে	PRP
+4	যতগুলি	NN
+5	মোষ	NN
+6	পণ	NN
+7	হিসেবে	PSP
+8	(	SYM
+9	কোক্উইনি	NNP
+10	)	SYM
+11	নেয়	VM
+12	তার	PRP
+13	তিনগুণ	JJ
+14	মোষ	NN
+15	বরপণ	NN
+16	(	SYM
+17	অডপীন	NNP
+18	)	SYM
+19	বরকেই	NN
+20	দিতে	VM
+21	হয়	VAUX
+22	৷	SYM
+</Sentence>
+<Sentence id=103>
+1	পণ	NN
+2	হিসেবে	PSP
+3	মেয়ের	NN
+4	বাবা	NN
+5	তার	PRP
+6	সবচেয়ে	INTF
+7	ভাল	JJ
+8	মোষটিও	NN
+9	দাবি	NN
+10	করতে	VM
+11	পারে	VAUX
+12	৷SYM	
+</Sentence>
+<Sentence id=104>
+1	মোষ	NN
+2	দেওয়া-নেওয়া	VM
+3	হয়ে	VAUX
+4	গেলে	VAUX
+5	বর	NN
+6	একটি	QC
+7	ভোজ	NN
+8	দেয়	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=105>
+1	সেটিই	PRP
+2	এদের	PRP
+3	বিয়ের	NN
+4	একমাত্র	RB
+5	অনুষ্ঠান	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=106>
+1	তোড়াকন্যাকে	NN
+2	যখন	CC
+3	কেউ	NN
+4	বিয়ে	NN
+5	করে	VM
+6	বাড়িতে	NN
+7	নিয়ে	VM
+8	আসে	VAUX
+9	তখন	CC
+10	সে	PRP
+11	একান্তভাবে	RB
+12	তারই	PRP
+13	বউ	NN
+14	থাকে	VM
+15	না	NEG
+16	৷	SYM
+</Sentence>
+<Sentence id=107>
+1	সে	PRP
+2	তার	PRP
+3	স্বামীর	NN
+4	অন্য	JJ
+5	ভাইদের	NN
+6	বউ	NN
+7	বলেও	UT
+8	গণ্য	NN
+9	হয়	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=108>
+1	বাড়ির	NN
+2	তিন	QC
+3	ভাইয়ের	NN
+4	বিয়ে	NN
+5	হলে	VM
+6	প্রত্যেক	QF
+7	বউয়ের	NN
+8	স্বামী	NN
+9	ওই	DEM
+10	তিন	QC
+11	ভাই	NN
+12	৷	SYM
+</Sentence>
+<Sentence id=109>
+1	অথবা	CC
+2	প্রত্যেক	QF
+3	ভাইয়ের	NN
+4	বউ	NN
+5	ওই	DEM
+6	তিনজন	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=110>
+1	এদিক	NST
+2	দিয়ে	VM
+3	দেখলে	VM
+4	,	SYM
+5	তোড়া	NN
+6	সমাজে	NN
+7	পুরুষ	NN
+8	ও	CC
+9	নারী	NN
+10	উভয়ের	NN
+11	মধ্যে	NST
+12	বহু	QF
+13	বিবাহ	NN
+14	প্রচলিত	JJ
+15	,	SYM
+16	একথা	NN
+17	বলতে	VM
+18	হয়	VAUX
+19	৷	SYM
+</Sentence>
+<Sentence id=111>
+1	স্বামীর	NN
+2	যদি	CC
+3	অন্য	JJ
+4	সহোদর	JJ
+5	ভাই	NN
+6	না	NEG
+7	থাকে	VM
+8	তাহলে	CC
+9	স্বামীর	NN
+10	সম্পর্কে	JJ
+11	ভাইদের	NN
+12	তার	PRP
+13	স্বামী	NN
+14	বলে	UT
+15	ধরা	VM
+16	হয়	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=112>
+1	অর্থাত্	CC
+2	এক	QC
+3	নারীর	NN
+4	একাধিক	JJ
+5	পরিবারে	NN
+6	বিয়ে	NN
+7	হয়	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=113>
+1	এ	DEM
+2	রীতি	NN
+3	এখনও	RB
+4	পর্য্যন্ত	PSP
+5	প্রচলিত	JJ
+6	৷	SYM
+</Sentence>
+<Sentence id=114>
+1	সন্তানের	NN
+2	পিতা	NN
+3	কাকে	WQ
+4	ধরা	VM
+5	হবে	VAUX
+6	,	SYM
+7	তা	CC
+8	নির্ধারিত	NN
+9	হয়	VM
+10	একটি	QC
+11	বিশেষ	JJ
+12	প্রথা	NN
+13	পালনের	NN
+14	দ্বারা	PSP
+15	৷	SYM
+</Sentence>
+<Sentence id=115>
+1	সন্তানের	NN
+2	জন্মদাতা	NN
+3	পিতা	NN
+4	তার	PRP
+5	পিতৃত্বের	JJ
+6	অধিকার	NN
+7	নাও	NEG
+8	পেতে	VM
+9	পারে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=116>
+1	বেশির	QF
+2	ভাগ	NN
+3	ক্ষেত্রেই	NN
+4	তা	CC
+5	পায়	VM
+6	না	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=117>
+1	সন্তানের	NN
+2	পিতৃত্ব-নির্ধারণ	NN
+3	৷	SYM
+</Sentence>
+<Sentence id=118>
+1	তোড়া	NNP
+2	সমাজের	NN
+3	সন্তানের	NN
+4	পিতৃত্ব	JJ
+5	নির্ধারণ	NN
+6	বা	CC
+7	পিতৃত্ব	JJ
+8	গ্রহণ	NN
+9	অনুষ্ঠানটির	NN
+10	বিশেষ	JJ
+11	সামাজিক	JJ
+12	গুরুত্ব	NN
+13	আছে	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=119>
+1	অনুষ্ঠানটিতে	NN
+2	জাঁকজমক	NN
+3	কিছু	QF
+4	নেই	NEG
+5	;	SYM
+6	একটি	QC
+7	অতি	INTF
+8	সরল	JJ
+9	প্রথাপালন	NN
+10	মাত্র	NN
+11	৷	SYM
+</Sentence>
+<Sentence id=120>
+1	কিন্তু	CC
+2	এ	DEM
+3	অনুষ্ঠান	NN
+4	পালনের	NN
+5	আগে	NST
+6	কোন	QF
+7	সন্তানের	NN
+8	জন্ম	NN
+9	হলে	VM
+10	তা	CC
+11	রীতিমতো	RB
+12	অশাস্ত্রীয়	JJ
+13	ও	CC
+14	গর্হিত	JJ
+15	বলে	UT
+16	বিবেচিত	NN
+17	হয়	VM
+18	৷	SYM
+</Sentence>
+<Sentence id=121>
+1	দম্পতিকে	NN
+2	তাতে	CC
+3	লোকচক্ষুতে	NN
+4	হেয়	NN
+5	হতে	VM
+6	হয়	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=122>
+1	বাড়ির	NN
+2	বড়	JJ
+3	ভাই	NN
+4	সাধারণত	RB
+5	সমস্ত	QF
+6	সন্তানের	NN
+7	পিতৃত্ব	JJ
+8	নিয়ে	VM
+9	থাকে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=123>
+1	সহোদর	JJ
+2	ভাইদের	NN
+3	মধ্যে	NST
+4	অন্য	JJ
+5	কেউ	PRP
+6	কিছুকাল	NN
+7	পরে	NST
+8	পিতৃত্ব	JJ
+9	গ্রহণ	NN
+10	করতে	VM
+11	পারে	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=124>
+1	স্বামীর	NN
+2	সহোদর	JJ
+3	ভাই	NN
+4	না	NEG
+5	থাকলে	VM
+6	সম্পর্কের	NN
+7	ভাইদের	NN
+8	মধ্যে	NST
+9	কেউ	PRP
+10	একজন	NN
+11	পিতৃত্ব	JJ
+12	নিতে	VM
+13	পারে	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=125>
+1	অনুষ্ঠান	NN
+2	পালনের	NN
+3	দ্বারা	PSP
+4	একজন	NN
+5	যখন	CC
+6	পিতৃত্ব	NN
+7	নেয়	VM
+8	তার	PRP
+9	পর	NST
+10	থেকে	PSP
+11	পরিবারে	NN
+12	যত	QF
+13	সন্তান	NN
+14	জন্মায়	VM
+15	তাদের	PRP
+16	সকলের	PRP
+17	পিতা	NN
+18	বলে	UT
+19	সে	PRP
+20	গণ্য	NN
+21	হয়	VM
+22	৷	SYM
+</Sentence>
+<Sentence id=126>
+1	পিতৃত্ব	JJ
+2	নেবার	VM
+3	পর	NST
+4	কেউ	PRP
+5	যদি	CC
+6	মারা	NN
+7	যায়	VM
+8	এবং	CC
+9	তাহলেও	CC
+10	মৃত	JJ
+11	ব্যক্তির	NN
+12	পিতৃত্বের	NN
+13	অধিকার	NN
+14	বজায়	NN
+15	থাকে	VM
+16	৷	SYM
+</Sentence>
+<Sentence id=127>
+1	এই	DEM
+2	সময়টুকুর	NN
+3	মধ্যে	NST
+4	যে	PRP
+5	সমস্ত	QF
+6	সন্তানের	NN
+7	জন্ম	NN
+8	হবে	VM
+9	তাদের	PRP
+10	পিতৃ	JJ
+11	পরিচয়	NN
+12	হবে	VM
+13	ঐ	DEM
+14	মৃত	JJ
+15	ব্যক্তিটির	NN
+16	নামে	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=128>
+1	এক	QC
+2	পিতার	NN
+3	জীবিতকালে	NN
+4	পিতৃত্বের	NN
+5	বদল	NN
+6	হলে	VM
+7	অর্থাত্	CC
+8	অন্য	JJ
+9	কোন	QF
+10	ব্যক্তি	NN
+11	সামাজিক	JJ
+12	অনুষ্ঠান	NN
+13	পালনের	NN
+14	মাধ্যমে	PSP
+15	পিতৃত্ব	NN
+16	গ্রহণ	NN
+17	করলে	VM
+18	স্বভাবতই	RB
+19	আগের	NST
+20	পিতার	NN
+21	আর	CC
+22	অধিকার	NN
+23	থাকে	VM
+24	না	NEG
+25	৷	SYM
+</Sentence>
+<Sentence id=129>
+1	তখন	PRP
+2	থেকে	PSP
+3	সেই	PRP
+4	দ্বিতীয়	QO
+5	ব্যক্তি	NN
+6	পরিবারের	NN
+7	সব	QF
+8	সন্তানের	NN
+9	জনক	NN
+10	বলে	UT
+11	স্বীকৃতি	NN
+12	পায়	VM
+13	৷	SYM
+</Sentence>
+<Sentence id=130>
+1	উল্লেখ্য	JJ
+2	এই	DEM
+3	যে	CC
+4	,	SYM
+5	পিতৃত্ব	NN
+6	গ্রহণের	NN
+7	এই	DEM
+8	ব্যাপারটি	NN
+9	প্রতিদ্বন্দ্বিতামূলক	JJ
+10	নয়	NEG
+11	৷	SYM
+</Sentence>
+<Sentence id=131>
+1	অনুষ্ঠানটি	NN
+2	এই	DEM
+3	রকম	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=132>
+1	সাত	QC
+2	মাস	NN
+3	গর্ভের	NN
+4	সময়	NN
+5	কোন	QF
+6	এক	QC
+7	অমাবস্যার	NN
+8	দিনে	NN
+9	পত্নী	NN
+10	এবং	CC
+11	তার	PRP
+12	সন্তানের	NN
+13	পিতৃত্ব	NN
+14	প্রার্থী	NN
+15	কোন	QF
+16	এক	QC
+17	স্বামী	NN
+18	গ্রামের	NN
+19	বাইরে	NST
+20	এক	QC
+21	কিয়র	NNP
+22	গাছের	NN
+23	তলায়	NST
+24	গিয়ে	VM
+25	বসে	VM
+26	৷	SYM
+</Sentence>
+<Sentence id=133>
+1	গুরুজনেরাও	NN
+2	সেখানে	PRP
+3	উপস্থিত	NN
+4	থাকে	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=134>
+1	স্বামী-স্ত্রী	NN
+2	তাদের	PRP
+3	প্রণাম	NN
+4	করে	VM
+5	তাদের	PRP
+6	আশীর্বাদ	NN
+7	চায়	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=135>
+1	নগদ	JJ
+2	টাকা	NN
+3	উপহার	NN
+4	দিয়ে	VM
+5	তারা	PRP
+6	সকলে	PRP
+7	দম্পতিকে	NN
+8	আশীর্বাদ	NN
+9	করে	VM
+10		SYM৷
+</Sentence>
+<Sentence id=136>
+1	মেয়ের	NN
+2	বাবার	NN
+3	অনুমতি	NN
+4	নিয়ে	VM
+5	স্বামী	NN
+6	একটি	QC
+7	বিশেষ	JJ
+8	গাছের	NN
+9	ডালের	NN
+10	সন্ধানে	NN
+11	বের	VM
+12	হয়	VAUX
+13	৷	SYM
+</Sentence>
+<Sentence id=137>
+1	সেই	PRP
+2	ডাল	NN
+3	দিয়ে	PSP
+4	সে	PRP
+5	তৈরি	VM
+6	করে	VAUX
+7	একটি	QC
+8	ধনুক	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=138>
+1	এক	QC
+2	জাতীয়	JJ
+3	ঘাসের	NN
+4	ডাঁটা	NN
+5	দিয়ে	PSP
+6	সে	PRP
+7	তৈরি	VM
+8	করে	VAUX
+9	তীর	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=139>
+1	তীর-ধনুক	NN
+2	নিয়ে	PSP
+3	সে	PRP
+4	আবার	CC
+5	ফিরে	VM
+6	আসে	VAUX
+7	কিয়র	NNP
+8	গাছ	NN
+9	তলায়	NST
+10	৷	SYM
+</Sentence>
+<Sentence id=140>
+1	কিয়র	NN
+2	গাছের	NN
+3	গুঁড়ি	NN
+4	কুঁদে	VM
+5	একটি	QC
+6	ত্রিকোণাকার	JJ
+7	কুলুঙ্গি	NN
+8	তৈরি	VM
+9	করে	VAUX
+10	সেখানে	PRP
+11	রাখা	VM
+12	হয়	VAUX
+13	একটা	QC
+14	জ্বলন্ত	JJ
+15	প্রদীপ	NN
+16	৷	SYM
+</Sentence>
+<Sentence id=141>
+1	পুরুষটি	NN
+2	তীর-ধনুক	NN
+3	নিয়ে	VM
+4	স্ত্রীর	NN
+5	কাছে	NST
+6	এলে	VM
+7	সে	PRP
+8	স্বামীকে	NN
+9	প্রশ্ন	NN
+10	করে	VM
+11	,	SYM
+12	‘	SYM
+13	এই	DEM
+14	তীর	NN
+15	ধনুক	NN
+16	কার	WQ
+17	‘	SYM
+18	?	SYM
+</Sentence>
+<Sentence id=142>
+1	উত্তরে	NN
+2	স্বামী	NN
+3	তার	PRP
+4	গোষ্ঠীর	NN
+5	নাম	NN
+6	করে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=143>
+1	স্ত্রী	NN
+2	এই	DEM
+3	প্রশ্ন	NN
+4	করে	VM
+5	তিনবার	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=144>
+1	স্বামী	NN
+2	তিনবারই	NN
+3	একই	JJ
+4	জবাব	NN
+5	দেয়	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=145>
+1	তারপর	CC
+2	স্বামী	NN
+3	তীর-ধনুকটা	NN
+4	নিয়ে	VM
+5	স্ত্রীর	NN
+6	হাতে	NN
+7	দেয়	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=146>
+1	স্ত্রী	NN
+2	সেটি	PRP
+3	হাতে	NN
+4	নিয়ে	PSP
+5	নিজের	PRP
+6	মাথায়	NN
+7	ও	CC
+8	কপালে	NN
+9	ঠেকায়	VM
+10	এবং	CC
+11	শেষে	NST
+12	গাছতলায়	NN
+13	নামিয়ে	VM
+14	রাখে	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=147>
+1	কয়েক	QF
+2	রকম	NN
+3	শস্যদানা	NN
+4	,	SYM
+5	এক	QC
+6	পাত্র	NN
+7	মধু	NN
+8	,	SYM
+9	কয়েকটি	QF
+10	লঙ্কা	NN
+11	,	SYM
+12	সামান্য	JJ
+13	চিনি	NN
+14	,	SYM
+15	সামান্য	JJ
+16	নুন	NN
+17	একটা	QC
+18	কাপড়ের	NN
+19	টুকরোয়	NN
+20	বেঁধে	VM
+21	রেখে	VAUX
+22	দেওয়া	VAUX
+23	হয়	VAUX
+24	গাছতলায়	NN
+25	৷	SYM
+</Sentence>
+<Sentence id=148>
+1	এর	PRP
+2	পর	NST
+3	হয়	VM
+4	খাওয়া-দাওয়া	NN
+5	ও	CC
+6	নাচ	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=149>
+1	নাচ	NN
+2	শেষে	NST
+3	অনুষ্ঠান	NN
+4	শেষ	NST
+5	হয়	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=150>
+1	অনুষ্ঠানটির	NN
+2	নাম	NN
+3	‘	SYM
+4	পীসীটিপিমি	NNP
+5	‘	SYM
+6	৷	SYM
+</Sentence>
+<Sentence id=151>
+1	‘	SYM
+2	পিমি	NNP
+3	‘	SYM
+4	অর্থ	NN
+5	আচার	XC
+6	অনুষ্ঠান	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=152>
+1	সমাজে	NN
+2	নারীর	NN
+3	স্থান	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=153>
+1	তোড়া	NNP
+2	সমাজে	NN
+3	নারীর	NN
+4	স্থান	NN
+5	খুব	INTF
+6	নীচে	NST
+7	৷	SYM
+</Sentence>
+<Sentence id=154>
+1	কোন	QF
+2	রকম	NN
+3	সামাজিক	JJ
+4	মর্য্যাদার	NN
+5	অধিকারী	NN
+6	তারা	PRP
+7	নয়	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=155>
+1	ধর্মীয়	JJ
+2	আচার	NN
+3	অনুষ্ঠানেও	NN
+4	তারা	PRP
+5	অংশ	NN
+6	নিতে	VM
+7	পারে	VM
+8	না	NEG
+9	৷	SYM
+</Sentence>
+<Sentence id=156>
+1	পবিত্র	JJ
+2	গব্যশালার	NN
+3	সমস্ত	QF
+4	কাজকর্ম	NN
+5	করে	VM
+6	পুরুষেরা	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=157>
+1	মেয়েদের	NN
+2	প্রধান	JJ
+3	কাজ	NN
+4	রান্না	NN
+5	করা	VM
+6	এবং	CC
+7	ঘর-সংসার	NN
+8	দেখাশোনা	NN
+9	করা	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=158>
+1	তোড়া	NNP
+2	নারী	NN
+3	বাকি	NN
+4	সময়	NN
+5	কাটায়	VM
+6	ছুঁচের	NN
+7	কাজ	NN
+8	(	SYM
+9	এমব্রয়ডারি	NN
+10	)	SYM
+11	করে	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=159>
+1	অথবা	CC
+2	গান	NN
+3	করে	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=160>
+1	এক	QC
+2	ধরনের	NN
+3	কাজ-করা	JJ
+4	কাপড়ের	NN
+5	তোড়া	NNP
+6	সমাজে	NN
+7	বিশেষ	JJ
+8	গুরুত্ব	NN
+9	আছে	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=161>
+1	সেগুলি	PRP
+2	অন্ত্যেষ্টি	NN
+3	সংস্কারের	NN
+4	সময়	NN
+5	প্রয়োজন	NN
+6	হয়	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=162>
+1	গানের	NN
+2	ক্ষেত্রেও	NN
+3	মেয়েদের	NN
+4	কিছু	QF
+5	বিধিনিষেধ	NN
+6	মেনে	NN
+7	চলতে	VM
+8	হয়	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=163>
+1	নৌ	NNP
+2	ও	CC
+3	তীম	NNP
+4	-	SYM
+5	এই	DEM
+6	দু	QC
+7	রকমের	NN
+8	গান	NN
+9	তারা	PRP
+10	গাইতে	VM
+11	পারে	VAUX
+12	কিন্তু	CC
+13	তৃতীয়	QO
+14	আর	CC
+15	এক	QC
+16	রকম	NN
+17	গান	NN
+18	‘	SYM
+19	পোত্	NNP
+20	‘	SYM
+21	গাইতে	VM
+22	পারে	VAUX
+23	না	NEG
+24	৷	SYM
+</Sentence>
+<Sentence id=164>
+1	তবে	CC
+2	কয়েকটি	QF
+3	ক্ষেত্রে	NN
+4	তোড়া	NNP
+5	নারীর	NN
+6	চুড়ান্ত	JJ
+7	স্বাধীনতা	NN
+8	রয়েছে	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=165>
+1	বিবাহ	NN
+2	এবং	CC
+3	বিবাহবিচ্ছেদের	NN
+4	বেলা	PSP
+5	তার	PRP
+6	মতামতই	NN
+7	গ্রাহ্য	NN
+8	করা	VM
+9	হয়	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=166>
+1	তোড়ারমণী	NN
+2	তার	PRP
+3	পছন্দমতো	JJ
+4	যে	PRP
+5	কোন	QF
+6	পুরুষের	NN
+7	সঙ্গে	PSP
+8	দেহ-মিলনে	NN
+9	লিপ্ত	JJ
+10	হতে	VM
+11	পারে	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=167>
+1	তাকে	PRP
+2	এজন্য	PRP
+3	নিন্দাভাগী	JJ
+4	হতে	VM
+5	হয়	VAUX
+6	না	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=168>
+1	শুধু	RB
+2	তাই	PRP
+3	নয়	NEG
+4	,	SYM
+5	স্বামীর	NN
+6	অনুমতি	NN
+7	নিয়ে	VM
+8	সে	PRP
+9	অন্য	JJ
+10	কোন	QF
+11	পুরুষের	NN
+12	সঙ্গে	PSP
+13	প্রেমিক	NN
+14	সম্পর্কে	NN
+15	আবদ্ধ	NN
+16	থাকতে	VM
+17	পারে	VAUX
+18	৷	SYM
+</Sentence>
+<Sentence id=169>
+1	এ	DEM
+2	সবই	QF
+3	তোড়া	NNP
+4	সমাজে	NN
+5	অনুমোদন	NN
+6	করে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=170>
+1	আসলে	RB
+2	অসতী	NN
+3	সম্পর্কে	NN
+4	তাদের	PRP
+5	কোন	QF
+6	ধারণা	NN
+7	নেই	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=171>
+1	তাদের	PRP
+2	শব্দভাণ্ডারে	NN
+3	`	SYM
+4	অসতী	NN
+5	'	SYM
+6	বলে	UT
+7	বা	CC
+8	অসতীজ্ঞাপক	NN
+9	কোন	QF
+10	শব্দ	NN
+11	নেই	NEG
+12	৷	SYM
+</Sentence>
+<Sentence id=172>
+1	স্ত্রী	NN
+2	অলস	JJ
+3	বলে	UT
+4	কোন	QF
+5	স্বামী	NN
+6	বিবাহবিচ্ছেদ	NN
+7	চাইতে	VM
+8	পারে	VAUX
+9	কিন্তু	CC
+10	সে	PRP
+11	অসতী	NN
+12	এই	DEM
+13	কারণে	NN
+14	কেউ	PRP
+15	বিচ্ছেদ	NN
+16	চায়	VM
+17	না	NEG
+18	৷	SYM
+</Sentence>
+<Sentence id=173>
+1	কোন	QF
+2	বিধবা	NN
+3	যদি	CC
+4	তার	PRP
+5	নিজের	PRP
+6	গোষ্ঠী	NN
+7	ছেড়ে	VM
+8	অন্য	JJ
+9	গোষ্ঠীর	NN
+10	কাউকে	PRP
+11	বিয়ে	NN
+12	করতে	VM
+13	চায়	VAUX
+14	তাহলে	CC
+15	তা	PRP
+16	সে	PRP
+17	করতে	VM
+18	পারে	VAUX
+19	৷	SYM
+</Sentence>
+<Sentence id=174>
+1	কিন্তু	CC
+2	সে	PRP
+3	ক্ষেত্রে	NN
+4	যাকে	PRP
+5	সে	PRP
+6	বিয়ে	NN
+7	করবে	VM
+8	সেই	PRP
+9	লোকটি	NN
+10	কিছু	QF
+11	ক্ষতিপূরণ	NN
+12	দিতে	BM
+13	বাধ্য	JJ
+14	থাকে	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=175>
+1	কতগুলো	QF
+2	মোষ	NN
+3	ক্ষতিপূরণ	NN
+4	বাবদ	PSP
+5	দিতে	VM
+6	হবে	VAUX
+7	,	SYM
+8	তা	PRP
+9	স্থির	NN
+10	করে	VM
+11	দেয়	VAUX
+12	গ্রাম-পঞ্চায়েত্	NN
+13	(	SYM
+14	নোয়াম	NNP
+15	)	SYM
+16	৷	SYM
+</Sentence>
+<Sentence id=176>
+1	মোষগুলি	NN
+2	পাবে	VM
+3	আগের	NST
+4	স্বামীর	NN
+5	আত্মীয়রা	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=177>
+1	কেউ	PRP
+2	যদি	CC
+3	অন্যের	JJ
+4	স্ত্রীর	NN
+5	উপর	NST
+6	বলাত্কার	NN
+7	করে	VM
+8	এবং	CC
+9	তার	PRP
+10	স্বামী	NN
+11	পঞ্চায়েতে	NN
+12	নালিশ	NN
+13	করে	VM
+14	তাহলে	CC
+15	পঞ্চায়েত্	NN
+16	সেই	PRP
+17	ব্যক্তিকে	NN
+18	শাস্তি	NN
+19	দেয়	VM
+20	৷	SYM
+</Sentence>
+<Sentence id=178>
+1	মেয়েটির	NN
+2	স্বামীকে	NN
+3	কয়েকটি	QF
+4	মোষ	NN
+5	দেয়	VM
+6	জরিমানা	NN
+7	হিসাবে	PSP
+8	৷	SYM
+</Sentence>
+<Sentence id=179>
+1	অন্ত্যেষ্টি-সংস্কার	NN
+2	৷	SYM
+</Sentence>
+<Sentence id=180>
+1	তোড়াদের	NNP
+2	অন্ত্যেষ্টি-কর্ম	NN
+3	দু	QC
+4	বার	RP
+5	হয়	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=181>
+1	এবং	CC
+2	তোড়া	NNP
+3	সমাজে	NN
+4	এটিই	PRP
+5	একমাত্র	QF
+6	অনুষ্ঠান	NN
+7	যা	PRP
+8	কিছুটা	QF
+9	জাঁকজমকের	NN
+10	সঙ্গে	PSP
+11	পালিত	NN
+12	হয়ে	VM
+13	থাকে	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=182>
+1	কোন	QF
+2	ব্যক্তি	NN
+3	মারা	NN
+4	গেলে	VM
+5	তাকে	PRP
+6	নতুন	JJ
+7	পোশাক	NN
+8	পরিয়ে	VM
+9	দেওয়া	VAUX
+10	হয়	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=183>
+1	তার	PRP
+2	ব্যবহার	NN
+3	করা	VM
+4	অলঙ্কারাদিও	NN
+5	তার	PRP
+6	গায়ে	NN
+7	পরিয়ে	VM
+8	দেওয়া	VAUX
+9	হয়	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=184>
+1	তারপর	CC
+2	কাঁচা	JJ
+3	ডালপাতার	NN
+4	তৈরি	NN
+5	মাচায়	NN
+6	শুইয়ে	VM
+7	তাকে	PRP
+8	নিয়ে	VM
+9	যাওয়া	VAUX
+10	হয়	VAUX
+11	শ্মশানে	NN
+12	৷	SYM
+</Sentence>
+<Sentence id=185>
+1	সেখানে	PRP
+2	মৃতের	JJ
+3	আত্মীয়েরা	NN
+4	মৃতদেহটি	NN
+5	ঘিরে	VM
+6	বসে	VAUX
+7	উচ্চৈঃস্বরে	RB
+8	বিলাপ	NN
+9	করতে	VM
+10	থাকে	VAUX
+11	এবং	CC
+12	মাঝে	RB
+13	মাঝে	RDP
+14	মুঠো	JJ
+15	মুঠো	RDP
+16	ধুলো	NN
+17	বা	CC
+18	শস্যদানা	NN
+19	ছুঁড়তে	VM
+20	থাকে	VAUX
+21	মৃতদেহের	NN
+22	ওপর	NST
+23	৷	SYM
+</Sentence>
+<Sentence id=186>
+1	এই	DEM
+2	সময়	NN
+3	কয়েকটি	QF
+4	মোষকে	NN
+5	সেখানে	PRP
+6	এনে	VM
+7	ছুঁচলো	JJ
+8	অস্ত্র	NN
+9	দিয়ে	PSP
+10	খোঁচা	NN
+11	মেরে	RB
+12	মেরে	RDP
+13	তাদের	PRP
+14	ক্ষেপিয়ে	VM
+15	তোলা	VAUX
+16	হয়	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=187>
+1	সেই	PRP
+2	ক্ষ্যাপা	JJ
+3	মোষের	NN
+4	সঙ্গে	PSP
+5	যুবকেরা	NN
+6	খেলায়	VM
+7	মাতে	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=188>
+1	তারপর	CC
+2	এক	QC
+3	সময়	NN
+4	শিং	NN
+5	ধরে	VM
+6	কাবু	NN
+7	করে	VM
+8	অস্ত্র	NN
+9	দিয়ে	PSP
+10	সেই	PRP
+11	মোষগুলিকে	NN
+12	হত্যা	NN
+13	করা	VM
+14	হয়	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=189>
+1	মোষ	NN
+2	মারার	VM
+3	এই	DEM
+4	ব্যাপারটি	NN
+5	তোড়া	NNP
+6	অন্ত্যেষ্টি	NN
+7	সংস্কারের	NN
+8	অবশ্য	RB
+9	পালনীয়	JJ
+10	অঙ্গ	NN
+11	৷	SYM
+</Sentence>
+<Sentence id=190>
+1	তোড়াদের	NNP
+2	বিশ্বাস	NN
+3	নিহত	JJ
+4	মোষগুলি	NN
+5	মৃত	JJ
+6	ব্যক্তির	NN
+7	আত্মার	NN
+8	সঙ্গে	PSP
+9	পরলোকে	NN
+10	পৌঁছবে	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=191>
+1	যদি	CC
+2	মোষ	NN
+3	মারা	VM
+4	না	NEG
+5	হয়	VM
+6	,	SYM
+7	তাহলে	CC
+8	তার	PRP
+9	আত্মা	NN
+10	,	SYM
+11	শান্তি	NN
+12	পাবে	VM
+13	না	NEG
+14	৷	SYM
+</Sentence>
+<Sentence id=192>
+1	এবং	CC
+2	বাসস্থানের	NN
+3	চারপাশে	NST
+4	সে	PRP
+5	ঘুরে	VM
+6	বেড়াবে	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=193>
+1	এক	QC
+2	সময়	NN
+3	অবশ্য	RB
+4	নিহত	JJ
+5	মোষের	NN
+6	সংখ্যা	NN
+7	দিয়ে	PSP
+8	পরিবারের	NN
+9	আভিজাত্য	NN
+10	ও	CC
+11	মর্য্যাদা	NN
+12	প্রকাশ	NN
+13	পেত	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=194>
+1	যে	PRP
+2	যত	INTF
+3	অভিজাত	JJ
+4	সে	PRP
+5	তত	INTF
+6	বেশি	JJ
+7	সংখ্যায়	NN
+8	মোষ	NN
+9	মারত	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=195>
+1	যাইহোক	CC
+2	,	SYM
+3	হত্যা	NN
+4	করার	VM
+5	পর	NST
+6	নিহত	JJ
+7	মোষগুলিকে	NN
+8	মৃত	JJ
+9	দেহের	NN
+10	পাশে	NST
+11	রাখা	VM
+12	হয়	VAUX
+13	৷	SYM
+</Sentence>
+<Sentence id=196>
+1	মৃতের	NN
+2	আত্মীয়	NN
+3	পরিজন	NN
+4	প্রথমে	NST
+5	মোষগুলির	NN
+6	শিং	NN
+7	স্পর্শ	NN
+8	করে	VM
+9	,	SYM
+10	তারপর	CC
+11	তাদের	PRP
+12	প্রণাম	NN
+13	করে	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=197>
+1	এর	DEM
+2	পর	NST
+3	চিতা	NN
+4	সাজানো	VM
+5	হয়	VAUX
+6	৷	SYM
+</Sentence>
+<Sentence id=198>
+1	মৃতের	JJ
+2	কোন	QF
+3	নিকট	JJ
+4	আত্মীয়	NN
+5	মৃতের	NN
+6	মাথা	NN
+7	থেকে	PSP
+8	একগোছা	JJ
+9	চুল	NN
+10	কেটে	VM
+11	রাখে	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=199>
+1	একটি	QC
+2	আঙুলের	NN
+3	নখও	NN
+4	রেখে	VM
+5	দেওয়া	VAUX
+6	হয়	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=200>
+1	তারপর	CC
+2	দেহটি	NN
+3	চিতায়	NN
+4	চড়িয়ে	VM
+5	আগুন	NN
+6	জ্বালিয়ে	VM
+7	দেওয়া	VAUX
+8	হয়	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=201>
+1	তার	PRP
+2	ব্যবহৃত	JJ
+3	জিনিসপত্র	NN
+4	-	SYM
+5	যেমন	CC
+6	তীরধনুক	NN
+7	,	SYM
+8	লাঠি	NN
+9	,	SYM
+10	কিছু	QF
+11	ধান	NN
+12	,	SYM
+13	মধু	NN
+14	,	SYM
+15	তামাক-পাতা	NN
+16	ও	CC
+17	কয়েকটি	QF
+18	কড়ি	NN
+19	চিতায়	NN
+20	ফেলে	VM
+21	দেয়	VAUX
+22	তারা	PRP
+23	৷	SYM
+</Sentence>
+<Sentence id=202>
+1	মৃতের	JJ
+2	আত্মীয়রা	NN
+3	মাথা	NN
+4	মুড়িয়ে	VM
+5	ফেলে	VAUX
+6	এবং	CC
+7	স্নান	NN
+8	করে	VM
+9	বাড়ি	NN
+10	ফেরে	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=203>
+1	সঙ্গে	PSP
+2	আনে	VM
+3	অর্দ্ধদগ্ধ	JJ
+4	মাথার	NN
+5	খুলিটি	NN
+6	,	SYM
+7	কেটে-রাখা	JJ
+8	চুল	NN
+9	আর	CC
+10	নখ	NN
+11	৷	SYM
+</Sentence>
+<Sentence id=204>
+1	এটি	DEM
+2	এদের	PRP
+3	প্রথম	QO
+4	অন্ত্যেষ্টি	NN
+5	যে	PRP
+6	শ্মশানে	NN
+7	তার	PRP
+8	নাম	NN
+9	`	SYM
+10	মেথকুদি	NNP
+11	'	SYM
+12	৷	SYM
+</Sentence>
+<Sentence id=205>
+1	প্রথম	QO
+2	অন্ত্যেষ্টির	NN
+3	বেশ	QF
+4	কিছুদিন	NN
+5	পর	NST
+6	আত্মীয়দের	NN
+7	সুবিধামতো	RB
+8	কোন	QF
+9	এক	QC
+10	দিনে	NN
+11	দ্বিতীয়	QO
+12	অন্ত্যেষ্টি	NN
+13	সম্পন্ন	NN
+14	হয়	VM
+15	অন্য	JJ
+16	শ্মশানে	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=206>
+1	মৃতের	NN
+2	যে	PRP
+3	স্মরণচিহ্ণগুলি	NN
+4	রেখে	VM
+5	দেওয়া	VAUX
+6	হয়েছিল	VAUX
+7	সেগুলি	PRP
+8	এখন	PRP
+9	দাহ	NN
+10	করা	VM
+11	হয়	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=207>
+1	এবারও	PRP
+2	মোষ	NN
+3	মারা	VM
+4	হয়	VAUX
+5	৷	SYM
+</Sentence>
+<Sentence id=208>
+1	আগের	NST
+2	বারের	NN
+3	তুলনায়	NN
+4	বরং	CC
+5	এবার	PRP
+6	বেশি	QF
+7	সংখ্যাতেই	NN
+8	মারা	VM
+9	হয়	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=209>
+1	যতদিন	NN
+2	পর্যন্ত	PSP
+3	না	RP
+4	এই	DEM
+5	দ্বিতীয়	QO
+6	অন্ত্যেষ্টি	NN
+7	শেষ	NST
+8	না	NEG
+9	হয়	VM
+10	ততদিন	NN
+11	আত্মীয়রা	NN
+12	অশুচি	NN
+13	থাকে	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=210>
+1	তারা	PRP
+2	চুল	NN
+3	দাড়ি	NN
+4	কাটতে	VM
+5	পায়	VAUX
+6	না	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=211>
+1	দ্বিতীয়	QO
+2	অন্ত্যেষ্টির	NN
+3	নাম	NN
+4	`	SYM
+5	মোরফোই	NNP
+6	নোলকোড	NNP
+7	'	SYM
+8	৷	SYM
+</Sentence>
+<Sentence id=212>
+1	শ্মশানের	NN
+2	নাম	NN
+3	`	SYM
+4	ওসেম	NNP
+5	'	SYM
+6	৷	SYM
+</Sentence>
+<Sentence id=213>
+1	তোড়া	NNP
+2	বিধানে	NN
+3	পুরুষ	NN
+4	ও	CC
+5	স্ত্রীর	NN
+6	জন্য	PSP
+7	আলাদা	JJ
+8	আলাদা	RDP
+9	শ্মশানের	NN
+10	ব্যবস্থা	NN
+11	৷	SYM
+</Sentence>
+<Sentence id=214>
+1	স্ত্রীলোকের	NN
+2	সঙ্গে	PSP
+3	পোড়ানো	VM
+4	হয়	VAUX
+5	বাসন-কোসন	NN
+6	,	SYM
+7	সুতো	NN
+8	এবং	CC
+9	কড়ি	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=215>
+1	বাদবাকি	JJ
+2	আচরণ	NN
+3	সব	QF
+4	একই	QC
+5	রকমের	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=216>
+1	তোড়াদের	NNP
+2	নৃতাত্ত্বিক	JJ
+3	পরিচয়	NN
+4	নিয়ে	PSP
+5	যেমন	CC
+6	বিতর্ক	NN
+7	,	SYM
+8	তেমনি	CC
+9	তাদের	PRP
+10	ভাষা	NN
+11	নিয়েও	PSP
+12	৷	SYM
+</Sentence>
+<Sentence id=217>
+1	এটি	DEM
+2	যে	DEM
+3	দ্রাবিড়	NN
+4	গোষ্ঠীর	NN
+5	ভাষা	NN
+6	সে	DEM
+7	বিষয়ে	NN
+8	দ্বিমত	NN
+9	নেই	NEG
+10	৷	SYM
+</Sentence>
+<Sentence id=218>
+1	তবে	CC
+2	এটি	DEM
+3	কোন	QF
+4	প্রধান	JJ
+5	দ্রাবিড়	NNP
+6	গোষ্ঠীর	NN
+7	ভাষার	NN
+8	সঙ্গে	PSP
+9	সম্পর্কিত	JJ
+10	এই	DEM
+11	নিয়ে	PSP
+12	মতানৈক্য	NN
+13	৷	SYM
+</Sentence>
+<Sentence id=219>
+1	তোড়াকে	NNP
+2	কেউ	QF
+3	বলেছেন	VM
+4	তামিলের	NNP
+5	উপভাষা	NN
+6	,	SYM
+7	কেউ	QF
+8	বলেছেন	VM
+9	কন্নড়ের	NNP
+10	৷	
+</Sentence>
+<Sentence id=220>
+1	তেলেগু	NNP
+2	ও	CC
+3	মালয়ালামের	NNP
+4	সঙ্গেও	PSP
+5	কেউ	QF
+6	কেউ	RDP
+7	এর	PRP
+8	সম্বন্ধ	NN
+9	কল্পনা	NN
+10	করেছেন	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=221>
+1	দ্রাবিড়	NNP
+2	ভাষার	NN
+3	তুলনামূলক	JJ
+4	আলোচনা	NN
+5	বিশপ	NNC
+6	কডওয়েল	NNP
+7	তাঁর	PRP
+8	প্রথম	QO
+9	সংস্করণে	NN
+10	এটিকে	DEM
+11	তামিলের	NNP
+12	উপভাষা	NN
+13	বলেছিলেন	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=222>
+1	পরের	NST
+2	সংস্করণে	NN
+3	তোড়াকে	NNP
+4	তিনি	PRP
+5	স্বতন্ত্র	JJ
+6	বলে	UT
+7	স্বীকার	NN
+8	করেছেন	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=223>
+1	ছটি	QC
+2	অচর্চিত	JJ
+3	দ্রাবিড়	NNP
+4	ভাষার	NN
+5	মধ্যে	NST
+6	তিনি	PRP
+7	এটিকে	DEM
+8	স্থান	NN
+9	দিয়েছেন	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=224>
+1	পরে	NST
+2	অধ্যাপক	NNC
+3	ইমান্যু	NNP
+4	এবং	CC
+5	সাম্প্রতিককালে	NN
+6	অধ্যাপক	NNC
+7	শক্তিবেল	NNP
+8	এই	DEM
+9	ভাষা	NN
+10	সম্পর্কে	PSP
+11	বিস্তৃত	JJ
+12	আলোচনা	NN
+13	করে	VM
+14	প্রমাণ	NN
+15	করে	VM
+16	দিয়েছেন	VAUX
+17	যে	CC
+18	একে	DEM
+19	কোন	QF
+20	প্রধান	JJ
+21	দ্রাবিড়	NNP
+22	ভাষার	NN
+23	উপভাষা	NN
+24	বলা	VM
+25	চলে	VAUX
+26	না	NEG
+27	৷	SYM
+</Sentence>
+<Sentence id=225>
+1	এটি	DEM
+2	দ্রাবিড়	NNP
+3	গোষ্ঠীর	NN
+4	একটি	QC
+5	অতি	INTF
+6	পুরনো	JJ
+7	ভাষা	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=226>
+1	একই	JJ
+2	আদি	JJ
+3	মূল	NN
+4	থেকে	PSP
+5	তামিল	NNP
+6	এবং	CC
+7	তোডোর	NNP
+8	জন্ম	NN
+9	হয়েছিল	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=227>
+1	তামিল	NNP
+2	থেকে	PSP
+3	মালয়ালাম	NNP
+4	আলাদা	JJ
+5	হবার	VM
+6	অনেক	JJ
+7	আগে	NST
+8	এর	PRP
+9	উদ্ভব	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=228>
+1	তোড়া	NNP
+2	ভাষায়	NN
+3	যত	INTF
+4	বেশি	JJ
+5	ধ্বনি	NN
+6	আছে	VM
+7	,	SYM
+8	এত	QF
+9	আর	CC
+10	কোন	QF
+11	দ্রাবিড়	NNP
+12	ভাষায়	NN
+13	নেই	NEG
+14	৷	SYM
+</Sentence>
+<Sentence id=229>
+1	উপরন্তু	CC
+2	এই	DEM
+3	ভাষার	NN
+4	কোন	QF
+5	লিপি	NN
+6	নেই	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=230>
+1	এজন্যও	PPR
+2	অনুমান	NN
+3	করা	VM
+4	হয়	VAUX
+5	,	SYM
+6	তোড়া	NNP
+7	অতি	INTF
+8	প্রাচীন	JJ
+9	ভাষা	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=231>
+1	এ	DEM
+2	ভাষার	NN
+3	যখন	PRP
+4	উদ্ভব	NN
+5	হয়েছিল	VM
+6	তখন	PRP
+7	সম্ভবত	RB
+8	দ্রাবিড়	NNP
+9	ভাষা	NN
+10	বর্গে	NN
+11	লিপির	NN
+12	আবির্ভাব	NN
+13	হয়	VM
+14	নি	NEG
+15	৷	SYM
+</Sentence>
+<Sentence id=232>
+1	প্রত্যন্ত	JJ
+2	অঞ্চলে	NN
+3	বাস	NN
+4	করছে	VM
+5	বলে	UT
+6	তাদের	PRP
+7	ভাষায়	NN
+8	আদিম	JJ
+9	বৈশিষ্ট্য	NN
+10	বজায়	NN
+11	আছে	VAUX
+12	৷	
+</Sentence>
+<Sentence id=233>
+1	তোড়াদের	NNP
+2	লিপি	NN
+3	না	NEG
+4	থাকলেও	VM
+5	লোকসঙ্গীতের	NN
+6	সম্ভার	NN
+7	খুব	INTF
+8	সমৃদ্ধ	JJ
+9	৷	SYM
+</Sentence>
+<Sentence id=234>
+1	অধ্যাপক	NNC
+2	ইমান্যু	NNP
+3	তোড়া	NNP
+4	লোকসঙ্গীতের	NN
+5	এক	QC
+6	বিশালকায়	JJ
+7	সংকলন	NN
+8	গ্রন্থ	NN
+9	প্রকাশ	NN
+10	করেছেন	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=235>
+1	উপসংহার	NN
+2	৷	SYM
+</Sentence>
+<Sentence id=236>
+1	উনিশ	QC
+2	শতকে	NN
+3	বিদেশী	JJ
+4	মিশনারীরা	NN
+5	তোড়াদের	NNP
+6	বিষয়ে	PSP
+7	বিশেষ	JJ
+8	কৌতূহল	NN
+9	দেখিয়েছিলেন	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=237>
+1	তাদের	PRP
+2	সমাজজীবন	NN
+3	নিয়ে	PSP
+4	কেউ	QF
+5	আলোচনা	NN
+6	করেছেন	VM
+7	,	SYM
+8	কেউ	QF
+9	কেউ	RDP
+10	তাদের	PRP
+11	ভাষা	NN
+12	বিশ্লেষণ	NN
+13	করে	VM
+14	এদের	PRP
+15	গোত্র-পরিচয়	NN
+16	জানতে	VM
+17	চেয়েছেন	VAUX
+18	৷	SYM
+</Sentence>
+<Sentence id=238>
+1	অনেকের	PRP
+2	লেখাতে	NN
+3	ধরা	VM
+4	পড়েছে	VAUX
+5	সমাজতাত্ত্বিক	NN
+6	বা	CC
+7	ইতিহাসকারের	NN
+8	নিরপেক্ষতা	NN
+9	;	SYM
+10	কিন্তু	CC
+11	কারো	QF
+12	কারো	RDP
+13	লেখায়	NN
+14	ফুটে	VM
+15	উঠেছে	VAUX
+16	অবজ্ঞা	NN
+17	বা	CC
+18	স্পষ্ট	JJ
+19	তাচ্ছিল্য	NN
+20	৷	SYM
+</Sentence>
+<Sentence id=239>
+1	সাম্প্রতিককালে	NN
+2	তামিলনাডু	NNP
+3	সরকার	NN
+4	এদের	PRP
+5	উন্নতির	NN
+6	জন্য	PSP
+7	যত্নবান	NN
+8	হয়েছেন	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=240>
+1	সরকারী	JJ
+2	উদ্যোগে	NN
+3	তাদের	PRP
+4	বাসের	NN
+5	জন্য	PSP
+6	পাকা	JJ
+7	বাড়ী	NN
+8	তৈরি	VM
+9	করে	VAUX
+10	দেওয়া	VAUX
+11	হয়েছে	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=241>
+1	তাদের	PRP
+2	শিক্ষিত	JJ
+3	করে	VM
+4	তোলারও	VAUX
+5	বিশেষ	JJ
+6	চেষ্টা	NN
+7	হচ্ছে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=242>
+1	দু	QC
+2	চারজন	QC
+3	তোড়া	NNP
+4	ইতিমধ্যেই	RB
+5	চাষের	NN
+6	কাজে	NN
+7	নেমেছেন	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=243>
+1	তাদের	PRP
+2	মহিষ-কেন্দ্রিক	JJ
+3	সভ্যতার	NN
+4	এই	DEM
+5	অবিমিশ্র	JJ
+6	রূপটি	NN
+7	আর	INTF
+8	বেশিদিন	NN
+9	বজায়	NN
+10	থাকবে	VM
+11	না	NEG
+12	বলে	UT
+13	আশঙ্কা	NN
+14	হয়	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=244>
+1	তোড়া	NNP
+2	সংস্কৃতি	NN
+3	ভবিষ্যতে	NN
+4	বিলুপ্ত	JJ
+5	হয়ে	VM
+6	যাওয়াও	VAUX
+7	বিচিত্র	JJ
+8	নয়	NEG
+9	৷	SYM
+</Sentence>
+<Sentence id=245>
+1	জুলিয়াস	XC
+2	সীজার	NNP
+3	৷	SYM
+</Sentence>
+<Sentence id=246>
+1	পৃথ্্বীরাজ	XC
+2	সেন	NNP
+3	৷	SYM
+</Sentence>
+<Sentence id=247>
+1	রোমের	NNP
+2	রাজপথ	NN
+3	৷	SYM
+</Sentence>
+<Sentence id=248>
+1	তার	PRP
+2	কঠিন	JJ
+3	বুকে	NN
+4	চঞ্চল	JJ
+5	জনস্রোত	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=249>
+1	একটা	QC
+2	অপেক্ষা	NN
+3	৷	SYM
+</Sentence>
+<Sentence id=250>
+1	ঐ	PRP
+2	আসছে	VM
+3	ঐতো	PRP
+4	,	SYM
+5	ঐতো	PRP
+6	সেই	DEM
+7	বিজয়	XC
+8	বাহিনী	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=251>
+1	ঐতো	PRP
+2	আকাশে	NN
+3	জয়ের	NN
+4	লাল	JJ
+5	সূর্য	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=252>
+1	বাতাসে	NN
+2	একটা	QC
+3	গর্জন	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=253>
+1	সেটা	PRP
+2	কার	WQ
+3	জন্যে	PSP
+4	?	SYM
+</Sentence>
+<Sentence id=254>
+1	কার	WQ
+2	জন্যে	PSP
+3	আজ	NN
+4	গৃহ	NN
+5	ছেড়ে	VM
+6	পথ	NN
+7	মাঝে	NST
+8	অধীর	JJ
+9	আগ্রহে	NN
+10	অপেক্ষারত	JJ
+11	রোমের	NNP
+12	নাগরিক	NN
+13	৷	SYM
+</Sentence>
+<Sentence id=255>
+1	কে	WQ
+2	সে	PRP
+3	?	SYM
+</Sentence>
+<Sentence id=256>
+1	অপেক্ষা	NN
+2	করছে	VM
+3	জনগণ	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=257>
+1	অপেক্ষা	NN
+2	করছে	VM
+3	রাষ্ট্রের	NN
+4	আমলাতন্ত্র	NN
+5	তথাকথিত	JJ
+6	আদর্শবাদী	JJ
+7	বুদ্ধিজীবি	JJ
+8	অভিজাতের	NN
+9	দল	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=258>
+1	কিন্তু	CC
+2	তাঁদের	PRP
+3	পৃথক	JJ
+4	পৃথক	RDP
+5	অপেক্ষার	NN
+6	রঙ	NN
+7	কি	WQ
+8	?	SYM
+</Sentence>
+<Sentence id=259>
+1	যে	PRP
+2	আসছে	VM
+3	তাঁর	PRP
+4	অভিধানে	NN
+5	লেখা	VM
+6	আছে	VAUX
+7	জনগণের	NN
+8	স্বাধিকার	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=260>
+1	তাদেরই	PRP
+2	প্রতিনিধিরা	NN
+3	তাই	CC
+4	স্থান	NN
+5	পেয়েছে	VM
+6	সীনেটে	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=261>
+1	খর্ব	NN
+2	করা	VM
+3	হয়েছে	VAUX
+4	ধনী	JJ
+5	সম্প্রদায়ের	NN
+6	ক্ষমতা	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=262>
+1	ফলে	CC
+2	আগত	JJ
+3	এক	QC
+4	নায়কের	NN
+5	সামনে	NST
+6	গড়ে	VM
+7	উঠেছে	VAUX
+8	একটা	QC
+9	বিরুদ্ধতার	NN
+10	প্রাচীর	NN
+11	৷	SYM
+</Sentence>
+<Sentence id=263>
+1	জনতা	NN
+2	জয়ধ্বনি	NN
+3	করছে	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=264>
+1	অভিজাতদের	NN
+2	মনে	NN
+3	জ্বলছে	VM
+4	ক্রোধের	NN
+5	আগুন	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=265>
+1	জনতার	NN
+2	উল্লাসে	NN
+3	নীরব	JJ
+4	আমলাতন্ত্র	NN
+5	হঠাত্	RB
+6	সোচ্চার	JJ
+7	হয়ে	VM
+8	ওঠে	VAUX
+9	ট্রিবিউন	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=266>
+1	জনগণের	NN
+2	স্বার্থে	NN
+3	যাদের	PRP
+4	সৃষ্টি	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=267>
+1	কিন্তু	CC
+2	অভিজাত	JJ
+3	এই	DEM
+4	ট্রিবিউনের	NN
+5	হৃদয়ে	NN
+6	জনগণের	NN
+7	প্রতি	PSP
+8	এতটুকু	QF
+9	করুণা	NN
+10	নেই	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=268>
+1	দুই	QC
+2	ট্রিবিউন	NN
+3	ম্যারুল্লাস	NNP
+4	ও	CC
+5	ক্লোডিয়াস	NNP
+6	হঠাত্	RB
+7	এগিয়ে	VM
+8	যায়	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=269>
+1	অদূরে	NST
+2	দেখা	VM
+3	যায়	VAUX
+4	সেই	DEM
+5	বীর	JJ
+6	নায়ক	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=270>
+1	উল্লাস	NN
+2	যত	PRP
+3	বাড়ে	VM
+4	ট্রিবিউনদের	NN
+5	মনে	NN
+6	ক্রোধ	NN
+7	তত	PRP
+8	বাড়ে	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=271>
+1	সম্মুখে	NST
+2	বিশাল	JJ
+3	জনতা	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=272>
+1	তাদের	PRP
+2	উদ্দেশ্যে	PSP
+3	ছুঁড়ে	VM
+4	দেয়	VAUX
+5	ক্লেদভরা	JJ
+6	বক্তব্য	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=273>
+1	তাদের	PRP
+2	মধ্যে	NST
+3	একজনকে	NN
+4	উদ্দেশ্য	NN
+5	করে	VM
+6	ক্লোডিয়াস	NNP
+7	বলেন	VM
+8	,	SYM
+9	"	SYM
+10	কি	WQ
+11	ব্যাপার	NN
+12	কাজ	NN
+13	ফেলে	VM
+14	অযথা	RB
+15	ভিড়	NN
+16	জমিয়ে	VM
+17	চিত্কার	NN
+18	করছিস	VM
+19	কেন	WQ
+20	৷	SYM
+</Sentence>
+<Sentence id=274>
+1	কি	WQ
+2	করিস	VM
+3	তুই	PRP
+4	৷	SYM
+</Sentence>
+<Sentence id=275>
+1	"	SYM
+2	"	SYM
+3	আজ্ঞে	INJ
+4	আমি	PRP
+5	ছুতোর	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=276>
+1	"	SYM
+2	ম্যারুল্লাস	NNP
+3	আগ	NN
+4	বাড়িয়ে	VM
+5	বলেন	VM
+6	,	SYM
+7	"	SYM
+8	তা	PRP
+9	তোর	PRP
+10	যন্ত্রপাতির	NN
+11	তোরঙ্গ	NN
+12	কোথায়	WQ
+13	?	SYM
+</Sentence>
+<Sentence id=277>
+1	"	SYM
+2	তার	PRP
+3	উত্তর	NN
+4	পাবার	VM
+5	আগেই	NST
+6	আরেকজনকে	NN
+7	'	SYM
+8	য়্যাই	PRP
+9	শোন	VM
+10	তোর	PRP
+11	পেশাটা	NN
+12	কিরে	WQ
+13	?	SYM
+</Sentence>
+<Sentence id=278>
+1	"	SYM
+2	লোকটা	NN
+3	রসিক	JJ
+4	৷	SYM
+</Sentence>
+<Sentence id=279>
+1	উত্তরের	NN
+2	ভঙ্গিটা	NN
+3	এমন	PRP
+4	হলো	VM
+5	যাতে	PRP
+6	চামারও	NN
+7	বলা	VM
+8	যেতে	VAUX
+9	পারে	VAUX
+10	আবার	RB
+11	পুরুতও	NN
+12	বলা	VM
+13	যায়	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=280>
+1	ম্যারুল্লাসের	NNP
+2	চোখে	NN
+3	ক্রোধের	NN
+4	পূর্ব্বাভাস	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=281>
+1	লোকটি	NN
+2	তবু	CC
+3	রসিকতা	NN
+4	করতে	VM
+5	ছাড়ে	VM
+6	না	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=282>
+1	ম্যারুল্লাস	NNP
+2	এবার	PRP
+3	সত্যিই	RB
+4	ক্রোধে	NN
+5	ফেটে	VM
+6	পড়ে	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=283>
+1	বুদ্ধিমান	JJ
+2	মানুষ	NN
+3	ক্লোডিয়াস	NNP
+4	৷	SYM
+</Sentence>
+<Sentence id=284>
+1	পরিবেশটাকে	NN
+2	হাল্কা	JJ
+3	করে	VM
+4	জিজ্ঞাসা	NN
+5	করলেন	VM
+6	,	SYM
+7	"	SYM
+8	আজ	NN
+9	কি	RP
+10	তোর	PRP
+11	দোকান	NN
+12	বন্ধ	JJ
+13	?	SYM
+</Sentence>
+<Sentence id=285>
+1	"	SYM
+2	"	SYM
+3	আজ্ঞে	INJ
+4	না	NEG
+5	৷	SYM
+</Sentence>
+<Sentence id=286>
+1	"	SYM
+2	"	SYM
+3	তবে	CC
+4	?	SYM
+</Sentence>
+<Sentence id=287>
+1	"	SYM
+2	সীজার	NNP
+3	আসছে	VM
+4	যে	RP
+5	,	SYM
+6	তাকে	PRP
+7	দেখবো	VM
+8	,	SYM
+9	তার	PRP
+10	জয়ধ্বনি	NN
+11	করবো	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=288>
+1	সীজার	NNP
+2	৷	SYM
+</Sentence>
+<Sentence id=289>
+1	হ্যাঁ	INJ
+2	সীজার	NNP
+3	আসছে	VM
+4	আজ	NN
+5	রোমের	NNP
+6	পথ	NN
+7	ধরে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=290>
+1	সারা	QF
+2	মুখে	NN
+3	জয়ের	NN
+4	উচ্ছলতা	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=291>
+1	পাশে	NST
+2	সাথে	PSP
+3	এগিয়ে	VM
+4	চলেছে	VAUX
+5	নিযুত	JJ
+6	বিজয়বাহিনী	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=292>
+1	ম্যারুল্লাসের	NNP
+2	ক্রোধ	NN
+3	যেন	CC
+4	সীমা	NN
+5	ছাড়িয়ে	VM
+6	যেতে	VAUX
+7	চায়	VAUX
+8	চিত্কার	NN
+9	করে	VM
+10	বলেন	VM
+11	,	SYM
+12	"	SYM
+13	সীজার	NNP
+14	সীজার	RDP
+15	সীজার	RDP
+16	!	SYM
+</Sentence>
+<Sentence id=293>
+1	সে	PRP
+2	আসছে	VM
+3	তো	CC
+4	হয়েছেটা	VM
+5	কি	WQ
+6	!	SYM
+</Sentence>
+<Sentence id=294>
+1	কি	WQ
+2	মণিমাণিক্য	NN
+3	নিয়ে	VM
+4	আসছে	VAUX
+5	যার	PRP
+6	জন্যে	PSP
+7	তোদের	PRP
+8	এই	DEM
+9	জয়োল্লাস	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=295>
+1	তোরা	PRP
+2	কি	WQ
+3	বীর	JJ
+4	পশীকে	NNP
+5	ভুলে	VM
+6	গেছিস	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=296>
+1	মনে	NN
+2	কি	WQ
+3	পড়ে	VM
+4	না	NEG
+5	,	SYM
+6	তোদের	PRP
+7	এই	DEM
+8	নগরপ্রাসাদেই	NN
+9	তোরা	PRP
+10	তার	PRP
+11	জয়ধ্বনি	NN
+12	দিতিস	VM
+13	৷	SYM
+</Sentence>
+<Sentence id=297>
+1	মনে	NN
+2	কি	WQ
+3	পড়ে	VM
+4	না	NEG
+5	তোদের	PRP
+6	সেই	DEM
+7	জয়ধ্বনিতে	NN
+8	ঠাইবার	NNP
+9	কেঁপে	VM
+10	উঠত	VAUX
+11	?	SYM
+</Sentence>
+<Sentence id=298>
+1	আজ	NN
+2	সেই	DEM
+3	পশীর	NNP
+4	রক্তেই	NN
+5	বসন	NN
+6	রঞ্জিত	JJ
+7	করে	VM
+8	সীজার	NNP
+9	আসছে	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=299>
+1	তোরা	PRP
+2	কিনা	RP
+3	তাঁরই	PRP
+4	জয়ধ্বনি	NN
+5	করছিস	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=300>
+1	ধিক্	INJ
+2	ধিক্	RDP
+3	তোদের	PRP
+4	৷	SYM
+</Sentence>
+<Sentence id=301>
+1	ওরে	PRP
+2	ক্ষমা	NN
+3	চেয়ে	VM
+4	নে	VAUX
+5	এই	DEM
+6	বেলা	NN
+7	দেবতার	NN
+8	কাছে	NST
+9	৷	SYM
+</Sentence>
+<Sentence id=302>
+1	না	NEG
+2	হলে	VM
+3	সমূহ	JJ
+4	বিপদ	NN
+5	সামনে	NST
+6	৷	SYM
+</Sentence>
+<Sentence id=303>
+1	"	SYM
+2	ক্লোডিয়াস	NNP
+3	চতুর	JJ
+4	৷	SYM
+</Sentence>
+<Sentence id=304>
+1	পরিস্থিতি	NN
+2	উপলব্ধি	NN
+3	করার	VM
+4	ক্ষমতা	NN
+5	আছে	VM
+6	তাই	CC
+7	শান্ত	JJ
+8	স্বরে	NN
+9	বলেন	VM
+10	"	SYM
+11	তোমরা	PRP
+12	অবুঝ	JJ
+13	,	SYM
+14	যে	DEM
+15	অপরাধ	NN
+16	না	NEG
+17	জেনে	VM
+18	করেছো	VM
+19	,	SYM
+20	তার	PRP
+21	জন্য	PSP
+22	সমগ্র	QF
+23	দরিদ্রদের	NN
+24	একত্রিত	JJ
+25	করে	VM
+26	ঠাইবারের	NNP
+27	তীরে	NN
+28	কাঁদো	VM
+29	,	SYM
+30	তোমাদের	PRP
+31	চোখের	NN
+32	জলে	NN
+33	ঠাইবার	NNP
+34	আরো	INTF
+35	স্ফীত	JJ
+36	হউক	VM
+37	৷	SYM
+</Sentence>
+<Sentence id=305>
+1	দুকুল	NN
+2	ভাসিয়ে	VM
+3	দিক	VAUX
+4	সেই	DEM
+5	স্ফীত	JJ
+6	চোখের	NN
+7	জলে	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=306>
+1	/	SYM
+2	/	SYM
+3	কিন্তু	CC
+4	তখন	PRP
+5	আর	JJ:?
+6	সময়	NN
+7	নেই	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=307>
+1	সামনের	NST
+2	দুর্বার	JJ
+3	ধ্বংসের	NN
+4	গতি	NN
+5	তার	PRP
+6	জীবনরথকে	NN
+7	টেনে	VM
+8	নিয়ে	VAUX
+9	যাচ্ছে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=308>
+1	ব্রুটাস	NNP
+2	কিন্তু	CC
+3	বলতে	VM
+4	চাইছেন	VAUX
+5	কাল	NN
+6	এসে	VM
+7	তার	PRP
+8	বাক্যরোধ	NN
+9	করছে	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=309>
+1	জনান্তিক	NN:?
+2	নির্বাক	JJ
+3	,	SYM
+4	নিষ্পন্দ	JJ
+5	৷	SYM
+</Sentence>
+<Sentence id=310>
+1	সে	PRP
+2	ইতিহাসকে	NN
+3	প্রশ্ন	NN
+4	করে	VM
+5	তারপর	RB
+6	...	SYM
+7	?	SYM
+</Sentence>
+<Sentence id=311>
+1	তৃতীয়	QO
+2	পরিচ্ছেদ	NN
+3	তারপর	RB
+4	কেটে	VM
+5	গেছে	VAUX
+6	আরো	JJ
+7	দুই	QC
+8	পক্ষ	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=312>
+1	আজ	NN
+2	চৌদ্দই	QO
+3	মার্চ	NNP
+4	৷	SYM
+</Sentence>
+<Sentence id=313>
+1	দিনের	NN
+2	সূর্যটা	NN
+3	কখন	PRP
+4	যে	RP
+5	চক্রান্ত	NN
+6	করে	VM
+7	রাত্রির	NN
+8	আঁধারকে	NN
+9	টেনে	VM
+10	এনেছে	VAUX
+11	বোঝা	VM
+12	গেলো	VAUX
+13	না	NEG
+14	৷	SYM
+</Sentence>
+<Sentence id=314>
+1	আর	CC
+2	আঁধার	NN
+3	এনেছে	VM
+4	ঝঞ্ঝা	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=315>
+1	বিদ্যুত্	XC
+2	শিখা	NN
+3	পলকে	RB
+4	উঠছে	VAUX
+5	চমকে	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=316>
+1	প্রকৃতিও	NN
+2	যেন	CC
+3	জানিয়ে	VM
+4	দিচ্ছে	VAUX
+5	চক্রান্তের	NN
+6	পূর্বাভাস	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=317>
+1	পনেরই	QO
+2	মার্চ	NNP
+3	সাবধান	JJ
+4	৷	SYM
+</Sentence>
+<Sentence id=318>
+1	সহস্র	QF
+2	বাক্যের	NN
+3	ভীড়ে	NN
+4	তবু	CC
+5	যেন	RP
+6	এই	DEM
+7	বাক্য	NN
+8	হারাতে	VM
+9	পারে	VAUX
+10	না	NEG
+11	৷	SYM
+</Sentence>
+<Sentence id=319>
+1	একটা	QC
+2	ভবিষ্যত্	XC
+3	বাণী	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=320>
+1	কুসংস্কারের	NN
+2	একটা	QC
+3	অঙ্গ	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=321>
+1	যা	PRP
+2	সীজারের	NNP
+3	জীবনে	NN
+4	প্রবেশ	NN
+5	নিষেধ	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=322>
+1	সেই	DEM
+2	সীজার	NNP
+3	কি	WQ
+4	আজ	NN
+5	ওই	DEM
+6	ভবিষ্যত্	XC
+7	বাণী	NN
+8	নিয়ে	PSP
+9	চিন্তিত	JJ
+10	নয়	VM
+11	?	SYM
+</Sentence>
+<Sentence id=323>
+1	শুধু	RB
+2	সীজার	NNP
+3	কেন	WQ
+4	,	SYM
+5	রোমের	NNP
+6	জনগণ	NN
+7	আজ	NN
+8	ভাবছেন	VM
+9	আগামী	JJ
+10	পনেরোই	QO
+11	মার্চ	NNP
+12	তার	PRP
+13	দিনের	NN
+14	রঙ	NN
+15	কি	WQ
+16	?	SYM
+</Sentence>
+<Sentence id=324>
+1	বাক্যটার	NN
+2	ওজন	NN
+3	কতটা	WQ
+4	তা	PRP
+5	নিয়ে	PSP
+6	কি	WQ
+7	গবেষণা	NN
+8	করছে	VM
+9	কাস্কাক্যাসিয়াস	NNP
+10	কিংবা	CC
+11	ব্রুটাস	NNP
+12	৷	SYM
+</Sentence>
+<Sentence id=325>
+1	আজকের	NN
+2	রাতের	NN
+3	বর্তমান	NN
+4	জানে	VM
+5	না	NEG
+6	আগামী	JJ
+7	কালের	NN
+8	রঙ	NN
+9	,	SYM
+10	রূপ	NN
+11	,	SYM
+12	ওজন	NN
+13	,	SYM
+14	গন্ধ	NN
+15	কতটা	WQ
+16	৷	SYM
+</Sentence>
+<Sentence id=326>
+1	কাল	NN
+2	কি	WQ
+3	হবে	VM
+4	কে	WQ
+5	জানে	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=327>
+1	প্রকৃতি	NN
+2	তার	PRP
+3	পূর্বাভাস	NN
+4	জানলেও	VM
+5	কেউ	PRP
+6	তা	PRP
+7	জানতে	VM
+8	চাইছে	VAUX
+9	না	NEG
+10	৷	SYM
+</Sentence>
+<Sentence id=328>
+1	জনান্তিক	NN
+2	তাই	CC
+3	ইতিহাসের	NN
+4	হাত	NN
+5	ধরে	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=329>
+1	জনহীন	JJ
+2	অন্ধকার	JJ
+3	ঝঞ্ঝামুখর	JJ
+4	রাতে	NN
+5	রোমের	NNP
+6	সর্পিল	JJ
+7	রেখা	XC
+8	পথ	NN
+9	এগিয়ে	VM
+10	যায়	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=330>
+1	ফিরে	VM
+2	ফিরে	RDP
+3	দেখে	VM
+4	পথের	NN
+5	দুধার	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=331>
+1	সারি	QF
+2	সারি	RDP
+3	গৃহ	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=332>
+1	রুদ্ধ	JJ
+2	তার	PRP
+3	দ্বার	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=333>
+1	নেই	VM
+2	দীপশিখা	NN
+3	,	SYM
+4	নেই	VM
+5	অভিসারিকা	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=334>
+1	রোমের	PRP
+2	পথে	NN
+3	অবিরাম	JJ
+4	বৃষ্টির	NN
+5	হানা	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=335>
+1	কিন্তু	CC
+2	কোথায়	WQ
+3	শান্তি	NN
+4	কোথায়	WQ
+5	শীতলতা	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=336>
+1	বৃষ্টিধারা	NN
+2	যেন	CC
+3	অগ্নিকণা	NN
+4	,	SYM
+5	রাতজাগা	JJ
+6	কোনো	QF
+7	পাখি	NN
+8	হঠাত্	RB
+9	তারস্বরে	RB
+10	চিত্কার	NN
+11	করে	VM
+12	ওঠে	VAUX
+13	৷	SYM
+</Sentence>
+<Sentence id=337>
+1	শুধু	RB
+2	কি	RP
+3	চিত্কার	NN
+4	না	CC
+5	অশুভ	JJ
+6	কোনো	QF
+7	ইঙ্গিতের	NN
+8	শিখা	NN
+9	?	SYM
+</Sentence>
+<Sentence id=338>
+1	ইতিহাসও	NN
+2	যেন	CC
+3	মূহুর্তে	RB
+4	থমকে	VM
+5	পড়ে	VAUX
+6	৷	SYM
+</Sentence>
+<Sentence id=339>
+1	কিন্তু	CC
+2	রোমের	NNP
+3	মানুষের	NN
+4	মনে	NN
+5	নিশ্চিত	JJ
+6	ধারণা	NN
+7	,	SYM
+8	প্রকৃতি	NN
+9	আজ	NN
+10	বয়ে	VM
+11	নিয়ে	VAUX
+12	আসছে	VAUX
+13	আগামীর	NN
+14	এক	QC
+15	অশুভের	NN
+16	বার্ত্তা	NN
+17	...	SYM
+18	কাসকা	NNP
+19	৷	SYM
+</Sentence>
+<Sentence id=340>
+1	রসিক	JJ
+2	কাসকা	NNP
+3	৷	SYM
+</Sentence>
+<Sentence id=341>
+1	কিন্তু	CC
+2	একি	INJ:?
+3	আজ	NN
+4	তাঁর	PRP
+5	ভাবমূর্ত্তি	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=342>
+1	উদভ্রান্ত	JJ
+2	কেন	WQ
+3	সে	PRP
+4	৷	SYM
+</Sentence>
+<Sentence id=343>
+1	চোখে	NN
+2	কিসের	WQ
+3	আগুন	NN
+4	!	SYM
+</Sentence>
+<Sentence id=344>
+1	হাতে	NN
+2	ওটা	PRP
+3	কি	WQ
+4	!	SYM
+</Sentence>
+<Sentence id=345>
+1	তরবারি	NN
+2	!	SYM
+</Sentence>
+<Sentence id=346>
+1	কিন্তু	CC
+2	কেন	WQ
+3	,	SYM
+4	কিসের	WQ
+5	জন্য	PSP
+6	উম্মুক্ত	JJ
+7	তরবারি	NN
+8	হাতে	NN
+9	আজ	NN
+10	সে	PRP
+11	ঝঞ্ঝামুখর	JJ
+12	রাতে	NN
+13	জনহীন	JJ
+14	এই	DEM
+15	পথে	NN
+16	?	SYM
+</Sentence>
+<Sentence id=347>
+1	আকাশের	NN
+2	বুক	NN
+3	চিরে	VM
+4	বিদ্যুত	NN
+5	হঠাত্	RB
+6	হেসে	VM
+7	উঠলো	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=348>
+1	ওঃ	INJ
+2	কী	JJ:?
+3	বীভত্সতার	NN
+4	হাসি	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=349>
+1	কাসকাও	NNP
+2	হঠাত্	RB
+3	থমকে	VM
+4	পড়ে	VAUX
+5	৷	SYM
+</Sentence>
+<Sentence id=350>
+1	সম্মুখে	NST
+2	আরেক	QC
+3	জন	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=351>
+1	ইতিহাস	NN
+2	চিনতে	VM
+3	পারো	VAUX
+4	ও	PRP
+5	কে	WQ
+6	?	SYM
+</Sentence>
+<Sentence id=352>
+1	হ্যাঁ	INJ
+2	জনান্তিক	NN
+3	৷	SYM
+</Sentence>
+<Sentence id=353>
+1	উনি	PRP
+2	প্রখ্যাত	JJ
+3	বক্তা	NN
+4	কিকেরো	NNP
+5	৷	SYM
+</Sentence>
+<Sentence id=354>
+1	কাস্কার	NNP
+2	কাছে	NST
+3	যিনি	PRP
+4	উপহাসের	NN
+5	পাত্র	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=355>
+1	মুখোমুখি	RB
+2	কিকেরো	NNP
+3	আর	CC
+4	কাস্কা	NNP
+5	৷	SYM
+</Sentence>
+<Sentence id=356>
+1	কিকেরো	NNP
+2	জিজ্ঞাসা	NN
+3	করলেন	VM
+4	-	SYM
+5	এমন	PRP
+6	ভাবে	RP
+7	উম্মাদের	NN
+8	মতো	PSP
+9	কোথায়	WQ
+10	ছুটে	VM
+11	চলেছ	VAUX
+12	?	SYM
+</Sentence>
+<Sentence id=357>
+1	কাস্কার	NNP
+2	মুখে	NN
+3	আজ	NN
+4	যেন	CC
+5	বাগ্মিতা	NN
+6	ঝরে	VM
+7	পড়ে	VAUX
+8	-	SYM
+9	দেখছো	VM
+10	না	NEG
+11	প্রকৃতি	NN
+12	কেমন	RP
+13	আজ	NN
+14	অন্তর	XC
+15	লীলায়	NN
+16	মেতে	VM
+17	উঠছে	VAUX
+18	৷	SYM
+</Sentence>
+<Sentence id=358>
+1	পৃথিবীর	NN
+2	আয়ু	NN
+3	ফুরিয়ে	VM
+4	আসছে	VAUX
+5	বন্ধু	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=359>
+1	দেখছো	VM
+2	না	NEG
+3	একটি	QC
+4	ক্রীতদাসের	NN
+5	সর্বাঙ্গে	NN
+6	আগুন	NN
+7	জ্বলছে	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=360>
+1	কেমন	RP:?
+2	যেন	RP
+3	অভাবনীয়	JJ
+4	সব	QF
+5	ঘটনা	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=361>
+1	চারিদিকে	NN
+2	কেমন	RP:?
+3	যেন	RP
+4	একটা	QC
+5	অশুভ	JJ
+6	সংকেত	NN
+7	...	SYM
+8	আচ্ছা	INJ
+9	একটা	QC
+10	কথা	NN
+11	,	SYM
+12	জানোকি	VM
+13	সীনেটের	NN
+14	সভায়	NN
+15	আগামীকাল	NN
+16	সীজার	NNP
+17	আসবেন	VM
+18	কিনা	RP
+19	?	SYM
+</Sentence>
+<Sentence id=362>
+1	আসবেন	VM
+2	৷	SYM
+</Sentence>
+<Sentence id=363>
+1	কিকেরো	NNP
+2	চলে	VM
+3	যান	VAUX
+4	৷	SYM
+</Sentence>
+<Sentence id=364>
+1	উপস্থিত	JJ
+2	হ'ন	VM
+3	আরেক	QC
+4	জন	CL
+5	৷	SYM
+</Sentence>
+<Sentence id=365>
+1	তবে	CC
+2	উদভ্রান্তের	NN
+3	মতো	PSP
+4	নয়	VM
+5	,	SYM
+6	লঘু	JJ
+7	পদক্ষেপে	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=366>
+1	ক্যাসিয়াস	NNP
+2	!	SYM
+</Sentence>
+<Sentence id=367>
+1	হ্যাঁ	INJ
+2	বন্ধু	NN
+3	৷	SYM
+</Sentence>
+<Sentence id=368>
+1	কি	INTF
+2	ভয়ঙ্কর	JJ
+3	রাত	NN
+4	তাই	PRP
+5	না	NEG
+6	?	SYM
+</Sentence>
+<Sentence id=369>
+1	/	SYM
+2	/	SYM
+3	ক্যালপর্নিয়া	NNP
+4	তখন	PRP
+5	গভীর	JJ
+6	ঘুমে	NN
+7	আচ্ছন্ন	JJ
+8	,	SYM
+9	হাতের	NN
+10	কাছে	NST
+11	কামনার	NN
+12	ধন	NN
+13	সীজার	NNP
+14	তবুও	CC
+15	পলকে	RB
+16	পলকে	RDP
+17	দুঃস্বপ্নে	NN
+18	চমকে	VM
+19	উঠছেন	VAUX
+20	তিনি	PRP
+21	,	SYM
+22	চিত্কার	NN
+23	করে	VM
+24	বললেন	VM
+25	-	SYM
+26	ঐ	PRP
+27	কে	WQ
+28	যেন	RP
+29	সীজারকে	NNP
+30	হত্যা	NN
+31	করছে	VM
+32	,	SYM
+33	বাঁচাও	VM
+34	-	SYM
+35	কে	WQ
+36	আছে	VM
+37	তাকে	PRP
+38	বাঁচাও	VM
+39	৷	SYM
+</Sentence>
+<Sentence id=370>
+1	তাঁর	PRP
+2	এই	DEM
+3	দুঃস্বপ্ন	XC
+4	ভরা	JJ
+5	আর্তনাদে	NN
+6	সংস্কারবিহীন	JJ
+7	সীজারের	NN
+8	মনেও	NN
+9	কুসংস্কারের	NN
+10	ডঙ্কা	NN
+11	বেজে	VM
+12	ওঠে	VAUX
+13	৷	SYM
+</Sentence>
+<Sentence id=371>
+1	ভৃত্যকে	NN
+2	ডেকে	VM
+3	আদেশ	NN
+4	দিলেন	VM
+5	এখনি	PRP
+6	যাও	VM
+7	পুরোহিতের	NN
+8	কাছে	NST
+9	-	SYM
+10	দেবতার	NN
+11	উদ্দেশ্যে	PSP
+12	বলি	NN
+13	দিয়ে	VM
+14	জেনে	VM
+15	এস	VAUX
+16	দিনের	NN
+17	শুভ	JJ
+18	ও	CC
+19	অশুভ	JJ
+20	বার্তা	NN
+21	৷	SYM
+</Sentence>
+<Sentence id=372>
+1	ভৃত্য	NN
+2	চলে	VM
+3	যায়	VAUX
+4	৷	SYM
+</Sentence>
+<Sentence id=373>
+1	সীজার	NNP
+2	অস্থির	JJ
+3	চিত্তে	NN
+4	পদচারণা	NN
+5	করতে	VM
+6	থাকেন	VAUX
+7	,	SYM
+8	ক্যালপানিয়া	NNP
+9	আসেন	VM
+10	সীজারের	NNP
+11	পাশে	NST
+12	,	SYM
+13	তিনি	PRP
+14	যোগ্যা	JJ
+15	সহর্ধমিনী	NN
+16	নন	VM
+17	৷	SYM
+</Sentence>
+<Sentence id=374>
+1	তাঁর	PRP
+2	মনে	NN
+3	থাকতে	VM
+4	পারে	VAUX
+5	কোন	QF
+6	নারীসুলভ	JJ
+7	উচ্চাকাঙ্খা	NN
+8	কিন্তু	CC
+9	স্বামীর	NN
+10	অনুপ্রেরণা	NN
+11	যোগাবার	VM
+12	ক্ষমতা	NN
+13	তাঁর	PRP
+14	নেই	VM
+15	,	SYM
+16	তিনি	PRP
+17	সাধারণ	JJ
+18	নারী	NN
+19	বর-নারী	NN
+20	হওয়া	VM
+21	অনেক	QF
+22	দূরে	NST
+23	৷	SYM
+</Sentence>
+<Sentence id=375>
+1	তাই	CC
+2	তিনি	PRP
+3	সীজারকে	NNP
+4	বললেন	VM
+5	-	SYM
+6	আজকে	NN
+7	কি	WQ
+8	তুমি	PRP
+9	সিনেট	NN
+10	যাবে	VM
+11	?	SYM
+</Sentence>
+<Sentence id=376>
+1	সীজার	NNP
+2	বললেন	VM
+3	-	SYM
+4	আমি	PRP
+5	জানি	VM
+6	অমঙ্গলের	NN
+7	বিভীষিকা	NN
+8	আমার	PRP
+9	পিছনে	NST
+10	পঙ্গপালের	NN
+11	মতো	PSP
+12	ছুটে	VM
+13	আসছে	VAUX
+14	,	SYM
+15	কিন্তু	CC
+16	তবুও	CC
+17	আমি	PRP
+18	আজ	NN
+19	সিনেট	NN
+20	যাবো	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=377>
+1	দুর্বলা	JJ
+2	নারী	NN
+3	ক্যালপর্নিয়া	NNP
+4	আতঙ্কে	NN
+5	কম্পমান	JJ
+6	কণ্ঠে	NN
+7	বললেন	VM
+8	-	SYM
+9	শুভ-অশুভ	JJ
+10	সূচনায়	NN
+11	আমি	PRP
+12	বিশ্বাস	NN
+13	করিনি	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=378>
+1	কিন্তু	CC
+2	তবুও	CC
+3	যেন	RP
+4	আজ	NN
+5	মনে	NN
+6	হচ্ছে	VM
+7	কোন	QF
+8	অশুভ	JJ
+9	প্রেতাত্মার	NN
+10	দল	NN
+11	আপনাকে	PRP
+12	ধ্বংস	NN
+13	করার	VM
+14	জন্য	VAUX
+15	সঙ্গবদ্ধ	JJ
+16	হয়ে	VM
+17	এগিয়ে	VM
+18	আসছে	VAUX
+19	,	SYM
+20	তাদের	PRP
+21	জ্বলন্ত	JJ
+22	চক্ষু	NN
+23	হতে	PSP
+24	রাশি	QF
+25	রাশি	RDP
+26	অগ্নিবৃষ্টি	NN
+27	যেন	CC
+28	আপনার	PRP
+29	চলার	VM
+30	পথে	NN
+31	বহ্নিমান	JJ
+32	প্রতিবন্ধক	NN
+33	সৃষ্টি	NN
+34	করেছে	VM
+35	,	SYM
+36	আপনি	PRP
+37	যাবেন	VM
+38	না	NEG
+39	প্রিয়	NN
+40	,	SYM
+41	দয়া	NN
+42	করে	VM
+43	আপনি	PRP
+44	যাবেন	VM
+45	না	NEG
+46	৷	SYM
+</Sentence>
+<Sentence id=379>
+1	সীজার	NNP
+2	যেন	RP
+3	আজ	NN
+4	বিচলিত	JJ
+5	৷	SYM
+</Sentence>
+<Sentence id=380>
+1	ক্যালপর্নিয়া	NNP
+2	উত্তরে	NN
+3	বললেন	VM
+4	বিধির	NN
+5	বিধান	NN
+6	যদি	CC
+7	তাই	PRP
+8	হয়	VM
+9	তবে	CC
+10	সীজার	NNP
+11	নিরুপায়	JJ
+12	৷	SYM
+</Sentence>
+<Sentence id=381>
+1	না	NEG
+2	,	SYM
+3	তা	PRP
+4	হয়	VM
+5	না	NEG
+6	অশুভ	NN
+7	মহতের	NN
+8	উপর	NST
+9	এসে	VM
+10	আঘাত	NN
+11	হানে	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=382>
+1	ভিখারী	NN
+2	যখন	PRP
+3	পথ	NN
+4	মাঝে	NST
+5	পিষ্ট	JJ
+6	হয়ে	VM
+7	মারা	VM
+8	যায়	VAUX
+9	তখন	PRP
+10	আকাশে	NN
+11	ধূমকেতু	NN
+12	দেখা	VM
+13	যায়	VAUX
+14	না	NEG
+15	৷	SYM
+</Sentence>
+<Sentence id=383>
+1	কিন্তু	CC
+2	ঐ	DEM
+3	ধূমকেতুরই	NN
+4	বহ্নিমান	JJ
+5	পুচ্ছ	NN
+6	উজ্জ্বল	JJ
+7	হয়ে	VM
+8	ওঠে	VAUX
+9	কোন	QF
+10	মহতের	NN
+11	মৃত্যুতে	NN
+12	৷	SYM
+</Sentence>
+<Sentence id=384>
+1	সীজার	NNP
+2	বললেন	VM
+3	ক্যালপর্নিয়া	NNP
+4	-	SYM
+5	ভীরু	NN
+6	মরে	VM
+7	বার	NN
+8	বার	RDP
+9	সাহসী	NN
+10	মরে	VM
+11	একবার	NN
+12	,	SYM
+13	কিন্তু	CC
+14	তবুও	CC
+15	আমার	PRP
+16	আশ্চর্য	JJ
+17	লাগে	VM
+18	কেন	WQ
+19	যেন	RP
+20	-	SYM
+21	মৃত্যু	NN
+22	অবশ্যম্ভাবী	JJ
+23	জেনেও	VM
+24	আমরা	PRP
+25	তাকে	PRP
+26	ভয়	NN
+27	করি	VM
+28	,	SYM
+29	মৃত্যুকে	NN
+30	সবার	PRP
+31	ভয়	NN
+32	,	SYM
+33	কিন্তু	CC
+34	সেই	DEM
+35	মৃত্যু	NN
+36	একদিন	NN
+37	সবাইকে	PRP
+38	গ্রাস	NN
+39	করবে	VM
+40	,	SYM
+41	এ	DEM
+42	কথা	NN
+43	জেনেও	VM
+44	আমরা	PRP
+45	মানতে	VM
+46	পারি	VAUX
+47	না	NEG
+48	৷	SYM
+</Sentence>
+<Sentence id=385>
+1	না	NEG
+2	ভীরু	XC
+3	কাপুরুষরা	NN
+4	মানবে	VM
+5	পুরোহিতের	NN
+6	ভবিষ্যত	XC
+7	বাণী	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=386>
+1	আজ	NN
+2	যদি	CC
+3	ভীত	JJ
+4	হয়ে	VM
+5	আমি	PRP
+6	ঘরে	NN
+7	স্বেচ্ছাকৃত	JJ
+8	বন্দি	NN
+9	হয়ে	VM
+10	থাকি	VAUX
+11	তবে	CC
+12	সেটা	PRP
+13	হবে	VM
+14	আমার	PRP
+15	মনের	NN
+16	দুর্বলতা	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=387>
+1	আমি	PRP
+2	যাবই	VM
+3	৷	SYM
+</Sentence>
+<Sentence id=388>
+1	ক্যালপর্নিয়ার	NNP
+2	সুন্দর	JJ
+3	মুখটা	NN
+4	কেমন	RP
+5	শুষ্ক	JJ
+6	গোলাপের	NN
+7	মত	PSP
+8	হয়ে	VM
+9	যায়	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=389>
+1	আকুল	JJ
+2	হয়ে	VM
+3	সীজারের	NNP
+4	কাছে	NST
+5	প্রার্থনা	NN
+6	জানায়	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=390>
+1	না	NEG
+2	প্রিয়	NN
+3	আজ	NN
+4	আপনি	PRP
+5	যাবেন	VM
+6	না	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=391>
+1	আপনার	PRP
+2	ক্যালপর্নিয়ার	NNP
+3	একান্ত	JJ
+4	অনুরোধ	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=392>
+1	মার্ক	XC
+2	য়্যাণ্টনীকে	NNP
+3	বরং	CC
+4	আপনি	PRP
+5	আদেশ	NN
+6	দিন	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=393>
+1	সীনেট	NN
+2	গিয়ে	VM
+3	তিনি	PRP
+4	জানিয়ে	VM
+5	আসুন	VAUX
+6	আজ	NN
+7	আপনি	PRP
+8	অসুস্থ	JJ
+9	৷	SYM
+</Sentence>
+<Sentence id=394>
+1	আপনার	PRP
+2	পায়ে	NN
+3	পড়ছি	VM
+4	দয়া	NN
+5	করে	VM
+6	যাবেন	VM
+7	না	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=395>
+1	অটল	JJ
+2	সীজার	NNP
+3	যেন	CC
+4	মুহূর্তে	RB
+5	চঞ্চল	JJ
+6	হয়ে	VM
+7	ওঠে	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=396>
+1	স্থির	JJ
+2	করেন	VM
+3	তিনি	PRP
+4	আজ	NN
+5	যাবেন	VM
+6	না	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=397>
+1	ঠিক	RB
+2	সেই	DEM
+3	মুহূর্তে	NN
+4	প্রবেশ	NN
+5	করলেন	VM
+6	ডিসিয়াস	NNP
+7	তাঁর	PRP
+8	উদ্দেশ্য	NN
+9	যেমন	PRP
+10	করে	RP
+11	হোক	VM
+12	ছলে	NN
+13	বলে	NN
+14	সীজারকে	NNP
+15	আজ	NN
+16	সীনেটে	NN
+17	নিয়ে	VM
+18	যেতে	VAUX
+19	হবে	VAUX
+20	৷	SYM
+</Sentence>
+<Sentence id=398>
+1	ডিসিয়াসকে	NNP
+2	দেখে	VM
+3	সীজার	NNP
+4	বললেন	VM
+5	-	SYM
+6	ঠিক	JJ
+7	সময়	NN
+8	এসেছো	VM
+9	তুমি	PRP
+10	৷	SYM
+</Sentence>
+<Sentence id=399>
+1	সীনেটে	NN
+2	আজ	NN
+3	জানিয়ে	VM
+4	দাও	VAUX
+5	সীজার	NNP
+6	আসছেন	VM
+7	না	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=400>
+1	ক্যালপর্নিয়া	NNP
+2	বললেন	VM
+3	-	SYM
+4	বলবেন	VM
+5	তিনি	PRP
+6	আজ	NN
+7	অসুস্থ	JJ
+8	৷	SYM
+</Sentence>
+<Sentence id=401>
+1	সীজার	NNP
+2	বাধা	NN
+3	দিয়ে	VM
+4	বললেন	VM
+5	-	SYM
+6	না	NEG
+7	,	SYM
+8	সীজার	NNP
+9	মিথ্যের	NN
+10	আশ্রয়	NN
+11	নিয়ে	PSP
+12	নিজের	PRP
+13	বিজয়	XC
+14	হস্ত	NN
+15	নিজে	PRP
+16	সঙ্কুচিত	JJ
+17	করবে	VM
+18	না	NEG
+19	৷	SYM
+</Sentence>
+<Sentence id=402>
+1	তুমি	PRP
+2	শুধু	RB
+3	গিয়ে	VM
+4	বলো	VM
+5	সীজার	NNP
+6	আজ	NN
+7	আসবে	VM
+8	না	NEG
+9	৷	SYM
+</Sentence>
+<Sentence id=403>
+1	ডিসিয়াস	NNP
+2	সরল	JJ
+3	মানুষের	NN
+4	মতো	PSP
+5	তার	PRP
+6	কারণ	NN
+7	জানতে	VM
+8	চাইলেন	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=404>
+1	সীজার	NNP
+2	শান্ত	JJ
+3	অথচ	CC
+4	দৃঢস্বরে	RB
+5	বললেন	VM
+6	-	SYM
+7	কারণ	CC
+8	আমার	PRP
+9	ইচ্ছা	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=405>
+1	এর	PRP
+2	বেশী	QF
+3	কিছু	PRP
+4	জানতে	VM
+5	চেও	VAUX
+6	না	NEG
+7	৷	SYM
+</Sentence>
+<Sentence id=406>
+1	তবুও	CC
+2	তোমাকে	PRP
+3	ভালবাসি	VM
+4	বলেই	UT
+5	বলছি	VM
+6	-	SYM
+7	আজ	NN
+8	আমার	PRP
+9	প্রিয়া	NN
+10	আমাকে	PRP
+11	গৃহবন্দী	JJ
+12	করে	VM
+13	রাখতে	VM
+14	চান	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=407>
+1	কেননা	CC
+2	তিনি	PRP
+3	নাকি	RP
+4	গতরাত্রে	NN
+5	এক	QC
+6	দুঃস্বপ্ন	NN
+7	দেখেছেন	VM
+8	আমার	PRP
+9	মূর্তির	NN
+10	গাত্র	NN
+11	হতে	PSP
+12	ফোয়ারার	NN
+13	মতো	PSP
+14	রুধির	NN
+15	নির্গত	JJ
+16	হচ্ছে	VM
+17	৷	SYM
+</Sentence>
+<Sentence id=408>
+1	আর	CC
+2	তারই	PRP
+3	সৌন্দর্য্যে	NN
+4	রোমের	NNP
+5	জনগণ	NN
+6	উল্লাস	NN
+7	আনন্দে	NN
+8	উচ্ছল	JJ
+9	হয়ে	VM
+10	সেই	DEM
+11	রুধির	XC
+12	ধারায়	NN
+13	নিজেরা	PRP
+14	সিক্ত	JJ
+15	হচ্ছেন	VM
+16	৷	SYM
+</Sentence>
+<Sentence id=409>
+1	সেইজন্য	CC
+2	ক্যালপর্নিয়ার	NNP
+3	অনুরোধ	NN
+4	আজ	NN
+5	যেন	CC
+6	আমি	PRP
+7	সীনেটে	NN
+8	না	NEG
+9	যাই	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=410>
+1	/	SYM
+2	/	SYM
+3	-	SYM
+4	ধন্যবাদ	NN
+5	বন্ধু	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=411>
+1	আপাতত	RB
+2	আমি	PRP
+3	কি	WQ
+4	সীজারকে	NNP
+5	বণিক	XC
+6	চত্বের	NN
+7	জন	NN
+8	সমীপে	NST
+9	নিয়ে	VM
+10	যেতে	VAUX
+11	পারি	VAUX
+12	?	SYM
+</Sentence>
+<Sentence id=412>
+1	আমি	PRP
+2	তার	PRP
+3	মৃতদেহ	NN
+4	নিয়ে	VM
+5	অন্ত্যেষ্টিভাষণ	NN
+6	দিতে	VM
+7	চাই	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=413>
+1	ব্রুটাস	NNP
+2	য়্যাণ্টনীর	NNP
+3	আবেদন	NN
+4	মঞ্জুর	NN
+5	করলেন	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=414>
+1	ক্যাসিয়াস	NNP
+2	কিন্তু	CC
+3	অলক্ষ্যে	RB
+4	বাধা	NN
+5	দিলেন	VM
+6	-	SYM
+7	ব্রুটাস	NNP
+8	তুমি	PRP
+9	কি	WQ
+10	করছো	VM
+11	বুঝতে	VM
+12	পারছি	VAUX
+13	না	NEG
+14	৷	SYM
+</Sentence>
+<Sentence id=415>
+1	ওর	PRP
+2	কথায়	NN
+3	যদি	CC
+4	জনগণ	NN
+5	ক্ষিপ্ত	JJ
+6	হয়ে	VM
+7	ওঠে	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=416>
+1	সেটা	PRP
+2	সামলাবার	VM
+3	ভার	NN
+4	আমার	PRP
+5	৷	SYM
+</Sentence>
+<Sentence id=417>
+1	কেননা	CC
+2	সীজারের	NNP
+3	অন্ত্যেষ্টিভাষণ	NN
+4	আমি	PRP
+5	সর্বাগ্রে	RB:?
+6	দেবো	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=418>
+1	জানিনা	VM
+2	কি	WQ
+3	হবে	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=419>
+1	আমার	PRP
+2	কিন্তু	CC
+3	সন্দেহ	NN
+4	হচ্ছে	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=420>
+1	ক্যাসিয়াসের	NNP
+2	মত	PSP
+3	কূট	JJ
+4	নন	VM
+5	ব্রুটাস	NNP
+6	৷	SYM
+</Sentence>
+<Sentence id=421>
+1	তিনি	PRP
+2	বিজ্ঞ	JJ
+3	৷	SYM
+</Sentence>
+<Sentence id=422>
+1	তাই	CC
+2	তিনি	PRP
+3	বললেন	VM
+4	-	SYM
+5	মহান	JJ
+6	য়্যাণ্টনী	NNP
+7	আপনি	PRP
+8	সীজারের	NNP
+9	শবদেহ	NN
+10	নিয়ে	VM
+11	গিয়ে	VAUX
+12	সীজারের	NNP
+13	সম্পর্কে	PSP
+14	মুখর	JJ
+15	হয়ে	VM
+16	উঠুন	VAUX
+17	তাতে	PRP
+18	আপত্তি	NN
+19	নেই	VM
+20	৷	SYM
+</Sentence>
+<Sentence id=423>
+1	কিন্তু	CC
+2	দয়া	NN
+3	করে	VM
+4	আমাদের	PRP
+5	দোষী	JJ
+6	করবেন	VM
+7	না	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=424>
+1	মহানুভব	JJ
+2	আপনি	PRP
+3	৷	SYM
+</Sentence>
+<Sentence id=425>
+1	আপনি	PRP
+2	নিশ্চিত	JJ
+3	থাকতে	VM
+4	পারেন	VAUX
+5	৷	SYM
+</Sentence>
+<Sentence id=426>
+1	একে	PRP
+2	একে	RDP
+3	সকলেই	PRP
+4	সভাগৃহ	NN
+5	ত্যাগ	NN
+6	করলেন	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=427>
+1	তখন	PRP
+2	এসে	VM
+3	য়্যাণ্টনী	NNP
+4	ধীরে	RB
+5	ধীরে	RDP
+6	সীজারের	NNP
+7	পাশে	NST
+8	নতজানু	NN
+9	হয়ে	VM
+10	বসলেন	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=428>
+1	আবেগরুদ্ধ	JJ
+2	কণ্ঠে	NN
+3	বললেন	VM
+4	-	SYM
+5	আমায়	PRP
+6	ক্ষমা	NN
+7	করো	VM
+8	বন্ধু	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=429>
+1	যে	DEM
+2	জহ্লাদরা	NN
+3	তোমাকে	PRP
+4	হত্যা	NN
+5	করলো	VM
+6	,	SYM
+7	আজ	NN
+8	তাদেরই	PRP
+9	সাথে	PSP
+10	আমায়	PRP
+11	মিত্রতা	NN
+12	করতে	VM
+13	হলো	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=430>
+1	তুমি	PRP
+2	মহান	JJ
+3	তুমি	PRP
+4	বীর	JJ
+5	৷	SYM
+</Sentence>
+<Sentence id=431>
+1	তোমাকে	PRP
+2	যারা	PRP
+3	আঘাত	NN
+4	করছে	VM
+5	তাদের	PRP
+6	আমি	PRP
+7	চিনি	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=432>
+1	তোমারই	PRP
+2	রক্তাক্ত	JJ
+3	ক্ষতমুখ	NN
+4	তাদের	PRP
+5	রক্তাক্ত	JJ
+6	ওষ্ঠ	NN
+7	খুলে	VM
+8	নিঃশব্দ	JJ
+9	আবেদন	NN
+10	করছে	VM
+11	...	SYM
+12	সেই	DEM
+13	নিঃশব্দের	NN
+14	জোয়ারে	NN
+15	আমি	PRP
+16	গর্জে	VM
+17	ওঠার	VAUX
+18	ভাষার	NN
+19	বাণ	NN
+20	আনবো	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=433>
+1	তোমাকে	PRP
+2	স্পর্শ	NN
+3	করে	VM
+4	বলছি	VM
+5	-	SYM
+6	সীজারের	NNP
+7	মৃত্যু	NN
+8	বহন	NN
+9	করে	VM
+10	আনবে	VAUX
+11	পৃথিবীর	NN
+12	মানুষের	NN
+13	অভিশাপ	NN
+14	৷	SYM
+</Sentence>
+<Sentence id=434>
+1	ইতালী	NNP
+2	সাবধান	JJ
+3	৷	SYM
+</Sentence>
+<Sentence id=435>
+1	সর্বনাশ	NN
+2	গৃহযুদ্ধ	NN
+3	অচিরেই	RB
+4	সুরু	NN
+5	হচ্ছে	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=436>
+1	মানুষ	NN
+2	ভুলে	VM
+3	যাবে	VAUX
+4	দয়া	NN
+5	,	SYM
+6	মায়া	NN
+7	স্নেহ	NN
+8	ভালবাসা	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=437>
+1	সীজারের	NNP
+2	আত্মা	NN
+3	ধ্বংসের	NN
+4	সম্রাজ্ঞীকে	NN
+5	সাথী	NN
+6	করে	VM
+7	আক্রমণ	NN
+8	করবে	VM
+9	ইতালীকে	NNP
+10	৷	SYM
+</Sentence>
+<Sentence id=438>
+1	আগুন	NN
+2	...	SYM
+3	আগুন	NN
+4	জ্বলবে	VM
+5	...	SYM
+6	সবকিছু	PRP
+7	পুড়ে	VM
+8	ছাই	NN
+9	হয়ে	VM
+10	যাবে	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=439>
+1	প্রতিশোধ	NN
+2	সে	PRP
+3	নেবেই	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=440>
+1	রক্তের	NN
+2	প্রতিশোধ	NN
+3	রক্ত	NN
+4	দিয়েই	PSP
+5	৷	SYM
+</Sentence>
+<Sentence id=441>
+1	এমন	DEM
+2	সময়	NN
+3	এক	QC
+4	অনুচর	NN
+5	এসে	VM
+6	জানায়	VM
+7	,	SYM
+8	সীজারের	NNP
+9	ভাগিনেয়	NN
+10	আইভিয়াস	NNP
+11	আসছেন	VM
+12	রোমে	NNP
+13	৷	SYM
+</Sentence>
+<Sentence id=442>
+1	পরক্ষণেই	NN
+2	সীজারের	NNP
+3	মৃতদেহর	NN
+4	দিকে	NST
+5	তাকিয়ে	VM
+6	অনুচর	NN
+7	কেঁদে	VM
+8	উঠলো	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=443>
+1	য়্যাণ্টনী	NNP
+2	তাকে	PRP
+3	সান্ত্বনা	NN
+4	দিয়ে	PSP
+5	বললেন	VM
+6	-	SYM
+7	কেঁদো	VM
+8	না	NEG
+9	বন্ধু	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=444>
+1	এ	PRP
+2	বড়	INTF
+3	সংক্রামক	JJ
+4	রোগ	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=445>
+1	আপাততঃ	RB
+2	এসো	VM
+3	আমরা	PRP
+4	সীজারের	NNP
+5	মৃতদেহ	NN
+6	ধরাধরি	NN
+7	করে	VM
+8	নিয়ে	VM
+9	যাই	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=446>
+1	সীজারের	NNP
+2	মৃতদেহসহ	NN
+3	ওরাও	PRP
+4	চলে	VM
+5	গেল	VAUX
+6	৷	SYM
+</Sentence>
+<Sentence id=447>
+1	সভাগৃহ	NN
+2	এখন	PRP
+3	সম্পূর্ণ	INTF
+4	নির্জন	JJ
+5	৷	SYM
+</Sentence>
+<Sentence id=448>
+1	না	NEG
+2	তাই	PRP
+3	বা	RP:?
+4	কেন	WQ
+5	৷	SYM
+</Sentence>
+<Sentence id=449>
+1	সাক্ষী	NN
+2	রয়েছে	VM
+3	৷	SYM
+</Sentence>
+<Sentence id=450>
+1	তার	PRP
+2	মর্মর	JJ
+3	মূর্তি	NN
+4	উঁচু	JJ
+5	করে	RP
+6	দাঁড়িয়ে	VM
+7	আছে	VAUX
+8	সভাগৃহে	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=451>
+1	আচ্ছা	INJ
+2	ইতিহাস	NN
+3	একটা	QC
+4	প্রশ্ন	NN
+5	করবো	VM
+6	?	SYM
+</Sentence>
+<Sentence id=452>
+1	বলতে	VM
+2	পারো	VAUX
+3	শত্রুর	NN
+4	এই	DEM
+5	শোচনীর	JJ
+6	পরিণামে	NN
+7	পম্পী	NNP
+8	কি	RP
+9	তৃপ্ত	JJ
+10	হননি	VM
+11	...	SYM
+12	?	SYM
+</Sentence>
+<Sentence id=453>
+1	দ্বিতীয়	QO
+2	পরিচ্ছেদ	NN
+3	রোমের	NNP
+4	সেই	DEM
+5	প্রসিদ্ধ	JJ
+6	বাজার	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=454>
+1	যেখানে	PRP
+2	প্রকাশ্য	JJ
+3	সমাবেশ	NN
+4	হয়	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=455>
+1	দোষীর	NN
+2	বিচার	NN
+3	হয়	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=456>
+1	সে	PRP
+2	সাজা	NN
+3	পায়	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=457>
+1	হয়	VM
+2	ব্যবসা	XC
+3	বাণিজ্য	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=458>
+1	পৃথিবীর	NN
+2	প্রতি	JJ
+3	প্রান্তর	NN
+4	থেকে	PSP
+5	ছুটে	VM
+6	আসে	VAUX
+7	বণিকেরা	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=459>
+1	সুদূর	JJ
+2	চীন	NNP
+3	থেকে	PSP
+4	আসে	VM
+5	চীনা	XC
+6	মাটির	NN
+7	পাত্র	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=460>
+1	বঙ্গদেশ	NNP
+2	থেকে	PSP
+3	মসলিন	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=461>
+1	যবদ্বীপ	NNP
+2	থেকে	PSP
+3	আসে	VM
+4	সুগন্ধী	JJ
+5	মসলা	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=462>
+1	শুধু	RB
+2	কি	RP
+3	তাই	PRP
+4	৷	SYM
+</Sentence>
+<Sentence id=463>
+1	আসে	VM
+2	দেশ	XC
+3	বিদেশের	NN
+4	গুপ্তচর	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=464>
+1	গুপ্ত	JJ
+2	কথাও	NN
+3	এখানে	PRP
+4	ফেরি	NN
+5	হয়	VM
+6	তখন	PRP
+7	৷	SYM
+</Sentence>
+<Sentence id=465>
+1	বাজার	NN
+2	হয়	VM
+3	লোকে	NN
+4	লোকারণ্য	JJ
+5	৷	SYM
+</Sentence>
+<Sentence id=466>
+1	একটুকরো	QC
+2	রুটি	NN
+3	আর	CC
+4	একমুঠো	QC
+5	আনন্দের	NN
+6	উপকরণ	NN
+7	এই	PRP
+8	পেলেই	VM
+9	তারা	PRP
+10	খুশি	JJ
+11	৷	SYM
+</Sentence>
+<Sentence id=467>
+1	আজও	NN
+2	জমায়েত	NN
+3	হয়েছে	VM
+4	জনতা	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=468>
+1	কিন্তু	CC
+2	আজ	NN
+3	তাদের	PRP
+4	-	SYM
+5	কোনও	QF
+6	উল্লাস	NN
+7	নেই	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=469>
+1	আছে	VM
+2	শুধু	RB
+3	ঘনীভূত	JJ
+4	শোক	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=470>
+1	মহামান্য	JJ
+2	সীজার	NNP
+3	আর	RB
+4	ইহজগতে	NN
+5	নেই	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=471>
+1	তার	PRP
+2	স্থান	NN
+3	আজ	NN
+4	পূরণ	NN
+5	করবেন	VM
+6	ব্রুটাস	NNP
+7	ও	CC
+8	তাঁর	PRP
+9	সাথীরা	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=472>
+1	তাঁরা	PRP
+2	জানিয়েছেন	VM
+3	,	SYM
+4	-	SYM
+5	রোমের	NNP
+6	একনায়কতন্ত্রের	NN
+7	অবসান	NN
+8	হলো	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=473>
+1	এবার	NN
+2	প্রতিষ্ঠিত	JJ
+3	হবে	VM
+4	গণতন্ত্র	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=474>
+1	রোমের	NNP
+2	জনতা	NN
+3	শুধু	RB
+4	এই	DEM
+5	কথাই	NN
+6	জানেন	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=475>
+1	কিন্তু	CC
+2	এর	PRP
+3	পিছনে	NST
+4	যে	RP
+5	একটা	QC
+6	বিরাট	JJ
+7	ষড়যন্ত্র	NN
+8	আছে	VM
+9	তা	PRP
+10	তাদের	PRP
+11	অজ্ঞাত	JJ
+12	৷	SYM
+</Sentence>
+<Sentence id=476>
+1	ব্রুটাস	NNP
+2	তাই	CC
+3	ঘোষণা	NN
+4	করেছেন	VM
+5	অন্ত্যেষ্টিক্রিয়ার	NN
+6	দিনে	NN
+7	তিনি	PRP
+8	নিজে	PRP
+9	জানাবেন	VM
+10	সীজার-হত্যাব়	NN
+11	কারণ	NN
+12	৷	SYM
+</Sentence>
+<Sentence id=477>
+1	জনতার	NN
+2	সমারোহ	NN
+3	তাই	CC
+4	বাজার	XC
+5	চত্বরে	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=478>
+1	জনতা	NN
+2	চীত্কার	NN
+3	করে	VM
+4	-	SYM
+5	সীজার	XC
+6	হত্যার	NN
+7	আমরা	PRP
+8	কারণ	NN
+9	জানতে	VM
+10	চাই	VAUX
+11	...	SYM
+12	ব্রুটাস	NNP
+13	এগিয়ে	VM
+14	গেলেন	VAUX
+15	,	SYM
+16	জনতার	NN
+17	উদ্দেশ্যে	PSP
+18	বললেন	VM
+19	-	SYM
+20	প্রিয়	JJ
+21	রোম-বাসী	NN
+22	যারা	PRP
+23	আমার	PRP
+24	কথা	NN
+25	শুনতে	VM
+26	চাও	VAUX
+27	তারা	PRP
+28	এখানে	PRP
+29	থাকো	VM
+30	৷	SYM
+</Sentence>
+<Sentence id=479>
+1	যারা	PRP
+2	ক্যাসিয়াসের	NNP
+3	কথা	NN
+4	শুনতে	VM
+5	চাও	VAUX
+6	তারা	PRP
+7	তার	PRP
+8	দিকে	NST
+9	চলে	VM
+10	যাও	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=480>
+1	আমরা	PRP
+2	তোমাদের	PRP
+3	সীজার	XC
+4	হত্যার	NN
+5	কারণ	NN
+6	জানাবো	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=481>
+1	জনতা	NN
+2	যেন	CC
+3	দুলে	VM
+4	ওঠে	VAUX
+5	৷	SYM
+</Sentence>
+<Sentence id=482>
+1	কোনদিকে	NN
+2	যাবে	VM
+3	তারা	PRP
+4	৷	SYM
+</Sentence>
+<Sentence id=483>
+1	ক্যাসিয়াস	NNP
+2	না	CC
+3	ব্রুটাস	NNP
+4	৷	SYM
+</Sentence>
+<Sentence id=484>
+1	ব্রুটাস	NNP
+2	না	CC
+3	ক্যাসিয়াস	NNP
+4	৷	SYM
+</Sentence>
+<Sentence id=485>
+1	দেখতে	VM
+2	দেখতে	RDP
+3	দুটো	QC
+4	ভাগ	NN
+5	হয়ে	VM
+6	গেল	VAUX
+7	জনতার	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=486>
+1	ব্রুটাস	NNP
+2	এবার	NN
+3	বাজারের	NN
+4	সুউচ্চ	JJ
+5	মঞ্চে	NN
+6	উঠে	VM
+7	দাঁড়ালেন	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=487>
+1	স্তব্ধ	JJ
+2	জনতা	NN
+3	৷	SYM
+</Sentence>
+<Sentence id=488>
+1	ব্রুটাস	NNP
+2	ধীরে	RB
+3	ধীরে	RDP
+4	শুরু	NN
+5	করলেন	VM
+6	তাঁর	PRP
+7	বক্তব্য	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=489>
+1	হে	INJ
+2	আমার	PRP
+3	প্রিয়	JJ
+4	স্বদেশীয়	JJ
+5	বন্ধুগণ	NN
+6	!	SYM
+</Sentence>
+<Sentence id=490>
+1	তোমরা	PRP
+2	স্থির	JJ
+3	হয়ে	VM
+4	শোনো	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=491>
+1	আমার	PRP
+2	প্রতি	PSP
+3	যদি	CC
+4	তোমাদের	PRP
+5	এতটুকু	QF
+6	আস্থা	NN
+7	থাকে	VM
+8	,	SYM
+9	তবেই	CC
+10	আমাকে	PRP
+11	বিশ্বাস	NN
+12	করতে	VM
+13	পারবে	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=492>
+1	তোমরা	PRP
+2	তোমাদের	PRP
+3	জ্ঞান	XC
+4	চক্ষু	NN
+5	খুলে	VM
+6	দেখ	VM
+7	,	SYM
+8	বিচার	NN
+9	করো	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=493>
+1	হয়তো	RB
+2	তোমাদের	PRP
+3	মধ্যে	NST
+4	সীজারের	NNP
+5	কোনো	QF
+6	বন্ধু	NN
+7	থাকতে	VM
+8	পারে	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=494>
+1	তবে	CC
+2	তাকে	PRP
+3	আমি	PRP
+4	বলব	VM
+5	-	SYM
+6	সীজারের	NNP
+7	প্রতি	PSP
+8	ব্রুটাসের	NNP
+9	ভালবাসা	NN
+10	কারো	PRP
+11	চাইতে	PSP
+12	কম	JJ
+13	নয়	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=495>
+1	হয়ত	RB
+2	বন্ধুটি	NN
+3	দাবি	NN
+4	করতে	VM
+5	পারে	VAUX
+6	তবে	CC
+7	আমি	PRP
+8	সীজারের	NNP
+9	শত্রু	NN
+10	হলাম	VM
+11	কেন	WQ
+12	৷	SYM
+</Sentence>
+<Sentence id=496>
+1	আমার	PRP
+2	উত্তর	NN
+3	-	SYM
+4	সীজারের	NNP
+5	চেয়ে	PSP
+6	ভালবাসি	VM
+7	আমি	PRP
+8	আমার	PRP
+9	রোমকে	NNP
+10	৷	SYM
+</Sentence>
+<Sentence id=497>
+1	সে	PRP
+2	সবার	PRP
+3	থেকে	PSP
+4	বড়	JJ
+5	৷	SYM
+</Sentence>
+<Sentence id=498>
+1	তোমরা	PRP
+2	কি	WQ
+3	চাও	VM
+4	এই	DEM
+5	রোমের	NNP
+6	মাটিতে	NN
+7	সবাইকে	PRP
+8	ক্রীতদাস	NN
+9	করে	VM
+10	রাখুক	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=499>
+1	চাও	VM
+2	না	NEG
+3	৷	SYM
+</Sentence>
+<Sentence id=500>
+1	তাইতো	CC
+2	সীজারকে	NNP
+3	মৃত্যুবরণ	NN
+4	করতে	VM
+5	হলো	VAUX
+6	৷	SYM
+</Sentence>
+<Sentence id=501>
+1	সীজার	NNP
+2	আমাকে	PRP
+3	ভালবাসতেন	VM
+4	সত্যি	RB
+5	৷	SYM
+</Sentence>
+<Sentence id=502>
+1	তাইতো	CC
+2	আমি	PRP
+3	কাঁদি	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=503>
+1	তাঁর	PRP
+2	সৌভাগ্যে	NN
+3	আমার	PRP
+4	আনন্দ	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=504>
+1	তার	PRP
+2	বীরত্বের	NN
+3	জন্য	PSP
+4	আমিও	PRP
+5	মাথা	NN
+6	নত	JJ
+7	করে	VM
+8	শ্রদ্ধা	NN
+9	জানাই	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=505>
+1	কিন্তু	CC
+2	বন্ধুগণ	NN
+3	!	SYM
+</Sentence>
+<Sentence id=506>
+1	তিনি	PRP
+2	ছিলেন	VM
+3	উচ্চাকাঙ্খী	JJ
+4	বিলাসী	JJ
+5	৷	SYM
+</Sentence>
+<Sentence id=507>
+1	তাই	CC
+2	তাঁকে	PRP
+3	হত্যা	NN
+4	করতে	VM
+5	বাধ্য	JJ
+6	হলাম	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=508>
+1	যদি	CC
+2	এখনো	PRP
+3	কেউ	PRP
+4	তাঁর	PRP
+5	ক্রীতদাস	NN
+6	হয়ে	VM
+7	বাঁচতে	VM
+8	আশা	NN
+9	রাখে	VM
+10	,	VM
+11	তবে	CC
+12	সামনে	NST
+13	এসো	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=509>
+1	আমি	PRP
+2	অপরাধীর	NN
+3	মতো	PSP
+4	ক্ষমা	NN
+5	চেয়ে	VM
+6	নেবো	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=510>
+1	বলো	VM
+2	কেউ	PRP
+3	এমন	PRP
+4	আছো	VM
+5	যে	CC
+6	রোমে	NNP
+7	স্বাধীনভাবে	RB
+8	বাঁচতে	VM
+9	চায়	VAUX
+10	না	NEG
+11	৷	SYM
+</Sentence>
+<Sentence id=511>
+1	বলো	VM
+2	কেউ	PRP
+3	এমন	PRP
+4	আছো	VM
+5	যে	CC
+6	রোমকে	NNP
+7	ভালবাস	VM
+8	না	NEG
+9	৷	SYM
+</Sentence>
+<Sentence id=512>
+1	বল	VM
+2	উত্তর	NN
+3	দাও	VM
+4	...	SYM
+5	দাও	VM
+6	উত্তর	NN
+7	...	SYM
+8	জনতার	NN
+9	নিখুত	JJ
+10	কণ্ঠ	NN
+11	যেন	CC
+12	একসাথে	RB
+13	ধ্বনিত	JJ
+14	হয়	VM
+15	-	SYM
+16	না	NEG
+17	ব্রুটাস	NNP
+18	না	NEG
+19	৷	SYM
+</Sentence>
+<Sentence id=513>
+1	তেমন	DEM
+2	অভাগ্য	JJ
+3	এখানে	PRP
+4	কেউ	PRP
+5	নেই	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=514>
+1	ব্রুটাসও	NNP
+2	নিদ্রা	NN
+3	যাবার	VM
+4	আগে	NST
+5	অনুচরদের	NN
+6	বিশ্রাম	NN
+7	করার	VM
+8	জন্য	PSP
+9	লুসিয়াসকে	NNP
+10	আদেশ	NN
+11	দিলেন	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=515>
+1	শুধু	RB
+2	ক্লডিয়াস	NNP
+3	ও	CC
+4	দু-এক	QC
+5	জন	CL
+6	অনুচরকে	NN
+7	নিজের	PRP
+8	শিবিরে	NN
+9	ডেকে	VM
+10	পাঠালেন	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=516>
+1	রাত্রি	NN
+2	এনেছে	VM
+3	আঁধারের	NN
+4	দৃশ্যপট	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=517>
+1	সেজেছে	VM
+2	তমসারূপে	RB
+3	৷	SYM
+</Sentence>
+<Sentence id=518>
+1	ব্রুটাসের	NNP
+2	চোখে	NN
+3	ঘুম	NN
+4	আসেনা	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=519>
+1	ভৃত্য	NN
+2	লুসিয়াসকে	NNP
+3	বললেন	VM
+4	তার	PRP
+5	বীনা	NN
+6	বাজাতে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=520>
+1	ঘুমচোখে	RB
+2	ভৃত্য	NN
+3	লুসিয়াস	NNP
+4	কর্তব্য	NN
+5	করে	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=521>
+1	ঘুমচোখে	RB
+2	বাজায়	VM
+3	বীনা	NN
+4	...	SYM
+5	তার	PRP
+6	ঝঙ্কার	NN
+7	মৃদু	JJ
+8	তালে	NN
+9	ধ্বনিত	JJ
+10	হয়	VM
+11	বাতাসের	NN
+12	তরঙ্গে	NN
+13	তরঙ্গে	RDP
+14	৷	SYM
+</Sentence>
+<Sentence id=522>
+1	ব্রুটাস	NNP
+2	স্তব্ধ	JJ
+3	৷	SYM
+</Sentence>
+<Sentence id=523>
+1	কি	INTF
+2	অপূর্ব	JJ
+3	কি	INTF
+4	মিষ্টি	JJ
+5	সেই	DEM
+6	সুর	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=524>
+1	তন্দ্রাচ্ছন্ন	JJ
+2	হয়ে	VM
+3	পড়ে	VAUX
+4	লুসিয়াস	NNP
+5	৷	SYM
+</Sentence>
+<Sentence id=525>
+1	তাকে	PRP
+2	দেখে	VM
+3	ব্রুটাসের	NNP
+4	মনে	NN
+5	করুণা	NN
+6	জাগে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=526>
+1	বীনাটি	NN
+2	তার	PRP
+3	হাত	NN
+4	থেকে	PSP
+5	নিয়ে	VM
+6	নিষ্কৃতি	NN
+7	দিলেন	VM
+8	তাকে	PRP
+9	৷	SYM
+</Sentence>
+<Sentence id=527>
+1	সবাই	PRP
+2	পড়েছে	VAUX
+3	ঘুমিয়ে	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=528>
+1	ঘুম	NN
+2	নেই	VM
+3	শুধু	RB
+4	ব্রুটাসের	NNP
+5	চোখে	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=529>
+1	এইসময়	NN
+2	তার	PRP
+3	একমাত্র	JJ
+4	সাথী	NN
+5	পুঁথি	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=530>
+1	গভীর	JJ
+2	আরো	INTF
+3	গভীর	JJ
+4	হয়	VM
+5	রাত্রি	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=531>
+1	সারা	QF
+2	শিবিরটা	NN
+3	আলো	NN
+4	অন্ধকারের	NN
+5	কুয়াশায়	NN
+6	ঢাকা	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=532>
+1	কোনো	QF
+2	এক	QC
+3	অদৃশ্য	JJ
+4	অবয়ব	NN
+5	তার	PRP
+6	সম্মুখে	NST
+7	দণ্ডায়মান	JJ
+8	৷	SYM
+</Sentence>
+<Sentence id=533>
+1	ব্রুটাস	NNP
+2	চমকে	VM
+3	ওঠেন	VAUX
+4	...	SYM
+5	কে	WQ
+6	,	SYM
+7	কে	WQ
+8	!	SYM
+</Sentence>
+<Sentence id=534>
+1	অদৃশ্য	NN
+2	থেকে	PSP
+3	ভেসে	VM
+4	আসে	VAUX
+5	একটা	QC
+6	ভারী	JJ
+7	গম্ভীর	JJ
+8	স্বর	NN
+9	-	SYM
+10	আমি	PRP
+11	সীজারের	NNP
+12	প্রেতাত্মা	NN
+13	৷	SYM
+</Sentence>
+<Sentence id=535>
+1	ব্রুটাস	NNP
+2	নিথর	JJ
+3	নিস্পন্দ	JJ
+4	৷	SYM
+</Sentence>
+<Sentence id=536>
+1	তিনিও	PRP
+2	কুসংস্কারে	NN
+3	আবদ্ধ	JJ
+4	নন	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=537>
+1	তবুও	CC
+2	অজানা	JJ
+3	আশঙ্কায়	NN
+4	মুহূর্তের	NN
+5	জন্য	PSP
+6	তাঁর	PRP
+7	হিয়া	NN
+8	কেঁপে	VM
+9	ওঠে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=538>
+1	অস্পষ্ট	JJ
+2	জড়িত	JJ
+3	কণ্ঠে	NN
+4	বললেন	VM
+5	-	SYM
+6	এখানে	PRP
+7	আসার	VM
+8	কারণ	NN
+9	কি	WQ
+10	?	SYM
+</Sentence>
+<Sentence id=539>
+1	শুধু	RB
+2	বলতে	VM
+3	এসেছি	VAUX
+4	৷	SYM
+</Sentence>
+<Sentence id=540>
+1	আমাদের	PRP
+2	আবার	RB
+3	দেখা	VM
+4	হবে	VAUX
+5	৷	SYM
+</Sentence>
+<Sentence id=541>
+1	আবার	RB
+2	!	SYM
+</Sentence>
+<Sentence id=542>
+1	হ্যাঁ	INJ
+2	ফিলিপিতে	NNP
+3	আবার	RB
+4	দেখা	VM
+5	হবে	VAUX
+6	৷	SYM
+</Sentence>
+<Sentence id=543>
+1	আরো	JJ
+2	কিছু	PRP
+3	জিজ্ঞাসা	NN
+4	করার	VM
+5	আগেই	NST
+6	সেই	DEM
+7	ছায়ামূর্তি	NN
+8	বিদায়	NN
+9	নিলো	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=544>
+1	ব্রুটাস	NNP
+2	চীত্কার	NN
+3	করে	VM
+4	সবাইকে	PRP
+5	জাগিয়ে	VM
+6	তুললেন	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=545>
+1	সবাইকে	PRP
+2	জিজ্ঞাসা	NN
+3	করলেন	VM
+4	-	SYM
+5	তোরা	PRP
+6	কিছু	PRP
+7	দেখেছিস	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=546>
+1	প্রত্যেকেই	PRP
+2	জানালো	VM
+3	-	SYM
+4	না	NEG
+5	তারা	PRP
+6	কিছুই	PRP
+7	দেখেনি	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=547>
+1	ব্রুটাস	NNP
+2	চঞ্চল	JJ
+3	হয়ে	VM
+4	উঠলেন	VAUX
+5	৷	SYM
+</Sentence>
+<Sentence id=548>
+1	তিনি	PRP
+2	আদেশ	NN
+3	দিলেন	VM
+4	ক্যাসিয়াসকে	NNP
+5	এখনি	PRP
+6	সংবাদ	NN
+7	দাও	VM
+8	যেন	CC
+9	তাঁর	PRP
+10	সৈন্যদল	NN
+11	নিয়ে	PSP
+12	ফিলিপিতে	NNP
+13	চলে	VM
+14	যান	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=549>
+1	আমিও	PRP
+2	দেরী	NN
+3	করছি	VM
+4	না	NEG
+5	৷	SYM
+</Sentence>
+<Sentence id=550>
+1	আদেশ	NN
+2	নিয়ে	VM
+3	অনুচর	NN
+4	চলে	VM
+5	যায়	VAUX
+6	৷	SYM
+</Sentence>
+<Sentence id=551>
+1	ব্রুটাস	NNP
+2	আবার	RB
+3	অস্থির	JJ
+4	পদ-চারণায়	NN
+5	মেতে	VM
+6	ওঠেন	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=552>
+1	মুহূর্তের	NN
+2	দুঃস্বপ্ন	NN
+3	তাঁকে	PRP
+4	চিন্তিত	JJ
+5	করে	VM
+6	তোলে	VAUX
+7	চোখের	NN
+8	সামনে	NST
+9	ভেসে	VM
+10	ওঠে	VAUX
+11	সীজারের	NNP
+12	মুখটা	NN
+13	,	SYM
+14	যে	DEM
+15	সীজার	NNP
+16	তাকে	PRP
+17	ভালবাসত	VM
+18	৷	SYM
+</Sentence>
+<Sentence id=553>
+1	যে	DEM
+2	সীজার	NNP
+3	ভাবতে	VM
+4	পারেনি	VAUX
+5	তার	PRP
+6	পরম	JJ
+7	হিতৈষী	NN
+8	ব্রুটাস	NNP
+9	তাঁকে	PRP
+10	চরম	JJ
+11	আঘাত	NN
+12	হানবে	VM
+13	...	SYM
+14	তিনি	PRP
+15	যেন	RP
+16	শুনতে	VM
+17	পাচ্ছেন	VAUX
+18	সীজারের	NNP
+19	শেষ	JJ
+20	কটি	QF
+21	কথা	NN
+22	...	SYM
+23	হায়	INJ
+24	ব্রুটাস	NNP
+25	!	SYM
+</Sentence>
+<Sentence id=554>
+1	শেষে	RB
+2	তুমিও	PRP
+3	...	SYM
+4	না	NEG
+5	...	SYM
+6	না	NEG
+7	...	SYM
+8	ব্রুটাস	NNP
+9	চীত্কার	NN
+10	করে	VM
+11	ওঠেন	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=555>
+1	তাঁর	PRP
+2	চীত্কারে	NN
+3	রাত্রির	NN
+4	নিস্তব্ধতা	NN
+5	হয়	VM
+6	খান	NN
+7	খান	RDP
+8	৷	SYM
+</Sentence>
+<Sentence id=556>
+1	প্রথম	QO
+2	পরিচ্ছেদ	NN
+3	ইতিহাস	NN
+4	এ	PRP
+5	কোথায়	WQ
+6	নিয়ে	VM
+7	এলে	VAUX
+8	এবার	NN
+9	?	SYM
+</Sentence>
+<Sentence id=557>
+1	এটা	PRP
+2	ফিলিপ	NNP
+3	জনান্তিক	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=558>
+1	তুমি	PRP
+2	জান	VM
+3	কি	WQ
+4	ফিলিপির	NNP
+5	নামকরনের	NN
+6	কারণ	NN
+7	?	SYM
+</Sentence>
+<Sentence id=559>
+1	জাননা	VM
+2	তবে	CC
+3	শোন	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=560>
+1	বহুদিন	NN
+2	আগে	NST
+3	ম্যাসিডনের	NNP
+4	অধীশ্বর	NN
+5	ছিলেন	VM
+6	ফিলিপ	NNP
+7	৷	SYM
+</Sentence>
+<Sentence id=561>
+1	তাঁর	PRP
+2	স্বপ্ন	NN
+3	ছিলো	VM
+4	পৃথিবী	NN
+5	দিগ্বিজয়ের	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=562>
+1	কিন্তু	CC
+2	মনের	NN
+3	আকাঙ্ক্ষা	NN
+4	মনে	NN
+5	রেখেই	VM
+6	তিনি	PRP
+7	পৃথিবী	NN
+8	ছেড়ে	VM
+9	চলে	VM
+10	যান	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=563>
+1	এরপর	RB
+2	এগিয়ে	VM
+3	আসেন	VAUX
+4	তাঁর	PRP
+5	পুত্র	NN
+6	আলেকজাণ্ডার	NNP
+7	...	SYM
+8	সেই	DEM
+9	ফিলিপই	NNP
+10	নিজের	PRP
+11	নামে	NN
+12	নামকরণ	NN
+13	করলেন	VM
+14	থেইস	XC
+15	রাজ্যের	NNP
+16	সীমান্ত	NN
+17	ফিলিপি	NNP
+18	৷	SYM
+</Sentence>
+<Sentence id=564>
+1	আজ	NN
+2	সেই	DEM
+3	ফিলিপও	NNP
+4	নেই	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=565>
+1	নেই	VM
+2	আলেকজাণ্ডারও	NNP
+3	৷	SYM
+</Sentence>
+<Sentence id=566>
+1	কিন্তু	CC
+2	সেই	DEM
+3	স্মৃতিবিজড়িত	JJ
+4	ফিলিপি	NNP
+5	আজও	NN
+6	দাঁড়িয়ে	VM
+7	আছে	VAUX
+8	পৃথিবীর	NN
+9	মাটিতে	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=567>
+1	যাকে	PRP
+2	কেন্দ্র	NN
+3	করে	VM
+4	আজকের	NN
+5	রণাঙ্গন	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=568>
+1	একদিকে	NN
+2	য়্যাণ্টনী	NNP
+3	অক্টেভিয়াস	NNP
+4	লেপিদাস	NNP
+5	৷	SYM
+</Sentence>
+<Sentence id=569>
+1	অপর	JJ
+2	দিকে	NN
+3	ব্রুটাস	NNP
+4	ও	CC
+5	ক্যাসিয়াস	NNP
+6	৷	SYM
+</Sentence>
+<Sentence id=570>
+1	দেখে	VM
+2	যাও	VAUX
+3	জনান্তিক	NN
+4	৷	SYM
+</Sentence>
+<Sentence id=571>
+1	য়্যাণ্টনীর	NNP
+2	রণস্থল	NN
+3	সম্বন্ধে	PSP
+4	দূরদর্শিতা	NN
+5	আছে	VM
+6	অক্টেভিয়াসের	NNP
+7	তা	PRP
+8	নেই	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=572>
+1	কে	WQ
+2	কোনদিকে	WQ
+3	যাবে	VM
+4	এই	PRP
+5	নিয়ে	PSP
+6	বাধে	VM
+7	তর্ক	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=573>
+1	ঠিক	RB
+2	সেই	DEM
+3	সময়	NN
+4	দূত	NN
+5	এসে	VM
+6	সংবাদ	NN
+7	জানায়	VM
+8	-	SYM
+9	সীমান্তে	NN
+10	শত্রুসৈন্য	NN
+11	জমায়েত	NN
+12	হয়েছে	VM
+13	৷	SYM
+</Sentence>
+<Sentence id=574>
+1	পুঁথিপত্রের	NN
+2	আঙিনায়	NN
+3	সমাজের	NN
+4	আলপনা	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=575>
+1	চিত্রা	XC
+2	দেব	NNP
+3	৷	SYM
+</Sentence>
+<Sentence id=576>
+1	সমালোচনা	NN
+2	৷	SYM
+</Sentence>
+<Sentence id=577>
+1	ইদানীং	RB
+2	বাংলা	XC
+3	বইয়ের	NN
+4	পাঠকদের	NN
+5	নিয়ে	VM
+6	নানারকম	JJ
+7	সমীক্ষার	NN
+8	কথা	NN
+9	প্রায়ই	RB
+10	শোনা	VM
+11	যায়	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=578>
+1	পাঠকদের	NN
+2	রূচি-প্রবণতা-বয়স-পেশা	NN
+3	সব	QF
+4	কিছুই	PRP
+5	নাকি	RP
+6	সেখানে	PRP
+7	খতিয়ে	VM
+8	দেখা	VM
+9	হচ্ছে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=579>
+1	এটা	PRP
+2	খুবই	RB
+3	আশার	NN
+4	ও	CC
+5	আশ্বাসের	NN
+6	কথা	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=580>
+1	এর	PRP
+2	ফলে	PSP
+3	হয়ত	RB
+4	অনেক	JJ
+5	তথ্য	NN
+6	ও	CC
+7	অনুদ্ঘাটিত	JJ
+8	সত্য	NN
+9	জানা	VM
+10	যাবে	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=581>
+1	এই	DEM
+2	ধরনের	NN
+3	দৃষ্টি	NN
+4	নিয়ে	PSP
+5	আমরা	PRP
+6	যদি	CC
+7	মধ্যযুগের	NN
+8	পুঁথিপত্রের	NN
+9	দিকে	PSP
+10	তাকাই	VM
+11	,	SYM
+12	সেখানেও	PRP
+13	এমন	DEM
+14	অনেক	QF
+15	কিছু	PRP
+16	পেতে	VM
+17	পারি	VAUX
+18	যা	PRP
+19	আমাদের	PRP
+20	প্রচলিত	JJ
+21	ধারণাকে	NN
+22	একটু	QF
+23	বদলে	VM
+24	দিতে	VAUX
+25	পারে	VAUX
+26	৷	SYM
+</Sentence>
+<Sentence id=582>
+1	যেমন	CC
+2	ধরা	VM
+3	যাক	VAUX
+4	,	SYM
+5	সেযুগের	NN
+6	পাঠকদের	NN
+7	কথা	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=583>
+1	সেকালে	NN
+2	বই	NN
+3	অর্থাত্	CC
+4	হাতে	NN
+5	লেখা	VM
+6	পুঁথিপত্রের	NN
+7	পাঠক	NN
+8	ছিল	VM
+9	কারা	WQ
+10	,	SYM
+11	কাদের	WQ
+12	জন্য	PSP
+13	এত	INTF
+14	ভুরি	JJ
+15	ভুরি	RDP
+16	বই	NN
+17	লেখা	VM
+18	হত	VAUX
+19	?	SYM
+</Sentence>
+<Sentence id=584>
+1	এত	QF
+2	পুঁথি	NN
+3	নকল	NN
+4	করা	VM
+5	হত	VAUX
+6	?	SYM
+</Sentence>
+<Sentence id=585>
+1	রাজ-পাঠক	NN
+2	বা	CC
+3	শ্রোতার	NN
+4	কথাই	NN
+5	মনে	NN
+6	আসা	VM
+7	স্বাভাবিক	JJ
+8	কেননা	CC
+9	কবিরা	NN
+10	রাজার	NN
+11	অর্থানুকূল্য	NN
+12	ও	CC
+13	পৃষ্ঠপোষকতার	NN
+14	কথা	NN
+15	গোপন	JJ
+16	করেননি	VM
+17	৷	SYM
+</Sentence>
+<Sentence id=586>
+1	কিন্তু	CC
+2	রাজার	NN
+3	জন্যে	PSP
+4	লেখা	VM
+5	হত	VAUX
+6	বলেই	CC
+7	যে	CC
+8	প্রজারা	NN
+9	রসের	NN
+10	ভোজে	NN
+11	বাদ	NN
+12	পড়ত	VM
+13	এমন	DEM
+14	কথা	NN
+15	বলা	VM
+16	যাবে	VAUX
+17	না	NEG
+18	বরং	CC
+19	পুঁথির	NN
+20	জীর্ণ	JJ
+21	পাতায়	NN
+22	মনোনিবেশ	NN
+23	করলে	VM
+24	উল্টো	JJ
+25	কথাই	NN
+26	মনে	NN
+27	হবে	VM
+28	৷	VM
+</Sentence>
+<Sentence id=587>
+1	রাজরাজড়ার	NN
+2	চেয়েও	PSP
+3	যেন	RP
+4	সেখানে	PRP
+5	সাধারণের	NN
+6	সংখ্যা	NN
+7	বেশি	JJ
+8	৷	SYM
+</Sentence>
+<Sentence id=588>
+1	সব	QF
+2	দেশেরই	NN
+3	প্রথম	QO
+4	দিকের	NN
+5	সাহিত্যে	NN
+6	রাজা	NN
+7	মন্ত্রি	NN
+8	সেনাপতিদের	NN
+9	কথা	NN
+10	লেখা	VM
+11	হয়	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=589>
+1	কারণ	NN
+2	সহজেই	RB
+3	অনুমেয়	JJ
+4	৷	SYM
+</Sentence>
+<Sentence id=590>
+1	মূলতঃ	RB
+2	এঁরাই	PRP
+3	ছিলেন	VM
+4	সাহিত্যের	NN
+5	পৃষ্ঠপোষক	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=591>
+1	নিজেদের	PRP
+2	বর্ণাঢ্য	JJ
+3	জীবনযাত্রার	NN
+4	প্রতিচ্ছবি	NN
+5	দেখার	VM
+6	আগ্রহ	NN
+7	তাঁদের	PRP
+8	পক্ষে	PSP
+9	স্বাভাবিক	JJ
+10	৷	SYM
+</Sentence>
+<Sentence id=592>
+1	বাংলা	XC
+2	সাহিত্যে	NN
+3	কিন্তু	CC
+4	এভাবে	RB
+5	অভিজাত	JJ
+6	সমাজ	NN
+7	মাথা	NN
+8	তুলে	VM
+9	দাঁড়ায়নি	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=593>
+1	রাজা	NN
+2	বা	CC
+3	ভূস্বামীদের	
+4	কথা	NN
+5	বড়	JJ
+6	করে	RP
+7	লেখা	VM
+8	হলেও	VAUX
+9	প্রায়ই	RB
+10	দেখা	VM
+11	গেছে	VAUX
+12	গল্পের	NN
+13	টানাপোড়েনে	NN
+14	খেটে-খাওয়া	JJ
+15	সাধারণ	JJ
+16	মানুষের	NN
+17	সুখদুঃখ	NN
+18	বোনা	VM
+19	হয়ে	VAUX
+20	গেছে	VAUX
+21	৷	SYM
+</Sentence>
+<Sentence id=594>
+1	এমনকি	RB
+2	দেবতাদের	NN
+3	আচরণও	NN
+4	একেবারে	RB
+5	সাধারণ	JJ
+6	মানুষের	NN
+7	মতো	PSP
+8	-	SYM
+9	শিব	NNP
+10	চাষ	NN
+11	করেন	VM
+12	,	SYM
+13	দুর্গা	NNP
+14	বাগ্দিনী	NN
+15	সেজে	VM
+16	মাছ	NN
+17	ধরেন	VM
+18	,	SYM
+19	ইন্দ্রের	NNP
+20	ছেলে	NN
+21	স্বর্গের	NN
+22	কাঁটাবন	NN
+23	থেকে	PSP
+24	খুঁজে	VM
+25	খুঁজে	RDP
+26	ফুল	NN
+27	তোলেন	VM
+28	,	SYM
+29	মনসা	NNP
+30	স্বর্গের	NN
+31	দেবী	NN
+32	কিন্তু	CC
+33	তার	PRP
+34	প্রিয়	JJ
+35	সখী	NN
+36	নেতা	XC
+37	ধোপানী	NNP
+38	৷	SYM
+</Sentence>
+<Sentence id=595>
+1	মর্ত্যের	NN
+2	রাজাদের	NN
+3	অবস্থাও	NN
+4	যে	RP
+5	বিশেষ	INTF
+6	ভাল	JJ
+7	ছিল	VM
+8	তা	PRP
+9	কিন্তু	CC
+10	নয়	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=596>
+1	কৃত্তিবাস	NNP
+2	যে	DEM
+3	গৌড়েশ্বরের	NN
+4	রাজসভায়	NN
+5	গিয়েছিলেন	VM
+6	তিনি	PRP
+7	নাকি	RP
+8	`	SYM
+9	আঙিনায়	NN
+10	রাঙা	JJ
+11	মাজুরি	NN
+12	'	SYM
+13	পেতে	VM
+14	বসে	VM
+15	মাঘ	XC
+16	মাসের	NNP
+17	`	SYM
+18	খরা	NN
+19	'	SYM
+20	পোয়াতেন	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=597>
+1	প্রশ্ন	NN
+2	এসে	VM
+3	পড়ে	VAUX
+4	কেন	WQ
+5	এমন	PRP
+6	হয়েছে	VM
+7	?	SYM
+</Sentence>
+<Sentence id=598>
+1	একবার	NN
+2	তো	RP
+3	নয়	VM
+4	বারবার	NN
+5	৷	SYM
+</Sentence>
+<Sentence id=599>
+1	কবিরা	NN
+2	কোন্	WQ
+3	পাঠকদের	NN
+4	মুখ	NN
+5	চেয়ে	VM
+6	কাব্য	NN
+7	লিখতেন	VM
+8	?	SYM
+</Sentence>
+<Sentence id=600>
+1	পরাগল	XC
+2	খাঁ	NNP
+3	,	SYM
+4	কৃষ্ণচন্দ্র	XC
+5	রায়	NNP
+6	,	SYM
+7	গোপাল	XC
+8	সিংহদেবের	NNP
+9	,	SYM
+10	না	CC
+11	মাথার	NN
+12	ঘাম	NN
+13	পায়ে	NN
+14	ফেলে	VM
+15	যারা	PRP
+16	কাজ	NN
+17	করে	VM
+18	তাদের	PRP
+19	?	SYM
+</Sentence>
+<Sentence id=601>
+1	হয়ত	RB
+2	অন্যান্য	JJ
+3	বহু	QF
+4	প্রশ্নের	NN
+5	মতো	PSP
+6	এ	DEM
+7	প্রশ্নও	NN
+8	অমীমাংসিত	JJ
+9	থেকে	VM
+10	যেত	VAUX
+11	যদি	CC
+12	না	RP:?
+13	কোন	QF
+14	কোন	RDP
+15	পুঁথির	NN
+16	শেষ	JJ
+17	পাতায়	NN
+18	পুঁথির	NN
+19	পাঠক	NN
+20	বা	CC
+21	মালিকের	NN
+22	নাম	NN
+23	লেখা	VM
+24	থাকত	VAUX
+25	৷	SYM
+</Sentence>
+<Sentence id=602>
+1	পুঁথিপত্রের	NN
+2	একেবারে	RB
+3	শেষ	JJ
+4	পাতায়	NN
+5	গ্রন্থ	NN
+6	শেষ	NN
+7	হবার	VM
+8	পরেও	NST
+9	লিপিকার	NN
+10	যেখানে	PRP
+11	পুঁথি	NN
+12	নকল	NN
+13	করার	VM
+14	সাল	XC
+15	তারিখ	XC
+16	দিন-ক্ষণ	NN
+17	লিখে	VM
+18	রাখেন	VAUX
+19	সেই	DEM
+20	বিরক্তিকর	JJ
+21	নীরস	JJ
+22	অংশটির	NN
+23	নাম	NN
+24	`	SYM
+25	পুষ্পিকা	NNP
+26	'	SYM
+27	৷	SYM
+</Sentence>
+<Sentence id=603>
+1	মূল	JJ
+2	গ্রন্থের	NN
+3	সঙ্গে	NST
+4	সম্পর্কহীন	JJ
+5	এই	DEM
+6	ছোট	JJ
+7	অংশটি	NN
+8	রসগ্রাহী	JJ
+9	পাঠকের	NN
+10	কাছে	NST
+11	যতই	INTF
+12	তুচ্ছ	JJ
+13	হোক	VM
+14	না	RP
+15	কেন	RP
+16	এর	PRP
+17	একটা	QF
+18	স্বতন্ত্র	JJ
+19	মূল্য	NN
+20	রয়েছে	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=604>
+1	সেকালের	NN
+2	জীবনযাত্রার	NN
+3	অনেক	QF
+4	খুঁটিনাটি	JJ
+5	খবর	NN
+6	এই	DEM
+7	পুষ্পিকা	NN
+8	থেকে	PSP
+9	পাওয়া	VM
+10	সম্ভব	JJ
+11	৷	SYM
+</Sentence>
+<Sentence id=605>
+1	সাধারণত	RB
+2	আমরা	PRP
+3	মনে	NN
+4	করি	VM
+5	আগেকার	JJ
+6	যুগের	NN
+7	বামুন	NN
+8	কায়েত	NN
+9	বদ্যিদের	NN
+10	মতো	PSP
+11	কয়েক	QF
+12	ঘর	NN
+13	পণ্ডিত	NN
+14	আর	CC
+15	বুদ্ধিজীবীরাই	NN
+16	বইপত্র	NN
+17	পড়তেন	VM
+18	আর	CC
+19	বাদবাকী	JJ
+20	সবাই	PRP
+21	ছিল	VM
+22	নিরক্ষর	JJ
+23	৷	SYM
+</Sentence>
+<Sentence id=606>
+1	কথাটা	NN
+2	একেবারেই	RB
+3	ভুল	JJ
+4	৷	SYM
+</Sentence>
+<Sentence id=607>
+1	এখনকার	PRP:?
+2	তুলনায়	NN
+3	সে	DEM
+4	যুগের	NN
+5	সাধারণ	JJ
+6	মানুষের	NN
+7	মধ্যে	NST
+8	লেখাপড়ার	NN
+9	চল্	NN
+10	ছিল	VM
+11	বেশি	JJ
+12	৷	SYM
+</Sentence>
+<Sentence id=608>
+1	পুষ্পিকার	NN
+2	সাক্ষ্য	NN
+3	থেকে	PSP
+4	জানা	VM
+5	যায়	VAUX
+6	দেড়শ	QC
+7	দুশ	QC
+8	বছর	NN
+9	আগে	NST
+10	মল্লরাজা	XC
+11	চৈতন্যসিহ	NNP
+12	আর	CC
+13	ত্রিপুরার	NNP
+14	রাজধর	XC
+15	মাণিক্যের	NNP
+16	মতো	PSP
+17	ভাগ্যিধর	XC
+18	দুলেও	NNP
+19	নিজ	PRP
+20	ব্যয়ে	NN
+21	পুঁথি	NN
+22	নকল	NN
+23	করাতেন	VM
+24	,	SYM
+25	ভাল	JJ
+26	লাগলে	VM
+27	অন্য	JJ
+28	পুঁথি	NN
+29	কিনতেন	VM
+30	অর্থাত্	CC
+31	পাঠক	NN
+32	হিসেবে	PSP
+33	তিনি	PRP
+34	রাজাদের	NN
+35	চেয়ে	PSP
+36	কোন	QF
+37	অংশে	NN
+38	হীন	JJ
+39	ছিলেন	VM
+40	না	NEG
+41	৷	SYM
+</Sentence>
+<Sentence id=609>
+1	পাত্রসায়রের	NNP
+2	মতো	PSP
+3	বর্ধিষ্ণু	JJ
+4	গ্রামে	NN
+5	চতুষ্পাঠী	NN
+6	বসত	VM
+7	জগন্নাথ	XC
+8	ধোপার	NNP
+9	উঠোনে	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=610>
+1	শুধু	RB
+2	তাই	PRP
+3	নয়	VM
+4	,	SYM
+5	সেখানে	PRP
+6	বসে	VM
+7	পুঁথি	NN
+8	লেখার	VM
+9	কাজও	NN
+10	হত	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=611>
+1	এমনও	PRP
+2	ধারণা	NN
+3	করা	VM
+4	হয়ে	VAUX
+5	থাকে	VAUX
+6	সেকালে	NN
+7	শ্রমজীবী	JJ
+8	নিরক্ষর	JJ
+9	মানুষরা	NN
+10	পুঁথি	NN
+11	নকল	NN
+12	করাতেন	VM
+13	শুধু	RB
+14	ধর্মভয়ে	NN
+15	৷	SYM
+</Sentence>
+<Sentence id=612>
+1	যুক্তির	NN
+2	অভাবে	NN
+3	এ	DEM
+4	কথা	NN
+5	খাটে	VM
+6	না	NEG
+7	বরং	CC
+8	মনে	NN
+9	হয়	VM
+10	পুঁথিপাঠ	NN
+11	ও	CC
+12	সাহিত্য	XC
+13	অনুশীলন	NN
+14	শুধু	RB
+15	পণ্ডিতদের	NN
+16	মধ্যে	NST
+17	সীমাবদ্ধ	JJ
+18	ছিল	VM
+19	না	NEG
+20	বলেই	CC
+21	বাংলা	XC
+22	সাহিত্যে	NN
+23	ঠাকুর	XC
+24	দেবতারা	NN
+25	পর্য্যন্ত	PSP
+26	সাধারণ	JJ
+27	মানুষ	NN
+28	হয়ে	VM
+29	গেছেন	VAUX
+30	৷	SYM
+</Sentence>
+<Sentence id=613>
+1	এককথায়	NN
+2	পুঁথিপত্রে	NN
+3	রাজারাজড়ার	NN
+4	নাম	NN
+5	থাকলেও	VM
+6	পাঠকসমাজের	NN
+7	বৃহত্	JJ
+8	অংশ	NN
+9	ছিলেন	VM
+10	কেজো	JJ
+11	লোকেরা	NN
+12	৷	SYM
+</Sentence>
+<Sentence id=614>
+1	অধিকাংশ	JJ
+2	বামুন	XC
+3	পণ্ডিত	NN
+4	সংস্কৃতশাস্ত্র	NN
+5	চর্চা	NN
+6	করতেন	VM
+7	আর	CC
+8	কায়েতরা	NN
+9	লেখাপড়ার	NN
+10	কাজকে	NN
+11	জীবিকা	NN
+12	হিসেবে	PSP
+13	কিংবা	CC
+14	বলা	VM
+15	যায়	VAUX
+16	জীবিকার্জনের	NN
+17	উপায়	NN
+18	হিসেবে	PSP
+19	গ্রহণ	NN
+20	করেছিলেন	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=615>
+1	লিপিকারের	NN
+2	কাজ	NN
+3	করে	VM
+4	চট্টগ্রামের	NNP
+5	মধুরাম	XC
+6	নন্দী	NNP
+7	ঐ	DEM
+8	অঞ্চলে	NN
+9	এত	INTF
+10	পরিচিত	JJ
+11	হয়েছিলেন	VM
+12	যে	CC
+13	একটা	QC
+14	বিশেষ	JJ
+15	হাতের	NN
+16	লেখার	NN
+17	ছাঁদের	NN
+18	নামই	NN
+19	হয়ে	VM
+20	গিয়েছিল	VAUX
+21	`	SYM
+22	মধুরামী	XC
+23	লিপি	NNP
+24	'	SYM
+25	৷	SYM
+</Sentence>
+<Sentence id=616>
+1	এই	DEM
+2	মধুরামের	NNP
+3	ছেলে	NN
+4	কালিদাসও	NNP
+5	লিপিকারের	NN
+6	জীবিকা	NN
+7	গ্রহণ	NN
+8	করেছিলেন	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=617>
+1	শ্রমজীবীরা	NN
+2	যে	CC
+3	নিরক্ষর	JJ
+4	ছিলেন	VM
+5	না	NEG
+6	তার	PRP
+7	আরো	QF
+8	প্রমাণ	NN
+9	পাওয়া	VM
+10	যায়	VAUX
+11	তাঁদের	PRP
+12	পুঁথি	NN
+13	নির্বাচনের	NN
+14	ধরন	NN
+15	দেখে	VM
+16	৷	SYM
+</Sentence>
+<Sentence id=618>
+1	দেখা	VM
+2	যাক	VAUX
+3	সে	DEM
+4	যুগের	NN
+5	পাঠকদের	NN
+6	পেশা	NN
+7	কি	WQ
+8	ছিল	VM
+9	?	SYM
+</Sentence>
+<Sentence id=619>
+1	যদিও	CC
+2	তালিকা	NN
+3	অসম্পূর্ণ	JJ
+4	এবং	CC
+5	আংশিক	JJ
+6	তবু	CC
+7	দেখা	VM
+8	যাবে	VAUX
+9	,	SYM
+10	বামুন-কায়েতের	NN
+11	ভিড়ের	NN
+12	মধ্যে	NST
+13	1251	QC
+14	রূপ	XC
+15	গোস্বামীর	NNP
+16	`	SYM
+17	চাটু	SYM
+18	পুষ্পাঞ্জলী	NNP
+19	'	SYM
+20	নকল	NN
+21	করাচ্ছেন	VM
+22	শিউড়ির	NNP
+23	লক্ষ্মীনারায়ণ	XC
+24	রজক	NNP
+25	৷	SYM
+</Sentence>
+<Sentence id=620>
+1	ঐ	DEM
+2	বছরই	NN
+3	তিনি	PRP
+4	মহানন্দ	XC
+5	রায়কে	NNP
+6	দিয়ে	PSP
+7	লিখিয়ে	VM
+8	নিয়েছিলেন	VAUX
+9	`	SYM
+10	প্রেমভক্তিচন্দ্রিকা	NNP
+11	'	SYM
+12	ও	CC
+13	`	SYM
+14	নারদ	XC
+15	সংবাদ	NNP
+16	'	SYM
+17	৷	SYM
+</Sentence>
+<Sentence id=621>
+1	রজক	NN
+2	হলেও	VM
+3	লক্ষ্মীনারায়ণ	NNP
+4	বড়	JJ
+5	বৈষ্ণবগ্রন্থের	NN
+6	সঙ্গে	NST
+7	পরিচিত	JJ
+8	ছিলেন	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=622>
+1	অন্যান্য	JJ
+2	সাহিত্যানুরাগী	JJ
+3	রজকের	NN
+4	সংখ্যাও	NN
+5	কম	JJ
+6	নয়	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=623>
+1	সগরডাঙার	NNP
+2	বিপ্রচরণ	XC
+3	ধাবক	NNP
+4	নবদ্বীপচন্দ্র	XC
+5	সেনকে	NNP
+6	দিয়ে	PSP
+7	`	SYM
+8	রাবণের	XC
+9	চৌতিশা	NNP
+10	'	SYM
+11	নকল	NN
+12	করান	VM
+13	1234	XC
+14	সালে	NNP
+15	৷	SYM
+</Sentence>
+<Sentence id=624>
+1	1198-এ	NNP
+2	বাঞ্ছারাম	XC
+3	দে-কে	NNP
+4	দিয়ে	PSP
+5	পুঁথি	NN
+6	লেখান	VM
+7	রাধানগরের	NNP
+8	মোহন	XC
+9	পাল	XC
+10	রজক	NNP
+11	৷	SYM
+</Sentence>
+<Sentence id=625>
+1	রামনারায়ণ	XC
+2	ধুপী	NNP
+3	নিজের	PRP
+4	জাত-ব্যবসা	NN
+5	ছেড়ে	VM
+6	দিয়ে	VAUX
+7	লিপিকারের	NN
+8	বৃত্তি	NN
+9	গ্রহণ	NN
+10	করেন	VM
+11	,	SYM
+12	1254	XC
+13	সালে	NNP
+14	তাঁকে	PRP
+15	রামায়ণ	NNP
+16	নকল	NN
+17	করতে	VM
+18	দেখা	VM
+19	গেছে	VAUX
+20	৷	SYM
+</Sentence>
+<Sentence id=626>
+1	শুধু	RB
+2	রজক	NN
+3	নয়	VM
+4	পুঁথির	NN
+5	শেষ	JJ
+6	পাতা	NN
+7	ওল্টালেই	VM
+8	চোখে	NN
+9	পড়ে	VM
+10	বিভিন্ন	JJ
+11	রকম	NN
+12	পাঠকের	NN
+13	ভিড়	NN
+14	৷	SYM
+</Sentence>
+<Sentence id=627>
+1	বাংলা	XC
+2	মুদ্রণের	NN
+3	দুশো	QC
+4	বছর	NN
+5	পূর্তি	NN
+6	উপলক্ষে	NN
+7	সাজিয়ে	VM
+8	রাখা	VAUX
+9	পুঁথিপত্র	NN
+10	দেখে	VM
+11	এসে	VAUX
+12	একজন	QC
+13	উত্সাহী	JJ
+14	যুবক	NN
+15	জানতে	VM
+16	চাইলেন	VAUX
+17	সেকালের	NN
+18	পুঁথি	XC
+19	লেখকদের	NN
+20	কথা	NN
+21	আমরা	PRP
+22	কিছু	PRP
+23	জানি	VM
+24	কিনা	RP
+25	৷	SYM
+</Sentence>
+<Sentence id=628>
+1	তাঁর	PRP
+2	কৌতুহলের	NN
+3	কারণ	NN
+4	পঞ্চানন	XC
+5	কর্মকারের	NNP
+6	কর্মময়	JJ
+7	জীবন	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=629>
+1	প্রথম	QO
+2	জীবনে	NN
+3	পঞ্চাননও	NNP
+4	ছিলেন	VM
+5	একজন	QC
+6	লিপিকার	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=630>
+1	মনে	NN
+2	হল	VM
+3	জানি	VM
+4	বইকি	RB:?
+5	৷	SYM
+</Sentence>
+<Sentence id=631>
+1	আমরা	PRP
+2	সকলেই	PRP
+3	জানি	VM
+4	এই	PRP
+5	তো	RP
+6	দিন	NN
+7	কয়েক	QF
+8	আগে	NST
+9	মানে	CC
+10	ছাপাখানা	NN
+11	যখন	PRP
+12	এল	VM
+13	তার	PRP
+14	আগে	NST
+15	এবং	CC
+16	পরেও	NST
+17	বেশ	INTF
+18	কিছু	QF
+19	দিন	NN
+20	ধরে	PSP
+21	লিপিকারদের	NN
+22	দেখা	VM
+23	যেত	VAUX
+24	৷	SYM
+</Sentence>
+<Sentence id=632>
+1	কিন্তু	CC
+2	কত	INTF
+3	কম	JJ
+4	জানি	VM
+5	ওদের	PRP
+6	কথা	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=633>
+1	আমরা	PRP
+2	সবাই	PRP
+3	৷	SYM
+</Sentence>
+<Sentence id=634>
+1	আর	CC
+2	জানবই	VM
+3	বা	RP
+4	কি	WQ
+5	করে	RP
+6	?	SYM
+</Sentence>
+<Sentence id=635>
+1	সেকালের	NN
+2	কবি	NN
+3	বা	CC
+4	একালের	NN
+5	গল্পকার	NN
+6	কজন	NN
+7	আর	RP
+8	ওদের	PRP
+9	কথা	NN
+10	লিখেছেন	VM
+11	?	SYM
+</Sentence>
+<Sentence id=636>
+1	অন্যদের	PRP
+2	কথা	NN
+3	দূরে	NST
+4	থাক	VM
+5	,	SYM
+6	যাঁরা	PRP
+7	পুঁথিপত্র	NN
+8	ঘাঁটাঘাঁটি	NN
+9	করেন	VM
+10	তাঁদেরই	PRP
+11	বা	RP
+12	কজন	NN
+13	লিপিকারদের	NN
+14	মনে	NN
+15	রাখেন	VM
+16	?	SYM
+</Sentence>
+<Sentence id=637>
+1	গবেষকদের	NN
+2	কাছে	NST
+3	তো	RP
+4	লিপিকারদের	NN
+5	আঁকাবাঁকা	JJ
+6	কদর্য্য	JJ
+7	হস্তাক্ষর	NN
+8	মূর্তিমান	JJ
+9	বিভীষিকা	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=638>
+1	অজস্র	JJ
+2	বানান	XC
+3	ভুল	NN
+4	আর	CC
+5	ছন্দপতন	NN
+6	দেখতে	VM
+7	দেখতে	RDP
+8	তাঁরা	PRP
+9	অভিশাপ	NN
+10	বর্ষণ	NN
+11	করেন	VM
+12	এই	DEM
+13	হতভাগাদের	NN
+14	মাথায়	NN
+15	৷	SYM
+</Sentence>
+<Sentence id=639>
+1	তাঁদেরও	PRP
+2	যে	CC
+3	খুব	JJ
+4	দোষ	NN
+5	দেওয়া	VM
+6	যায়	VAUX
+7	তা	PRP
+8	নয়	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=640>
+1	অথচ	CC
+2	মধ্যযুগের	NN
+3	তাবত্	QF
+4	কাব্যপাঁচালী	XC
+5	পদাবলীকে	NN
+6	আমাদের	PRP
+7	হাতে	NN
+8	পৌঁছে	VM
+9	দিয়েছে	VAUX
+10	এই	DEM
+11	লিপিকারেরাই	NN
+12	৷	SYM
+</Sentence>
+<Sentence id=641>
+1	ওরা	PRP
+2	না	NEG
+3	থাকলে	VM
+4	কোথায়	WQ
+5	থাকত	VM
+6	`	SYM
+7	শ্রীকৃষ্ণকীর্তন	NNP
+8	'	SYM
+9	আর	CC
+10	কোথায়	WQ
+11	থাকত	VM
+12	কৃত্তিবাস	NNP
+13	মুকুন্দরাম	NNP
+14	আলাওল	NNP
+15	ভারতচন্দ্র	NNP
+16	৷	SYM
+</Sentence>
+<Sentence id=642>
+1	আসলে	RB
+2	এই-ই	PRP
+3	হয়	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=643>
+1	প্রদীপের	NN
+2	নীচেই	NST
+3	থাকে	VM
+4	সবচেয়ে	INTF
+5	বেশি	JJ
+6	অন্ধকার	NN
+7	!	SYM
+</Sentence>
+<Sentence id=644>
+1	দেড়শ	QC
+2	দুশ	QC
+3	বছর	NN
+4	আগেও	NST
+5	অনেকের	PRP
+6	জীবিকার্জন	NN
+7	হত	VM
+8	পুঁথি	NN
+9	নকল	NN
+10	করে	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=645>
+1	কোন	QF
+2	সম্পন্ন	JJ
+3	গৃহস্থের	NN
+4	বাড়ির	NN
+5	উঠোনে	NN
+6	,	SYM
+7	আটচালার	NN
+8	নীচে	NST
+9	কিংবা	CC
+10	গোয়ালঘরের	NN
+11	পাশে	NST
+12	এক	QC
+13	টুকরো	NN
+14	পরিষ্কার	JJ
+15	জায়গা	NN
+16	বেছে	VM
+17	নিয়ে	VAUX
+18	লিপিকারকে	NN
+19	বসতে	VM
+20	হত	VAUX
+21	পুঁথি	NN
+22	নিয়ে	PSP
+23	৷	SYM
+</Sentence>
+<Sentence id=646>
+1	গৃহস্বামী	NN
+2	নিজের	PRP
+3	মনোমত	JJ
+4	কোন	QF
+5	পুঁথি	NN
+6	নকলের	NN
+7	ফরমাস	NN
+8	করতেন	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=647>
+1	দাম	NN
+2	চুক্তি	NN
+3	হবার	VM
+4	পর	NST
+5	আদর্শ	JJ
+6	পুঁথি	NN
+7	সামনে	NST
+8	রেখে	VM
+9	লিখতে	VM
+10	বসতেন	VAUX
+11	লিপিকার	NN
+12	,	SYM
+13	সেকালে	NN
+14	তাঁকেই	PRP
+15	বলা	VM
+16	হত	VAUX
+17	লেখক	NN
+18	৷	SYM
+</Sentence>
+<Sentence id=648>
+1	কখনো	PRP
+2	রামায়ণ	NNP
+3	,	SYM
+4	কখনো	PRP
+5	মহাভারত	NNP
+6	,	SYM
+7	কখনো	PRP
+8	`	SYM
+9	হাজার	XC
+10	মছল্লা	NNP
+11	'	SYM
+12	কখনো	PRP
+13	`	SYM
+14	দাতাকর্ণ	NNP
+15	'	SYM
+16	কিংবা	CC
+17	অন্য	JJ
+18	কিছু	PRP
+19	নকল	NN
+20	করতেন	VM
+21	তাঁরা	PRP
+22	৷	SYM
+</Sentence>
+<Sentence id=649>
+1	সংস্কৃত	XC
+2	পুঁথিও	NN
+3	যে	RP
+4	দুটো-চারটে	NN
+5	থাকত	VM
+6	না	NEG
+7	এমন	PRP
+8	নয়	VM
+9	তবে	CC
+10	কিসের	WQ
+11	পুঁথি	NN
+12	তা	PRP
+13	নিয়ে	PSP
+14	লিপিকাররা	NN
+15	মোটেই	RB
+16	মাথা	NN
+17	ঘামাতেন	VM
+18	না	NEG
+19	৷	SYM
+</Sentence>
+<Sentence id=650>
+1	দাম	NN
+2	চুক্তি	NN
+3	হত	VM
+4	পাতা	NN
+5	গুণে	VM
+6	বা	CC
+7	অক্ষর	NN
+8	গুণে	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=651>
+1	হিন্দু	XC
+2	লিপিকার	NN
+3	কালিদাস	XC
+4	নন্দী	NNP
+5	নকল	NN
+6	করেছেন	VM
+7	বহু	QF
+8	মুসলমান	XC
+9	পুঁথি	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=652>
+1	শাহ	XC
+2	মহম্মদের	NNP
+3	নকল	NN
+4	করা	VM
+5	কৃত্তিবাসী	XC
+6	রামায়ণের	NNP
+7	পুঁথি	NN
+8	সাদরে	RB
+9	ঠাঁই	NN
+10	পেয়েছে	VM
+11	হিন্দু	XC
+12	ঘরে	NN
+13	৷	SYM
+</Sentence>
+<Sentence id=653>
+1	অবশ্য	RB
+2	যে	DEM
+3	সব	QF
+4	বাংলা	XC
+5	পুঁথি	NN
+6	আমাদের	PRP
+7	হাতে	NN
+8	এসে	VM
+9	পৌঁচেছে	VAUX
+10	তার	PRP
+11	সবই	PRP
+12	যে	CC
+13	পেশাদার	JJ
+14	লিপিকারের	NN
+15	লেখা	VM
+16	তা	PRP
+17	নয়	VM
+18	৷	SYM
+</Sentence>
+<Sentence id=654>
+1	সেকালে	NN
+2	পুঁথি	NN
+3	লেখা	VM
+4	ছিল	VM
+5	পুণ্যের	NN
+6	কাজ	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=655>
+1	তাই	CC
+2	যাঁরা	PRP
+3	অন্য	JJ
+4	কাজ	NN
+5	সেরেসুরে	VM
+6	একটু	QF
+7	সময়	NN
+8	পেতেন	VM
+9	,	SYM
+10	তাঁদের	PRP
+11	অক্ষর	XC
+12	পরিচয়	NN
+13	থাকলে	VM
+14	তাঁরা	PRP
+15	নিজেরাই	PRP
+16	দু	XC
+17	একটা	QC
+18	পুঁথি	NN
+19	নকল	NN
+20	করে	VM
+21	পরকালের	NN
+22	পথটা	NN
+23	পরিষ্কার	JJ
+24	করে	VM
+25	রাখতেন	VAUX
+26	৷	SYM
+</Sentence>
+<Sentence id=656>
+1	বৈষ্ণবদের	NN
+2	মধ্যে	NST
+3	এর	PRP
+4	চল	NN
+5	ছিল	VM
+6	আরো	INTF
+7	বেশি	JJ
+8	৷	SYM
+</Sentence>
+<Sentence id=657>
+1	বিষ্ণুপুরের	NNP
+2	পট্টমহিষী	NN
+3	ধ্বজামণিদেবী	NNP
+4	থেকে	NN
+5	শ্রীমতী	XC
+6	লালমণি	XC
+7	বৈষ্ণবী	NNP
+8	-	SYM
+9	কেউই	PRP
+10	এ	DEM
+11	ব্যাপারে	NN
+12	পিছিয়ে	VM
+13	ছিলেন	VAUX
+14	না	NEG
+15	৷	SYM
+</Sentence>
+<Sentence id=658>
+1	এছাড়া	CC
+2	কিছু	PRP
+3	ছিলেন	VM
+4	সত্যিকারের	JJ
+5	গ্রন্থকীট	NN
+6	-	SYM
+7	তাঁরা	PRP
+8	পুঁথি	NN
+9	কিনতেন	VM
+10	,	SYM
+11	নকল	NN
+12	করাতেন	VM
+13	,	SYM
+14	দরকার	NN
+15	হলে	VM
+16	নিজেরাও	PRP
+17	লিখে	VM
+18	নিতেন	VAUX
+19	৷	SYM
+</Sentence>
+<Sentence id=659>
+1	বাংলা	XC
+2	পুঁথির	NN
+3	এই	DEM
+4	শৌখিন	JJ
+5	লিপিকারদের	NN
+6	কথা	NN
+7	আজ	NN
+8	থাকুক	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=660>
+1	বাকী	JJ
+2	যাঁরা	PRP
+3	ছিলেন	VM
+4	তাঁদের	PRP
+5	কথাই	NN
+6	একটু	QF:?
+7	শোনা	VM
+8	যাক	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=661>
+1	পেশাদার	JJ
+2	লিপিকার	NN
+3	পুঁথি	NN
+4	লিখতেন	VM
+5	নেহাত	RB
+6	পেটের	NN
+7	দায়ে	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=662>
+1	অর্থোপার্জনের	NN
+2	অন্য	JJ
+3	কোন	QF
+4	উপায়	NN
+5	জানা	VM
+6	থাকলে	VAUX
+7	তাঁরা	PRP
+8	এ	DEM
+9	পথে	NN
+10	আসতেন	VM
+11	না	NEG
+12	৷	SYM
+</Sentence>
+<Sentence id=663>
+1	কার	WQ
+2	আর	RP
+3	ভাল	JJ
+4	লাগে	VM
+5	বারো	QC
+6	মাস	NN
+7	একঘেয়ে	JJ
+8	ক্লান্তিকর	JJ
+9	ভবিষ্যত্হীন	JJ
+10	কাজে	NN
+11	ডুবে	VM
+12	থাকতে	VAUX
+13	,	SYM
+14	তবু	CC
+15	নিরুপায়	JJ
+16	হয়েই	VM
+17	অনেককে	PRP
+18	এ	DEM
+19	কাজ	NN
+20	নিতে	VM
+21	হত	VAUX
+22	৷	SYM
+</Sentence>
+<Sentence id=664>
+1	বিশেষত	RB
+2	সহায়সম্বলহীন	JJ
+3	বৃদ্ধ	NN
+4	ও	CC
+5	অনাথ	JJ
+6	কিশোরদের	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=665>
+1	অন্যান্যরাও	PRP
+2	যে	CC
+3	ছিল	VM
+4	না	NEG
+5	তা	PRP
+6	নয়	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=666>
+1	আগেই	NST
+2	বলেছি	VM
+3	সঠিক	JJ
+4	হিসেব	NN
+5	পাওয়া	VM
+6	যায়	VAUX
+7	না	NEG
+8	কারণ	CC
+9	লিপিকারদের	NN
+10	কথা	NN
+11	কেউ	PRP
+12	লিখে	VM
+13	রাখেননি	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=667>
+1	তবু	CC
+2	যে	RP
+3	আজ	NN
+4	তাদের	PRP
+5	কথা	NN
+6	লিখতে	VM
+7	বসেছি	VAUX
+8	তার	PRP
+9	কারণ	NN
+10	কিছু	QF
+11	কিছু	RDP
+12	বিরূপভাগ্য	JJ
+13	লিপিকার	NN
+14	নিজেদের	PRP
+15	কথা	NN
+16	লিখে	VM
+17	রেখে	VM
+18	গেছেন	VAUX
+19	নিজেরাই	PRP
+20	৷	SYM
+</Sentence>
+<Sentence id=668>
+1	আর	QF
+2	কিছু	PRP
+3	না	NEG
+4	থাক	VM
+5	হাতের	NN
+6	কাছে	NST
+7	কাগজ-কলম	NN
+8	তো	RP
+9	ছিল	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=669>
+1	তাই	CC
+2	পুঁথির	NN
+3	শেষ	JJ
+4	পাতায়	NN
+5	মাঝে	NST
+6	মাঝে	RDP
+7	ভুল-ত্রুটি	NN
+8	,	SYM
+9	ক্ষমা-প্রার্থনা	NN
+10	,	SYM
+11	চোরের	NN
+12	প্রতি	PSP
+13	অভিশাপ	NN
+14	,	SYM
+15	পাঠকের	NN
+16	নাম	NN
+17	,	SYM
+18	পুঁথির	NN
+19	দাম	NN
+20	লেখার	VM
+21	পর	NST
+22	দু-চার	QC
+23	লাইনে	NN
+24	কেউ	PRP
+25	কেউ	RDP
+26	লিখে	VM
+27	রেখেছেন	VAUX
+28	নিজের	PRP
+29	জীবনকথা	NN
+30	৷	SYM
+</Sentence>
+<Sentence id=670>
+1	এক	QC
+2	টুকরা	NN
+3	চলতি	JJ
+4	জীবনের	NN
+5	ছোট্ট	JJ
+6	ছবি	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=671>
+1	একটানা	JJ
+2	দুঃখের	NN
+3	পাকা	JJ
+4	রঙ	NN
+5	দিয়ে	PSP
+6	সে	DEM
+7	ছবি	NN
+8	আঁকা	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=672>
+1	যখন	PRP
+2	ছাপাখানা	NN
+3	ছিল	VM
+4	না	NEG
+5	তখন	PRP
+6	পড়াশোনা	NN
+7	,	SYM
+8	শাস্ত্রবিচার	NN
+9	সবই	PRP
+10	হত	VM
+11	হাতের	NN
+12	লেখা	VM
+13	পুঁথি	NN
+14	দিয়ে	PSP
+15	৷	SYM
+</Sentence>
+<Sentence id=673>
+1	সেদিক	NN
+2	থেকে	PSP
+3	বিচার	NN
+4	করলে	VM
+5	লিপিকার	NN
+6	ছিলেন	VM
+7	সমাজের	NN
+8	অত্যন্ত	INTF
+9	প্রয়োজনীয়	JJ
+10	মানুষ	NN
+11	৷	SYM
+</Sentence>
+<Sentence id=674>
+1	কিন্তু	CC
+2	সমাজে	NN
+3	তাঁদের	PRP
+4	স্থানটি	NN
+5	তেমন	INTF
+6	স্পষ্ট	JJ
+7	হয়ে	VM
+8	উঠল	VAUX
+9	কই	WQ
+10	,	SYM
+11	বরং	CC
+12	লিপিকারদের	NN
+13	আত্মকথা	NN
+14	পড়লে	NN
+15	মনে	NN
+16	হয়	VM
+17	তাঁরা	PRP
+18	ছিলেন	VM
+19	একেবারে	RB
+20	নীচের	NST
+21	তলার	NN
+22	মানুষ	NN
+23	৷	SYM
+</Sentence>
+<Sentence id=675>
+1	যাঁদের	PRP
+2	জমিজমা	NN
+3	,	SYM
+4	ব্যবসা	NN
+5	,	SYM
+6	টাকাকড়ি	NN
+7	এমনকি	RB
+8	নির্দিষ্ট	JJ
+9	কোন	QF
+10	পেশাই	NN
+11	ছিল	VM
+12	না	NEG
+13	তাঁরাই	PRP
+14	লিপিকার	NN
+15	হতেন	VM
+16	৷	SYM
+</Sentence>
+<Sentence id=676>
+1	বেশির	QF
+2	ভাগ	NN
+3	কাজটা	NN
+4	নিতেন	VM
+5	বৃদ্ধেরা	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=677>
+1	দৈহিক	JJ
+2	পরিশ্রম	NN
+3	করার	VM
+4	ক্ষমতা	NN
+5	হারিয়ে	VM
+6	একটা	QC
+7	কোন	QF
+8	কাজ	NN
+9	নিতে	VM
+10	হলে	VAUX
+11	বসে	VM
+12	বসে	RDP
+13	পুঁথি	NN
+14	লেখার	VM
+15	কাজই	NN
+16	হল	VM
+17	অর্থোপার্জনের	NN
+18	একমাত্র	JJ
+19	উপায়	NN
+20	৷	SYM
+</Sentence>
+<Sentence id=678>
+1	যেমন	CC
+2	ধরা	VM
+3	যাক	VAUX
+4	গরীব	JJ
+5	মিচকিন	XC
+6	ইলিয়াসের	NNP
+7	কথা	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=679>
+1	অতি	INTF
+2	বৃদ্ধ	JJ
+3	বয়সে	NN
+4	ইলিয়াস	NNP
+5	সর্বস্ব	NN
+6	হারিয়ে	VM
+7	পালিয়ে	VM
+8	এসেছিলেন	VAUX
+9	রোসাঙ	NNP
+10	থেকে	PSP
+11	৷	SYM
+</Sentence>
+<Sentence id=680>
+1	নিরুপায়	JJ
+2	হয়ে	VM
+3	নিয়েছিলেন	VM
+4	পুঁথি	NN
+5	নকল	NN
+6	করা	VM
+7	কাজ	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=681>
+1	কিন্তু	CC
+2	`	SYM
+3	গোরক্ষবিজয়	NNP
+4	'	SYM
+5	লিখতে	VM
+6	লিখতে	RDP
+7	কখন	WQ
+8	যে	RP
+9	ইলিয়াস	NNP
+10	নিজের	PRP
+11	কথা	NN
+12	লিখে	VM
+13	ফেলেছিলেন	VAUX
+14	কে	WQ
+15	জানে	VM
+16	?	SYM
+</Sentence>
+<Sentence id=682>
+1	চোখের	NN
+2	জল	NN
+3	আর	CC
+4	লেখার	NN
+5	কালি	NN
+6	মাখামাখি	NN:?
+7	হয়ে	VM
+8	অক্ষর	NN
+9	অস্পষ্ট	JJ
+10	করে	VM
+11	তুলেছে	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=683>
+1	তবু	CC
+2	অজস্র	JJ
+3	ভুলে	NN
+4	ভরা	VM
+5	পয়ার	XC
+6	ছন্দে	NN
+7	লেখা	VM
+8	ইলিয়াসের	NNP
+9	কথাগুলো	NN
+10	যেমন	CC
+11	করুণ	JJ
+12	তেমন	CC
+13	মর্মস্পর্শী	JJ
+14	৷	SYM
+</Sentence>
+<Sentence id=684>
+1	পুঁথি	NN
+2	নকল	NN
+3	করবার	VM
+4	জন্যে	PSP
+5	লিপিকার	NN
+6	নিয়োগ	NN
+7	করার	VM
+8	ব্যবস্থাটা	NN
+9	খুব	INTF
+10	প্রাচীন	JJ
+11	৷	SYM
+</Sentence>
+<Sentence id=685>
+1	হয়ত	RB
+2	ব্যাসদেবের	NNP
+3	সময়	NN
+4	থেকেই	PSP
+5	চলে	VM
+6	আসছে	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=686>
+1	তবে	CC
+2	তাঁর	PRP
+3	কথা	NN
+4	স্বতন্ত্র	JJ
+5	,	SYM
+6	তিনি	PRP
+7	মুখেমুখেই	RB
+8	মহাভারত	NNP
+9	রচনা	NN
+10	করেছিলেন	VM
+11	,	SYM
+12	আর	CC
+13	লিখেছিলেন	VM
+14	গণেশ	NNP
+15	,	SYM
+16	তাই	CC
+17	তিনি	NN
+18	ঠিক	RB
+19	নকলকারী	JJ
+20	নন	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=687>
+1	পরবর্তীকালে	NN
+2	পারিশ্রমিক	NN
+3	দিয়েও	VM
+4	লিপিকার	NN
+5	নিয়োগ	NN
+6	করা	VM
+7	হত	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=688>
+1	শখ	NN
+2	করেও	VM
+3	পুঁথি	NN
+4	নকল	NN
+5	করতেন	VM
+6	অনেকে	PRP
+7	৷	SYM
+</Sentence>
+<Sentence id=689>
+1	ছাপা	JJ:?
+2	বই	NN
+3	ছিল	VM
+4	না	NEG
+5	বলে	CC
+6	পড়াশুনো	NN
+7	শাস্ত্রবিধান	NN
+8	সবই	PRP
+9	পুঁথি	NN
+10	ধরে	PSP
+11	চলত	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=690>
+1	বাংলাদেশে	NNP
+2	দুশ	XC
+3	তিনশ	QC
+4	বছরের	NN
+5	বেশি	INTF
+6	পুরনো	JJ
+7	পুঁথি	NN
+8	বেশি	QF
+9	নেই	VM
+10	,	SYM
+11	নষ্ট	JJ
+12	হয়ে	VM
+13	গেছে	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=691>
+1	তাই	CC
+2	এই	DEM
+3	সময়ের	NN
+4	পুঁথি	NN
+5	দেখেই	VM
+6	আমাদের	PRP
+7	সন্তুষ্ট	JJ
+8	থাকতে	VM
+9	হবে	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=692>
+1	সাধারণত	RB
+2	দেখা	VM
+3	যাচ্ছে	VAUX
+4	সে	DEM
+5	সময়	NN
+6	ছোট	JJ
+7	আকারের	NN
+8	পালা	XC
+9	পুঁথির	NN
+10	দাম	NN
+11	পড়ত	VM
+12	দু	QC
+13	আনা	NN
+14	বা	NN
+15	তিন	QC
+16	আনা	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=693>
+1	1239	XC
+2	সালে	NNP
+3	সীতারাম	XC
+4	বারিকের	NNP
+5	জন্যে	PSP
+6	`	SYM
+7	কপিলামঙ্গল	NNP
+8	'	SYM
+9	নকল	NN
+10	করেছিলেন	VM
+11	সেবকরাম	XC
+12	সরকার	NNP
+13	৷	SYM
+</Sentence>
+<Sentence id=694>
+1	সেই	PRP
+2	সঙ্গে	NST
+3	তিনি	PRP
+4	জানিয়েছেন	VM
+5	"	SYM
+6	এ	DEM
+7	পুস্তকের	NN
+8	দাম	NN
+9	দুই	QC
+10	আনা	NN
+11	"	SYM
+12	৷	SYM
+</Sentence>
+<Sentence id=695>
+1	একখানা	QC
+2	`	SYM
+3	ধ্রুবচরিত্র	NNP
+4	'	SYM
+5	লিখেও	VM
+6	অনুরূপ	JJ
+7	দাম	NN
+8	পেয়েছেন	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=696>
+1	"	SYM
+2	এই	DEM
+3	পুঁথি	NN
+4	লিখিতে	VM
+5	দুই	QC
+6	আনা	NN
+7	পাইয়াছি	VM
+8	"	SYM
+9	৷	SYM
+</Sentence>
+<Sentence id=697>
+1	শুধু	RB
+2	লেখা	VM
+3	নয়	VM
+4	পুঁথি	NN
+5	কিনতেও	VM
+6	ওই	DEM
+7	রকম	NN
+8	দামই	NN
+9	পড়ত	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=698>
+1	1274	XC
+2	সালের	NNP
+3	একটা	QC
+4	`	SYM
+5	গোপিকার	XC
+6	বস্ত্রহরণ	NNP
+7	'	SYM
+8	-এ	RP
+9	দেখা	VM
+10	যাচ্ছে	VAUX
+11	পুঁথিটি	NN
+12	নফর	XC
+13	দাস	XC
+14	মিত্রকে	NNP
+15	দিয়ে	PSP
+16	নকল	NN
+17	করিয়েছিলেন	VM
+18	গুপীনাথ	XC
+19	দে	NNP
+20	,	SYM
+21	পড়বার	VM
+22	জন্যেই	PSP
+23	৷	SYM
+</Sentence>
+<Sentence id=699>
+1	তারপর	RB
+2	তিনি	PRP
+3	সেটা	PRP
+4	বেচে	VM
+5	দিলেন	VAUX
+6	নটবর	XC
+7	পালকে	NNP
+8	৷	SYM
+</Sentence>
+<Sentence id=700>
+1	পুঁথির	NN
+2	ওপর	NST
+3	আঁকাবাঁকা	JJ
+4	অক্ষরে	NN
+5	অধিকারপ্রতিষ্ঠা	NN
+6	করলেন	VM
+7	পালমশাই	NNP
+8	`	SYM
+9	শ্রীনটবর	XC
+10	পাল	NNP
+11	দুই	QC
+12	আনায়	NN
+13	খোরিদ	NN
+14	করিলাম	VM
+15	'	SYM
+16	৷	SYM
+</Sentence>
+<Sentence id=701>
+1	একটা	QC
+2	`	SYM
+3	যোগকালান্তক	NNP
+4	'	SYM
+5	লেখা	VM
+6	হয়েছিল	VAUX
+7	বিক্রির	NN
+8	জন্যেই	PSP
+9	,	SYM
+10	যার	PRP
+11	দাম	NN
+12	লেখা	VM
+13	রয়েছে	VAUX
+14	দু	QC
+15	আনা	NN
+16	৷	SYM
+</Sentence>
+<Sentence id=702>
+1	আজকের	NN
+2	পাঠক	NN
+3	নিশ্চয়ই	RB
+4	হাসছেন	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=703>
+1	দু	QC
+2	আনা	NN
+3	আবার	RB
+4	একটা	QC
+5	দাম	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=704>
+1	নয়	VM
+2	কেন	WQ
+3	?	SYM
+</Sentence>
+<Sentence id=705>
+1	যখন	PRP
+2	চালের	NN
+3	দর	NN
+4	চব্বিশ-পঁচিশ	QC
+5	পাই	NN
+6	হলে	VM
+7	লোকে	NN
+8	মাথায়	NN
+9	হাত	NN
+10	দিত	VM
+11	,	SYM
+12	কাপাস	XC
+13	তুলো	NN
+14	এক	QC
+15	টাকায়	NN
+16	চোদ্দ	QC
+17	পোয়া	NN
+18	না	NEG
+19	পেলে	VM
+20	মন	NN
+21	ভরত	VM
+22	না	NEG
+23	,	SYM
+24	এক	QC
+25	জোড়া	QF
+26	ভাল	JJ
+27	সাদা	JJ
+28	ধুতির	NN
+29	দাম	NN
+30	পড়ত	VM
+31	এক	QC
+32	টাকা	NN
+33	এগারো	QC
+34	আনা	NN
+35	তখন	PRP
+36	দু	QC
+37	আনার	NN
+38	দাম	NN
+39	কি	WQ
+40	খুব	INTF
+41	কম	JJ
+42	ছিল	VM
+43	,	SYM
+44	সুতরাং	CC
+45	অবজ্ঞা	NN
+46	না	NEG
+47	করে	VM
+48	আবার	RB
+49	দেখা	VM
+50	যাক	VAUX
+51	কি	WQ
+52	লুকিয়ে	VM
+53	আছে	VAUX
+54	শেষপাতার	NN
+55	হিজিবিজি	JJ
+56	নকশার	NN
+57	মধ্যে	NST
+58	৷	SYM
+</Sentence>
+<Sentence id=706>
+1	একটি	QC
+2	পুঁথিতে	NN
+3	দেখা	VM
+4	যাচ্ছে	VAUX
+5	1126	XC
+6	সালে	NNP
+7	লক্ষণপুরের	NNP
+8	জগন্নাথ	XC
+9	মিত্র	NNP
+10	কোর্পগ্রামের	NNP
+11	নবীনবল্লভের	NNP
+12	জন্যে	PSP
+13	নকল	NN
+14	করেছিলেন	VM
+15	`	SYM
+16	দ্রৌপদীর	XC
+17	বস্ত্র	XC
+18	হরণ	NNP
+19	'	SYM
+20	৷	SYM
+</Sentence>
+<Sentence id=707>
+1	দাম	NN
+2	চুক্তি	NN
+3	হয়েছিল	VM
+4	দু	QC
+5	আনা	NN
+6	পাঁচ	QC
+7	পাই	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=708>
+1	কিন্তু	CC
+2	লেখা-টেখা	VM
+3	হবার	VM
+4	পর	NST
+5	সেটি	PRP
+6	কিনে	VM
+7	নিলেন	VAUX
+8	মানিকরাম	XC
+9	সামন্ত	NNP
+10	নগদ	JJ
+11	তিন	QC
+12	আনা	NN
+13	দিয়ে	PSP
+14	৷	SYM
+</Sentence>
+<Sentence id=709>
+1	নবীনবাবু	NNP
+2	না	CC
+3	মিত্তির	XC
+4	মশাই	NNP
+5	কে	WQ
+6	চুক্তি	NN
+7	ভঙ্গ	NN
+8	করেছিলেন	VM
+9	কে	WQ
+10	জানে	VM
+11	?	SYM
+</Sentence>
+<Sentence id=710>
+1	নারায়ণ	XC
+2	মণ্ডল	NNP
+3	`	SYM
+4	দাতাকর্ণ	NNP
+5	'	SYM
+6	পুঁথিটি	NN
+7	কিনেছিলেন	VM
+8	লিপিকার	NN
+9	গরিবদাস	XC
+10	মণ্ডলের	NNP
+11	কাছ	NST
+12	থেকে	PSP
+13	৷	SYM
+</Sentence>
+<Sentence id=711>
+1	`	SYM
+2	দাতাকর্ণ	NNP
+3	'	SYM
+4	বড়	JJ
+5	পালা	NN
+6	নয়	VM
+7	,	SYM
+8	তাই	CC
+9	কাগজ	NN
+10	শুদ্ধ	PSP:?
+11	এর	PRP
+12	দক্ষিণা	NN
+13	পড়েছে	VM
+14	`	SYM
+15	সাড়ে	QF
+16	পাঁচ	QC
+17	পণ	NN
+18	কৌডি	NN
+19	'	SYM
+20	৷	SYM
+</Sentence>
+<Sentence id=712>
+1	একখানি	QC
+2	`	SYM
+3	ইছাইয়ের	XC
+4	পালা	NNP
+5	'	SYM
+6	কিনতে	VM
+7	নিমু	XC
+8	কলুকে	NNP
+9	দিতে	VM
+10	হয়েছিল	VAUX
+11	দু	QC
+12	আনা	NN
+13	৷	SYM
+</Sentence>
+<Sentence id=713>
+1	তিনি	PRP
+2	পরশুরাম	XC
+3	ঘোষের	NNP
+4	কাছ	NST
+5	থেকে	PSP
+6	পুঁথিটি	NN
+7	কেনেন	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=714>
+1	অনেকের	PRP
+2	মতে	NN
+3	পুঁথির	NN
+4	দাম	NN
+5	মোটেই	INTF
+6	কম	JJ
+7	ছিল	VM
+8	না	NEG
+9	৷	SYM
+</Sentence>
+<Sentence id=715>
+1	একটু	INTF
+2	বড়	JJ
+3	হলে	VM
+4	বেশ	JJ
+5	খরচ	NN
+6	পড়ত	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=716>
+1	বিশেষ	JJ
+2	করে	RP
+3	মহাভারতের	NNP
+4	মতো	PSP
+5	বিরাট	JJ
+6	পুঁথি	NN
+7	নকল	NN
+8	করতে	VM
+9	হলে	VAUX
+10	তো	RP
+11	কথাই	NN
+12	নেই	VM
+13	৷	SYM
+</Sentence>
+<Sentence id=717>
+1	অবশ্য	RB
+2	অনেকে	PRP
+3	একটা	QC
+4	পর্ব	NN
+5	নকল	NN
+6	করাতেন	VM
+7	এবং	CC
+8	তারজন্য	PRP
+9	স্বতন্ত্র	JJ
+10	মূল্য	NN
+11	দিতেন	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=718>
+1	যেমন	CC
+2	-	SYM
+3	চন্দ্রকোণার	NNP
+4	সনাতন	XC
+5	পাল	NNP
+6	1248	XC
+7	সালে	NNP
+8	গোপালপুরের	NNP
+9	মথুরামোহন	XC
+10	হাজরাকে	NNP
+11	দিয়ে	PSP
+12	`	SYM
+13	শান্তিপর্ব	NNP
+14	'	SYM
+15	নকল	NN
+16	করান	VM
+17	,	SYM
+18	দক্ষিণা	NN
+19	ধার্য্য	JJ
+20	হয়	VM
+21	এক	QC
+22	টাকা	NN
+23	দু	QC
+24	আনা	NN
+25	৷	SYM
+</Sentence>
+<Sentence id=719>
+1	আবার	RB
+2	1253	XC
+3	সালে	NNP
+4	কৃষ্ণপ্রসাদ	XC
+5	দাস	NNP
+6	জাহানাবাদের	NNP
+7	কোন	QF
+8	এক	QC
+9	ঘোষ	XC
+10	মশাইয়ের	NNP
+11	জন্যে	PSP
+12	`	SYM
+13	শান্তিপর্ব	NNP
+14	'	SYM
+15	নকল	NN
+16	করে	VM
+17	দক্ষিণা	NN
+18	পান	VM
+19	মাত্র	RB:?
+20	তের	QC
+21	আনা	NN
+22	৷	SYM
+</Sentence>
+<Sentence id=720>
+1	1290	XC
+2	সালে	NNP
+3	`	SYM
+4	বিরাট	XC
+5	পর্বে	NNP
+6	'	SYM
+7	র	RP
+8	মতো	PSP
+9	বিরাট	JJ
+10	পুঁথির	NN
+11	দাম	NN
+12	পড়েছে	VM
+13	মাত্র	RB
+14	আট	QC
+15	আনা	NN
+16	৷	SYM
+</Sentence>
+<Sentence id=721>
+1	এতে	PRP
+2	মনে	NN
+3	হয়	VM
+4	,	SYM
+5	যে	PRP
+6	যেমন	PRP
+7	পেরেছে	VM
+8	দাম	NN
+9	নিয়েছে	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=722>
+1	ফলে	CC
+2	ঐ	DEM
+3	অসাম্য	NN
+4	দূর	NST
+5	করার	VM
+6	জন্যে	PSP
+7	অক্ষর	NN
+8	গুণে	VM
+9	দাম	NN
+10	স্থির	JJ
+11	করা	VM
+12	হত	VAUX
+13	৷	SYM
+</Sentence>
+<Sentence id=723>
+1	আরেক	JJ
+2	জায়গায়	NN
+3	দেখা	VM
+4	যাচ্ছে	VAUX
+5	একই	JJ
+6	`	SYM
+7	বিরাট	XC
+8	পর্ব	NNP
+9	'	SYM
+10	নকল	NN
+11	করতে	VM
+12	দক্ষিণা	NN
+13	দেওয়া	VM
+14	হয়েছে	VAUX
+15	এক	QC
+16	টাকা	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=724>
+1	দুজনে	NN
+2	মিলেও	VM
+3	অনেক	QF
+4	সময়	NN
+5	নকল	NN
+6	করা	VM
+7	চলত	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=725>
+1	1110	XC
+2	সালে	NNP
+3	হরিনগরের	NNP
+4	গুসাইদাস	XC
+5	পালের	NNP
+6	জন্যে	PSP
+7	`	SYM
+8	বিরাট	XC
+9	পর্ব	NNP
+10	'	SYM
+11	নকল	NN
+12	করেন	VM
+13	মানিকরাম	XC
+14	বিশ্বাস	NNP
+15	ও	CC
+16	রামলোচন	XC
+17	ভট্টাচার্য্য	NNP
+18	৷	SYM
+</Sentence>
+<Sentence id=726>
+1	`	SYM
+2	দণ্ডিপর্ব	NNP
+3	'	SYM
+4	আকারে	NN
+5	ছোট	JJ
+6	তাই	CC
+7	1254	XC
+8	সালে	NNP
+9	তার	PRP
+10	দাম	NN
+11	ছিল	VM
+12	আট	QC
+13	আনা	NN
+14	৷	SYM
+</Sentence>
+<Sentence id=727>
+1	পয়সার	NN
+2	বদলে	NN
+3	অন্য	JJ
+4	জিনিসও	NN
+5	নেওয়া	VM
+6	হত	VAUX
+7	৷	SYM
+</Sentence>
+<Sentence id=728>
+1	একজন	NN
+2	লিখেছেন	VM
+3	:	SYM
+4	"	SYM
+5	এই	DEM
+6	পুঁথি	NN
+7	(	SYM
+8	কাশিরামের	XC:?
+9	গদাপর্ব	NNP
+10	)	SYM
+11	লিখিতে	VM
+12	ধান্য	NN
+13	লইয়াছি	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=729>
+1	"	SYM
+2	আর	CC
+3	গোটা	QF
+4	মহাভারত	NNP
+5	নকলের	NN
+6	দাম	NN
+7	?	SYM
+</Sentence>
+<Sentence id=730>
+1	আমরা	PRP
+2	কল্পনাই	NN
+3	করতে	VM
+4	পারি	VAUX
+5	না	NEG
+6	৷	SYM
+</Sentence>
+<Sentence id=731>
+1	এক	QC
+2	লিপিকার	NN
+3	জানাচ্ছেন	VM
+4	:	SYM
+5	"	SYM
+6	এই	DEM
+7	অষ্টাদশ	QC
+8	ভারত	XC
+9	পুস্তক	NNP
+10	শ্রীগোবিন্দরাম	XC
+11	রায়ের	NNP
+12	একোয়ান	XC
+13	পত্র	NN
+14	অঙ্ক	NN
+15	সাত	QC
+16	উন্নান্বই	UNK
+17	পাতে	NN
+18	সমাপ্ত	NN
+19	হইয়াছে	VM
+20	৷	SYM
+</Sentence>
+<Sentence id=732>
+1	স্বাক্ষরমিদং	NN:?
+2	শ্রী	XC
+3	অনন্তরাম	XC
+4	শর্মার	NNP
+5	৷	SYM
+</Sentence>
+<Sentence id=733>
+1	ইহার	PRP
+2	দক্ষিণা	NN
+3	জন্মাবধি	RB
+4	সমানতাক্রমে	RB
+5	অন্নসত্রে	NN
+6	পরিপাল্য	NN
+7	হইয়া	VM
+8	সশ্রদ্ধ	JJ
+9	হইয়া	VM
+10	পুস্তক	NN
+11	লিখিয়া	VM
+12	দিলাম	VAUX
+13	নগদে	NN
+14	দক্ষিণা	NN
+15	পাইলাম	VM
+16	;	SYM
+17	তারপর	RB
+18	রোজকারহ	NN
+19	বত্সর	NN
+20	ব্যাপিয়া	PSP
+21	পাইবার	VM
+22	আজ্ঞা	NN
+23	হইল	VM
+24	৷	SYM
+</Sentence>
+<Sentence id=734>
+1	সন	XC
+2	1224	NNP
+3	৷	SYM
+</Sentence>
+<Sentence id=735>
+1	"	SYM
+2	অর্থাত্	CC
+3	একখানা	QC
+4	সাতশ	XC
+5	উননব্বই	QC
+6	পাতার	NN
+7	পুঁথি	NN
+8	নকল	NN
+9	করার	VM
+10	বিনিময়ে	NN
+11	অনন্তরামশর্মার	NNP
+12	সারা	JJ
+13	জীবনের	NN
+14	অন্নচিন্তাই	NN
+15	শুধু	RB
+16	ঘুচল	VM
+17	না	NEG
+18	,	SYM
+19	নিয়মিত	JJ
+20	হাতখরচ	NN
+21	পাবার	VM
+22	বন্দোবস্ত	NN
+23	হল	VM
+24	৷	SYM
+</Sentence>
+<Sentence id=736>
+1	এরকম	DEM
+2	একটা	QC
+3	চাকরি	NN
+4	এ	DEM
+5	যুগে	NN
+6	জোটাতে	VM
+7	পারলে	VAUX
+8	মন্দ	JJ
+9	হয়	VM
+10	না	NEG
+11	৷	SYM
+</Sentence>
+<Sentence id=737>
+1	রেভারেণ্ড	XC
+2	ওয়ার্ড	NNP
+3	লক্ষ্য	NN
+4	করেছিলেন	VM
+5	উনিশ	QF
+6	শতকের	NN
+7	প্রথম	QO
+8	দিকে	NN
+9	32000	QC
+10	অক্ষর	NN
+11	নকল	NN
+12	করার	VM
+13	রেট	NN
+14	ছিল	VM
+15	বারো	QC
+16	আনা	NN
+17	থেকে	PSP
+18	এক	QC
+19	টাকা	NN
+20	৷	SYM
+</Sentence>
+<Sentence id=738>
+1	এই	DEM
+2	শতাব্দীর	NN
+3	শেষের	NN
+4	দিকে	NST
+5	সেই	DEM
+6	হার	NN
+7	চার	QC
+8	গুণ	NN
+9	বেড়ে	VM
+10	যায়	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=739>
+1	রাজেন্দ্রলাল	XC
+2	মিত্র	NNP
+3	1869	XC
+4	সালে	NNP
+5	জানিয়েছেন	VM
+6	তখন	PRP
+7	এই	DEM
+8	রেট	NN
+9	দাঁড়ায়	VM
+10	হাজার	QC
+11	শ্লোক	NN
+12	প্রতি	PSP
+13	চার	QC
+14	টাকা	NN
+15	৷	SYM
+</Sentence>
+<Sentence id=740>
+1	সেদিন	NN
+2	এক	QC
+3	গবেষক	JJ
+4	বন্ধু	NN
+5	দু-চারটে	QC
+6	পুরনো	JJ
+7	পুঁথি	NN
+8	নেড়েচেড়ে	VM
+9	জানালেন	VM
+10	যে	CC
+11	,	SYM
+12	সেযুগে	NN
+13	সাধারণ	JJ
+14	মানুষের	NN
+15	কেউ	PRP
+16	লেখাপড়া	NN
+17	শিখত	VM
+18	না	NEG
+19	৷	SYM
+</Sentence>
+<Sentence id=741>
+1	কথাটা	NN
+2	নতুন	JJ
+3	নয়	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=742>
+1	তবু	CC
+2	কৌতুহল	NN
+3	হল	VM
+4	৷	SYM
+</Sentence>
+<Sentence id=743>
+1	প্রশ্ন	NN
+2	করে	VM
+3	জানলুম	VM
+4	,	SYM
+5	মধ্যযুগের	NN
+6	কবিরা	NN
+7	কেউই	PRP
+8	নাকি	RP
+9	এব্যাপারে	NN
+10	কোন	QF
+11	সূত্র	NN
+12	রেখে	VM
+13	যাননি	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=744>
+1	তাহলে	CC
+2	কি	RP
+3	সত্যিই	RB
+4	সেকালের	NN
+5	মাথার	NN
+6	ঘাম	NN
+7	পায়ে	NN
+8	ফেলে	VM
+9	খেটে-খাওয়া	JJ
+10	মানুষগুলো	NN
+11	একেবারে	RB
+12	লেখাপড়া	NN
+13	জানত	VM
+14	না	NEG
+15	?	SYM
+</Sentence>
+<Sentence id=745>
+1	না	NEG
+2	,	SYM
+3	একবার	NN
+4	না	NEG
+5	হয়	VM
+6	ফিরে	VM
+7	তাকানো	VAUX
+8	যাক	VAUX
+9	কালের	NN
+10	ধূলোয়	NN
+11	বিবর্ণ	JJ
+12	হয়ে	VM
+13	যাওয়া	VAUX
+14	সেই	DEM
+15	মানুষগুলোর	NN
+16	দিকে	NST
+17	৷	SYM
+</Sentence>
+<Sentence id=746>
+1	দুশ-আড়াইশ	QC
+2	বছরের	NN
+3	পুরনো	JJ
+4	পুঁথিপত্রের	NN
+5	জীর্ণ	JJ
+6	পাতাগুলোয়	NN
+7	যদি	CC
+8	সযত্নে	RB
+9	চোখ	NN
+10	বোলানো	VM
+11	যায়	VAUX
+12	এখনও	PRP
+13	অনেক	QF
+14	খবর	NN
+15	পাওয়া	VM
+16	যায়	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=747>
+1	সাহিত্যাভিমানী	JJ
+2	গবেষক	JJ
+3	বন্ধুদের	NN
+4	চোখ	NN
+5	তাতে	PRP
+6	না	NEG
+7	পড়তেও	VM
+8	পারে	VM
+9	,	SYM
+10	কারণ	CC
+11	তাকে	PRP
+12	আর	JJ
+13	যাই	PRP
+14	বলা	VM
+15	যাক	VAUX
+16	,	SYM
+17	সাহিত্য	NN
+18	বলা	VM
+19	চলে	VAUX
+20	না	NEG
+21	৷	SYM
+</Sentence>
+<Sentence id=748>
+1	পুরনো	JJ
+2	পুঁথির	NN
+3	শেষ	JJ
+4	পাতায়	NN
+5	চিঠিপত্র	NN
+6	দলিল	XC
+7	দস্তাবেজের	NN
+8	ছিন্ন	JJ
+9	অংশে	NN
+10	বইয়ের	NN
+11	দোকান	NN
+12	কিংবা	CC
+13	পাঠশালার	NN
+14	পুরনো	JJ
+15	হিসেবের	NN
+16	ফর্দে	NN
+17	এখন	PRP
+18	পর্য্যন্ত	PSP
+19	যে	DEM
+20	সব	QF
+21	খবর	NN
+22	পাওয়া	VM
+23	গেছে	VAUX
+24	তাতে	PRP
+25	সেযুগের	NN
+26	শিক্ষা	XC
+27	ব্যবস্থার	NN
+28	স্পষ্ট	JJ
+29	ছবিটি	NN
+30	ফুটে	VM
+31	না	NEG
+32	উঠলেও	VM
+33	বোঝা	VM
+34	যায়	VAUX
+35	,	SYM
+36	দীর্ঘদিন	NN
+37	ধরে	PSP
+38	বর্ণশ্রেষ্ঠ	JJ
+39	পণ্ডিত্যাভিমানীদের	NN
+40	মনে	NN
+41	যে	DEM
+42	আত্মগর্বী	JJ
+43	ধারণাটি	NN
+44	লালিত	JJ
+45	হয়ে	VM
+46	এসেছে	VAUX
+47	তা	PRP
+48	ঠিক	JJ
+49	নয়	VM
+50	৷	SYM
+</Sentence>
+<Sentence id=749>
+1	অর্থাত্	CC
+2	বামুন	XC
+3	পণ্ডিত	NN
+4	আর	CC
+5	চাকরে	JJ
+6	কায়েত	XC
+7	বদ্যিরাই	NN
+8	যে	RP
+9	শুধু	RB
+10	লেখাপড়া	NN
+11	জানতেন	VM
+12	আর	CC
+13	বাদবাকি	JJ
+14	সবাই	PRP
+15	থাকতেন	VM
+16	অন্ধকারে	NN
+17	এ	DEM
+18	কথা	NN
+19	সত্যি	JJ
+20	নয়	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=750>
+1	এক	QC
+2	সময়ে	NN
+3	বাংলাদেশে	NNP
+4	অধিকাংশ	JJ
+5	মানুষই	NN
+6	লেখাপড়া	NN
+7	জানতেন	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=751>
+1	কথাটা	NN
+2	বিশ্বাস	NN
+3	করতে	VM
+4	কষ্ট	JJ
+5	হয়	VM
+6	,	SYM
+7	তবু	CC
+8	কথাটা	NN
+9	সত্যি	JJ
+10	৷	SYM
+</Sentence>
+<Sentence id=752>
+1	ব্যবহারিক	JJ
+2	জীবনে	NN
+3	সুখী	JJ
+4	সম্পন্ন	JJ
+5	এবং	CC
+6	সার্থক	JJ
+7	হবার	VM
+8	জন্যে	PSP
+9	যতটুকু	PRP
+10	লেখাপড়া	NN
+11	শেখা	VM
+12	দরকার	NN
+13	ততটুকু	PRP
+14	শিখেই	VM
+15	শ্রমজীবী	JJ
+16	মানুষেরা	NN
+17	তাঁদের	PRP
+18	লৌকিক	JJ
+19	জীবিকায়	NN
+20	মন	NN
+21	দিতেন	VM
+22	৷	SYM
+</Sentence>
+<Sentence id=753>
+1	হয়তো	RB
+2	সেইজন্যেই	CC
+3	তাঁরা	PRP
+4	থেকে	VM
+5	গেছেন	VAUX
+6	চোখের	NN
+7	আড়ালে	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=754>
+1	এই	DEM
+2	শ্রমজীবী	JJ
+3	মানুষেরা	NN
+4	টোলে	NN
+5	পড়বার	VM
+6	অধিকার	NN
+7	পেতেন	VM
+8	কিনা	RP
+9	জানি	VM
+10	না	NEG
+11	তবে	CC
+12	চাষী	NN
+13	,	SYM
+14	ধোপা	NN
+15	,	SYM
+16	নাপিত	NN
+17	,	SYM
+18	কামার	NN
+19	,	SYM
+20	কুমোর	NN
+21	,	SYM
+22	ময়রা	NN
+23	,	SYM
+24	মুদী	NN
+25	,	SYM
+26	তাঁতী	NN
+27	,	SYM
+28	গয়লা	NN
+29	প্রভৃতি	RP
+30	সর্বপ্রকার	QF
+31	বৃত্তিধারী	JJ
+32	কেজো	JJ
+33	মানুষই	NN
+34	তাঁদের	PRP
+35	ছেলেদের	NN
+36	পাঠশালায়	NN
+37	পাঠাতেন	VM
+38	৷	SYM
+</Sentence>
+<Sentence id=755>
+1	গ্রামের	NN
+2	পাঠশালায়	NN
+3	অর্জুনের	NNP
+4	পাশে	NST
+5	এসে	VM
+6	বসত	VM
+7	একলব্য	NNP
+8	,	SYM
+9	কোন	QF
+10	বাধা	NN
+11	পেয়েছে	VM
+12	বলে	UT
+13	শোনা	VM
+14	যায়নি	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=756>
+1	পুরনো	JJ
+2	পুঁথির	NN
+3	পাতা	NN
+4	থেকে	PSP
+5	আরো	RB
+6	জানা	VM
+7	যায়	VAUX
+8	সেকালে	NN
+9	পাত্রসায়রের	NNP
+10	মতো	PSP
+11	বর্ধিষ্ণু	JJ
+12	গ্রামে	NN
+13	চতুষ্পাঠী	NN
+14	বসত	VM
+15	জগন্নাথ	XC
+16	ধোপার	NNP
+17	উঠোনে	NN
+18	;	SYM
+19	দৌলতপুরেও	NNP
+20	পাঠশালা	NN
+21	বসত	VM
+22	চিন্তামণি	XC
+23	মণ্ডলের	NNP
+24	বাড়ির	NN
+25	দোরগোড়ায়	NN
+26	৷	SYM
+</Sentence>
+<Sentence id=757>
+1	রাম	XC
+2	কর্মকার	NNP
+3	বাড়ির	NN
+4	কাছেই	NST
+5	খুলেছিলেন	VM
+6	নতুন	JJ
+7	চৌপাডি	NN
+8	৷	SYM
+</Sentence>
+<Sentence id=758>
+1	সাধারণত	RB
+2	বামুন	XC
+3	পণ্ডিতরা	NN
+4	সংস্কৃত	NNP
+5	আর	CC
+6	চাকরে	JJ
+7	কায়েত	XC
+8	বদ্যিরা	NN
+9	ফরাসী	NNP
+10	পড়তে	VM
+11	চাইতেন	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=759>
+1	কারণ	CC
+2	শিক্ষার	NN
+3	সঙ্গে	NST
+4	তাঁদের	PRP
+5	জীবিকা	NN
+6	জড়িয়েছিল	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=760>
+1	কিন্তু	CC
+2	দেবভাষা	XC
+3	সংস্কৃত	NNP
+4	কিংবা	CC
+5	রাজভাষা	XC
+6	আরবী-ফারসী	NNP
+7	সযত্নে	RB
+8	পরিহার	NN
+9	করে	VM
+10	শুধু	RB
+11	মাতৃভাষা	XC
+12	বাংলাকে	NNP
+13	আঁকড়ে	NN
+14	ধরেছিলেন	VM
+15	কেজো	JJ
+16	মানুষেরা	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=761>
+1	তাতে	PRP
+2	হিসেবী	JJ
+3	মনের	NN
+4	পরিচয়	NN
+5	না	NEG
+6	থাকলেও	VM
+7	এই	DEM
+8	শিক্ষাকে	NN
+9	তাঁরা	PRP
+10	বাস্তব	JJ
+11	জীবনের	NN
+12	কাজে	NN
+13	লাগাতে	VM
+14	পেরেছিলেন	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=762>
+1	মুকুন্দরামের	NNP
+2	`	SYM
+3	চণ্ডীমঙ্গলে	NNP
+4	'	SYM
+5	কি	CC
+6	দ্বিজ	XC
+7	শংকরের	NNP
+8	`	SYM
+9	গুরুদক্ষিণা	NNP
+10	'	SYM
+11	য়	RP
+12	মধ্যযুগের	NN
+13	শিক্ষা	XC
+14	ব্যবস্থার	NN
+15	কাল্পনিক	JJ
+16	চিত্র	NN
+17	থাকলেও	VM
+18	সাধারণ	JJ
+19	পাঠশালায়	NN
+20	লেখাপড়া	NN
+21	শেখানো	VM
+22	হত	VAUX
+23	একটা	QC
+24	নির্দিষ্ট	JJ
+25	ধারায়	NN
+26	৷	SYM
+</Sentence>
+<Sentence id=763>
+1	অক্ষর	XC
+2	পরিচয়	NN
+3	,	SYM
+4	বানান	XC
+5	শিক্ষা	NN
+6	,	SYM
+7	গণিত	NN
+8	,	SYM
+9	পত্রলিখনের	NN
+10	সঙ্গে	NST
+11	জোর	NN
+12	দেওয়া	VM
+13	হত	VAUX
+14	ধর্ম	NN
+15	ও	CC
+16	নীতিশিক্ষার	NN
+17	ওপর	NST
+18	৷	SYM
+</Sentence>
+<Sentence id=764>
+1	ছোট	JJ
+2	ছোট	RDP
+3	পৌরাণিক	JJ
+4	পালা	NN
+5	-	SYM
+6	`	SYM
+7	দাতা	XC
+8	কর্ণ	NNP
+9	'	SYM
+10	,	SYM
+11	`	SYM
+12	উঞ্ছবৃত্তির	XC
+13	পালা	NNP
+14	'	SYM
+15	,	SYM
+16	`	SYM
+17	প্রহ্লাদ	XC
+18	চরিত্র	NNP
+19	'	SYM
+20	,	SYM
+21	`	SYM
+22	লক্ষণের	XC
+23	শক্তিশেল	NNP
+24	'	SYM
+25	-নীতিপাঠের	NN
+26	কাজ	NN
+27	করত	VM
+28	৷	SYM
+</Sentence>
+<Sentence id=765>
+1	মোটামুটি	RB
+2	এই	PRP
+3	ছিল	VM
+4	পাঠশালার	NN
+5	পাঠক্রম	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=766>
+1	কয়েকটা	QF
+2	শিশুপাঠ্য	JJ
+3	পুঁথিও	NN
+4	লেখা	VM
+5	হয়েছিল	VAUX
+6	৷	SYM
+</Sentence>
+<Sentence id=767>
+1	দ্বিজ	XC
+2	দুর্গারামের	NNP
+3	`	SYM
+4	শিশুজ্ঞানচরিত্র	NNP
+5	'	SYM
+6	হরেকৃষ্ণ	XC
+7	দাসের	NNP
+8	`	SYM
+9	মহলমালা	NNP
+10	'	SYM
+11	,	SYM
+12	গোবিন্দ	XC
+13	রামের	NNP
+14	`	SYM
+15	স্যাখতমালা	NNP
+16	'	SYM
+17	প্রভৃতি	RP
+18	পুস্তক	NN
+19	ওল্টালে	VM
+20	পাঠশালা	XC
+21	শিক্ষার	NN
+22	একটা	QC
+23	স্পষ্ট	JJ
+24	ছবি	NN
+25	পাওয়া	VM
+26	যেতে	VAUX
+27	পারে	VAUX
+28	৷	SYM
+</Sentence>
+<Sentence id=768>
+1	সাধারণত	RB
+2	পাঠশালার	NN
+3	গুরুমশাইরাই	NN
+4	ছিলেন	VM
+5	এই	DEM
+6	পুঁথিগুলির	NN
+7	রচয়িতা	NN
+8	বা	CC
+9	সংকলক	NN
+10	৷	SYM
+</Sentence>
+<Sentence id=769>
+1	সেইজন্যে	CC
+2	শিক্ষার	NN
+3	মান	NN
+4	বা	CC
+5	পাঠ্য-পুঁথির	NN
+6	মানও	NN
+7	বিশেষ	INTF
+8	উন্নত	JJ
+9	ধরনের	NN
+10	হত	VM
+11	না	NEG
+12	৷	SYM
+</Sentence>
+<Sentence id=770>
+1	ভাষা	XC
+2	শিক্ষা	NN
+3	হত	VM
+4	শুধু	RB
+5	বানান	NN
+6	শিখলেই	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=771>
+1	খুজুটিপাড়ার	NNP
+2	বাহিদার	NNP
+3	ব্রজবাসীদাস	XC
+4	সাউয়ের	NNP
+5	দোকানে	NN
+6	আটানব্বই	QC
+7	রকমের	NN
+8	প্রস্থ	NN
+9	ছিল	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=772>
+1	সেগুলোর	PRP
+2	দিকে	NST
+3	একটু	QF
+4	মনোযোগ	NN
+5	দিলে	VM
+6	দেখা	VM
+7	যাবে	VAUX
+8	পাঠশালার	NN
+9	পডুয়াদের	NN
+10	অকারাদি	NN
+11	অক্ষর	XC
+12	শিক্ষার	NN
+13	পরেই	NST
+14	শিখতে	VM
+15	হত	VAUX
+16	ধান	NN
+17	চাল	NN
+18	গুড়	NN
+19	বিক্রির	NN
+20	হিসেব	NN
+21	,	SYM
+22	সোনা	NN
+23	রূপো	NN
+24	তামা	NN
+25	পেতল	NN
+26	কেনাবেচার	NN
+27	হিসেব	NN
+28	,	SYM
+29	মহাজনির	NN
+30	জন্য	PSP
+31	সুদ	NN
+32	কষা	VM
+33	,	SYM
+34	মুদীয়ানার	NN
+35	জন্যে	PSP
+36	কেনাবেচার	NN
+37	মুনাফা	NN
+38	জমাখরচ	NN
+39	৷	SYM
+</Sentence>
+<Sentence id=773>
+1	পসরিজায়	NNP:?
+2	,	SYM
+3	মনকষা	NN
+4	খরিদবিক্রি	NN
+5	ও	CC
+6	ওজনের	NN
+7	নিয়ম	NN
+8	,	SYM
+9	নিঁখুত	JJ
+10	মাপ-জোখের	NN
+11	জন্য	PSP
+12	ইট-কালি	NN
+13	,	SYM
+14	নৌকা-কালি	NN
+15	,	SYM
+16	দেওয়াল-কালি	NN
+17	,	SYM
+18	পুষ্করিণী-কালি	NN
+19	,	SYM
+20	গোমস্তাগিরির	NN
+21	জন্যে	PSP
+22	খত-পাট্টা	NN
+23	কবুলতি	NN
+24	,	SYM
+25	ইজারা	NN
+26	বন্ধক	NN
+27	,	SYM
+28	জ্যোতিষের	NN
+29	জন্য	PSP
+30	`	SYM
+31	সময়	NN
+32	নিরুপণ	NN
+33	ও	CC
+34	বারতিথি	NN
+35	'	SYM
+36	র	RP
+37	নিয়ম	NN
+38	,	SYM
+39	এমন	PRP
+40	কি	RP
+41	কবিরাজীর	NN
+42	জন্যে	PSP
+43	ওষুধের	NN
+44	মাপ	NN
+45	ও	CC
+46	অনুপান	NN
+47	জানতে	VM
+48	হত	VAUX
+49	৷	SYM
+</Sentence>
+<Sentence id=774>
+1	এই	DEM
+2	হিসেবপত্তর	NN
+3	দেখেও	VM
+4	বোঝা	VM
+5	যায়	VAUX
+6	যে	CC
+7	সে	DEM
+8	যুগের	NN
+9	শ্রমজীবীদের	NN
+10	অধিকাংশই	NN
+11	লেখাপড়া	NN
+12	শিখতেন	VM
+13	৷	SYM
+</Sentence>
+<Sentence id=775>
+1	তত্কালীন	JJ
+2	সামাজিক	JJ
+3	চিঠিপত্রগুলোও	NN
+4	আমাদের	PRP
+5	সামনে	NST
+6	নীরবে	RB
+7	কয়েকটি	QF
+8	সাক্ষীকে	NN
+9	এনে	VM
+10	উপস্থিত	JJ
+11	করে	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=776>
+1	গুরুত্বপূর্ণ	JJ
+2	চিঠি	NN
+3	,	SYM
+4	ছাড়-চিঠি	NN
+5	বা	CC
+6	দলিলে	NN
+7	সাক্ষী	NN
+8	হিসেবে	PSP
+9	যাঁরা	PRP
+10	সই	NN
+11	করতেন	VM
+12	তাঁদের	PRP
+13	অধিকাংশই	NN
+14	ছিলেন	VM
+15	শ্রমজীবী	JJ
+16	মানুষ	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=777>
+1	যাঁরা	PRP
+2	সই	NN
+3	করতে	VM
+4	পারতেন	VAUX
+5	না	NEG
+6	তাঁদের	PRP
+7	জন্যে	PSP
+8	ছিল	VM
+9	`	SYM
+10	নিশানসহি	NN
+11	'	SYM
+12	অর্থাত্	CC
+13	টিপছাপের	NN
+14	মতো	PSP
+15	কালির	NN
+16	দাগ	NN
+17	কাটার	VM
+18	ব্যবস্থা	NN
+19	৷	SYM
+</Sentence>
+<Sentence id=778>
+1	সেই	DEM
+2	`	SYM
+3	নিশানসহি	NN
+4	'	SYM
+5	পাকা	JJ
+6	হত	VM
+7	আরো	INTF
+8	কয়েকজন	QF
+9	`	SYM
+10	ইসাদে	NN
+11	'	SYM
+12	র	RP
+13	সাক্ষ্যে	NN
+14	৷	SYM
+</Sentence>
+<Sentence id=779>
+1	বিভিন্ন	JJ
+2	চিঠিপত্রে	NN
+3	মুচি	NN
+4	,	SYM
+5	বাগদী	NN
+6	,	SYM
+7	ভূঞাঁ	NN
+8	,	SYM
+9	দলুই	NN
+10	,	SYM
+11	মুদী	NN
+12	,	SYM
+13	কোটাল	NN
+14	,	SYM
+15	নায়েক	NN
+16	,	SYM
+17	গোপ	NN
+18	,	SYM
+19	কলু	NN
+20	,	SYM
+21	ধুপী	NN
+22	,	SYM
+23	তাঁতী	NN
+24	,	SYM
+25	কয়াল	NN
+26	,	SYM
+27	কেউট	NN
+28	,	SYM
+29	বাউরি	NN
+30	,	SYM
+31	মালা	NN
+32	,	SYM
+33	লাই	NN
+34	,	SYM
+35	শাঁখারী	NN
+36	,	SYM
+37	ডোমকোটাল	NN
+38	প্রভৃতি	RP
+39	আরো	QF
+40	অনেককেই	PRP
+41	সাক্ষীরূপে	RB
+42	নামসই	NN
+43	করতে	VM
+44	দেখা	VM
+45	গেছে	VAUX
+46	৷	SYM
+</Sentence>
+<Sentence id=780>
+1	আসলে	RB
+2	গ্রামাঞ্চলে	NN
+3	এঁরাই	PRP
+4	ছিলেন	VM
+5	ধনী	JJ
+6	৷	SYM
+</Sentence>
+<Sentence id=781>
+1	পাঠশালার	NN
+2	জন্যে	PSP
+3	জমি	NN
+4	দিতেন	VM
+5	,	SYM
+6	চালা	NN
+7	বেঁধে	VM
+8	দিতেন	VAUX
+9	,	SYM
+10	গুরুমশাইয়ের	NN
+11	জন্যে	PSP
+12	সিধে	NN
+13	পাঠাতেন	VM
+14	,	SYM
+15	তাঁদের	PRP
+16	বাত্সরিক	JJ
+17	খোরাক	XC
+18	পোশাকের	NN
+19	ব্যবস্থা	NN
+20	করে	VM
+21	দিতেন	VAUX
+22	৷	SYM
+</Sentence>
+<Sentence id=782>
+1	ধর্মের	NN
+2	খাতিরেই	NN
+3	হোক	VM
+4	বা	CC
+5	পড়বার	VM
+6	জন্যেই	PSP
+7	হোক	VM
+8	গাঁটের	NN
+9	কড়ি	NN
+10	খরচ	NN
+11	করে	VM
+12	পুঁথি	NN
+13	নকল	NN
+14	করাতেন	VM
+15	,	SYM
+16	তুলে	VM
+17	রাখতেন	VAUX
+18	সযত্নে	RB
+19	৷	SYM
+</Sentence>
+<Sentence id=783>
+1	তাঁদের	PRP
+2	মধ্যে	NST
+3	কবির	NN
+4	সংখ্যা	NN
+5	বেশি	JJ
+6	ছিল	VM
+7	না	NEG
+8	৷	SYM
+</Sentence>
+<Sentence id=784>
+1	কিন্তু	CC
+2	কাব্যের	NN
+3	পৃষ্ঠপোষক	NN
+4	ছিলেন	VM
+5	এঁরাই	PRP
+6	৷	SYM
+</Sentence>
+<Sentence id=785>
+1	এই	PRP
+2	ছিল	VM
+3	গ্রামবাংলার	NN
+4	খাঁটি	JJ
+5	ছবি	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=786>
+1	অনেক	QF
+2	সময়	NN
+3	বামুনরা	NN
+4	শূদ্রের	NN
+5	অধীনে	NN
+6	চাকরিও	NN
+7	করতেন	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=787>
+1	শ্রমজীবী	JJ
+2	সমাজের	NN
+3	সম্মিলিত	JJ
+4	সাহায্যেই	NN
+5	সমাজ-রথের	NN
+6	রশি	NN
+7	ধরে	VM
+8	সামনে	NST
+9	এগোতে	VM
+10	পেরেছিলেন	VAUX
+11	তাঁরা	PRP
+12	৷	SYM
+</Sentence>
+<Sentence id=788>
+1	প্রদীপ	NN
+2	হয়ে	VM
+3	উঠতে	VAUX
+4	পারলে	VAUX
+5	পিলসুজের	NN
+6	কথা	NN
+7	আর	RP
+8	কে	WQ
+9	মনে	NN
+10	রাখে	VM
+11	?	SYM
+</Sentence>
+<Sentence id=789>
+1	বামুন	XC
+2	পণ্ডিত	NN
+3	কিংবা	CC
+4	কবিরাও	NN
+5	এঁদের	PRP
+6	কথা	NN
+7	হয়ত	RB
+8	ভুলে	VM
+9	গিয়েছিলেন	VAUX
+10	,	SYM
+11	এ	PRP
+12	আর	RP
+13	বেশি	JJ
+14	কথা	NN
+15	কি	RP
+16	?	SYM
+</Sentence>
+<Sentence id=790>
+1	ইংরেজ	NN
+2	আসার	VM
+3	পর	NST
+4	ইংরেজী	JJ
+5	শিক্ষার	NN
+6	প্রসার	NN
+7	শুরু	NN
+8	হলে	VM
+9	বাংলার	NN
+10	এই	DEM
+11	নিজস্ব	JJ
+12	শিক্ষা	NN
+13	ক্রমশ	RB
+14	মার	NN
+15	খেতে	VM
+16	থাকে	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=791>
+1	শ্রমজীবী	JJ
+2	মানুষেরাও	NN
+3	হতাশ	JJ
+4	হয়ে	VM
+5	লেখাপড়া	NN
+6	শেখা	VM
+7	ছেড়ে	VM
+8	দিয়ে	VAUX
+9	কবিদের	NN
+10	কথাই	NN
+11	সফল	JJ
+12	করে	VM
+13	তুললেন	VAUX
+14	শেষ	NN
+15	পর্য্যন্ত	PSP
+16	৷	SYM
+</Sentence>
+<Sentence id=792>
+1	আর	CC
+2	সেখানেই	PRP
+3	আমাদের	PRP
+4	গবেষক	XC
+5	বন্ধুদের	NN
+6	জিত	NN
+7	৷	SYM
+</Sentence>
+<Sentence id=793>
+1	প্রসঙ্গত	RB
+2	বলে	VM
+3	রাখি	VAUX
+4	,	SYM
+5	কথায়	NN
+6	কথায়	RDP
+7	সমাজচ্যুত	JJ
+8	হবার	VM
+9	ভয়ে	NN
+10	সেকালে	NN
+11	অনেকে	PRP
+12	বৈষ্ণব	NN
+13	হয়ে	VM
+14	প্রায়শ্চিত্ত	NN
+15	ও	CC
+16	শাস্তির	NN
+17	হাত	NN
+18	থেকে	PSP
+19	রক্ষা	NN
+20	পেত	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=794>
+1	এর	PRP
+2	মধ্যে	NST
+3	বিশেষ	JJ
+4	সম্মান	NN
+5	ছিল	VM
+6	না	NEG
+7	ঠিকই	RB
+8	তবে	CC
+9	অনেক	QF
+10	কুলত্যাগিনী	NN
+11	ও	CC
+12	ব্যাভিচারিণী	NN
+13	ভেক	NN
+14	নিয়ে	VM
+15	পুনরায়	RB
+16	সমাজে	NN
+17	প্রবেশ	NN
+18	করেছিল	VM
+19	৷	SYM
+</Sentence>
+<Sentence id=795>
+1	এবার	NN
+2	আর	QF
+3	একটি	QC
+4	চিঠি	NN
+5	কিংবা	CC
+6	ছাড়পত্র	NN
+7	দেখা	VM
+8	যাক	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=796>
+1	লেখিকা	NN
+2	বিদ্যাধরীপুরের	NNP
+3	লক্ষ্মী	XC
+4	বেওয়া	NNP
+5	৷	SYM
+</Sentence>
+<Sentence id=797>
+1	তাঁর	PRP
+2	চিঠির	NN
+3	ভাষা	NN
+4	আরো	INTF
+5	স্পষ্ট	JJ
+6	৷	SYM
+</Sentence>
+<Sentence id=798>
+1	তিনি	PRP
+2	লিখছেন	VM
+3	`	SYM
+4	শ্রীযুত	XC
+5	রামলোচন	XC
+6	রায়	XC
+7	মহাশয়কে	NNP
+8	'	SYM
+9	৷	SYM
+</Sentence>
+<Sentence id=799>
+1	লিখছেন	VM
+2	:	SYM
+3	"	SYM
+4	আমি	PRP
+5	তোমার	PRP
+6	সঙ্গে	NST
+7	আসনাই	NN
+8	করিআ	VM
+9	গিরস্ত	NN
+10	হইতে	PSP
+11	তেয়াগ	NN
+12	করিয়আ	VM
+13	আমি	PRP
+14	তোমার	PRP
+15	সঙ্গে	NST
+16	ছিলাম	VM
+17	৷	SYM
+</Sentence>
+<Sentence id=800>
+1	আপুনি	PRP
+2	আমাকে	PRP
+3	পরদাপোষে	NN
+4	রাখিয়াছিলেন	VM
+5	৷	SYM
+</Sentence>
+<Sentence id=801>
+1	তাহাতে	PRP
+2	আমি	PRP
+3	আপনার	PRP
+4	অন্য	JJ
+5	আচরণ	NN
+6	করিআ	VM
+7	সা	XC:?
+8	বেলডাঙার	NNP
+9	শ্রীযুত	XC
+10	কার্তিক	XC
+11	চক্রবর্তীর	NNP
+12	সহিত	PSP
+13	আসনাই	NN
+14	করিয়াছি	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=802>
+1	অতএব	CC
+2	তোমার	PRP
+3	আর	CC
+4	আমার	PRP
+5	অন্তঃকরণ	NN
+6	নহে	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=803>
+1	এক্ষণ	PRP
+2	আমি	PRP
+3	ধর্মার্থ	NN:?
+4	কারণ	NN
+5	বৈরাগ্য	XC
+6	আশ্রম	NN
+7	লইব	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=804>
+1	এ	DEM
+2	কারণ	NN
+3	মহাশয়ের	NN
+4	কাছে	NST
+5	যাচিঞা	NN
+6	করিবাতে	VM
+7	আপুনি	PRP
+8	আমার	PRP
+9	এবং	CC
+10	আপনার	PRP
+11	ধর্মরক্ষার্থে	RB
+12	আমাকে	PRP
+13	বৈরাগ্য	NN
+14	হইবার	VM
+15	কারণ	PSP:?
+16	তিন	QC
+17	টাকা	NN
+18	দিলেন	VM
+19	৷	SYM
+</Sentence>
+<Sentence id=805>
+1	আমি	PRP
+2	স্বইচ্ছাপূর্বক	RB
+3	লইলাম	VM
+4	আর	CC
+5	মহাশয়ের	NN
+6	স্থানে	NN
+7	আমি	PRP
+8	কোন	QF
+9	জিনিসপত্রের	NN
+10	দায়া	NN
+11	করিব	VM
+12	না	NEG
+13	৷	SYM
+</Sentence>
+<Sentence id=806>
+1	"	SYM
+2	চিঠিটা	NN
+3	লেখা	VM
+4	হয়েছিল	VAUX
+5	1231	XC
+6	সালের	NNP
+7	11ই	QO
+8	বৈশাখ	NNP
+9	৷	SYM
+</Sentence>
+<Sentence id=807>
+1	চিঠিটাতে	NN
+2	অনেক	QF
+3	ভুলভ্রান্তি	NN
+4	থাকলেও	VM
+5	এর	PRP
+6	প্রতিটি	QF
+7	ছত্রে	NN
+8	যেন	RP
+9	লক্ষ্মীর	NNP
+10	জীবন	XC
+11	পিপাসার	NN
+12	ছবি	NN
+13	আঁকা	VM
+14	হয়েছে	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=808>
+1	এ	PRP
+2	যেন	RP
+3	একটা	QC
+4	উপন্যাসের	NN
+5	প্লট	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=809>
+1	বিধবা	JJ
+2	লক্ষ্মী	NNP
+3	প্রেমে	NN
+4	বা	CC
+5	প্রলোভনে	NN
+6	একবার	NN
+7	গৃহত্যাগ	NN
+8	করেছিল	VM
+9	কিন্তু	CC
+10	রায়মশাই	NNP
+11	চপলা	JJ
+12	লক্ষ্মীকে	NNP
+13	তাঁর	PRP
+14	স্থাবর-অস্থাবর	JJ
+15	সম্পত্তির	NN
+16	সোনার	NN
+17	খাঁচায়	NN
+18	বন্দী	NN
+19	করতে	VM
+20	পারেননি	VAUX
+21	৷	SYM
+</Sentence>
+<Sentence id=810>
+1	ভরণ	XC
+2	পোষণের	NN
+3	প্রতিশ্রুতি	NN
+4	দিয়ে	VM
+5	তাকে	PRP
+6	পর্দার	NN
+7	আড়ালে	NN
+8	লুকিয়ে	VM
+9	রাখলেও	VAUX
+10	আবার	RB
+11	প্রেমের	NN
+12	জোয়ারে	NN
+13	ভেসে	VM
+14	কার্তিক	XC
+15	চক্রবর্তীর	NNP
+16	হাত	NN
+17	ধরে	VM
+18	ঘর	NN
+19	ছাড়তে	VM
+20	চায়	VAUX
+21	লক্ষ্মী	NNP
+22	৷	SYM
+</Sentence>
+<Sentence id=811>
+1	বেলডাঙার	NNP
+2	কার্তিক	NNP
+3	নিশ্চয়ই	RB
+4	রায়মশাইয়ের	NNP
+5	মতো	PSP
+6	গাঁয়ের	NN
+7	মাথা	NN
+8	নয়	VM
+9	;	SYM
+10	তাই	CC
+11	এবার	NN
+12	যাত্রা	NN
+13	বৈরাগীর	NN
+14	অনির্দিষ্ট	JJ
+15	পথে	NN
+16	৷	SYM
+</Sentence>
+<Sentence id=812>
+1	ছোট্ট	JJ
+2	চিঠিটা	NN
+3	যেন	RP
+4	বেহিসাবী	JJ
+5	লক্ষ্মীর	NNP
+6	সমগ্র	QF
+7	জীবনের	NN
+8	ইতিহাস	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=813>
+1	যাক	VM
+2	সে	DEM
+3	কথা	NN
+4	,	SYM
+5	আমরা	PRP
+6	মূল	JJ
+7	প্রসঙ্গে	NN
+8	ফিরে	VM
+9	আসি	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=814>
+1	চিঠির	NN
+2	কথায়	NN
+3	এসেছিলুম	VM
+4	মেয়েদের	NN
+5	শিক্ষাপ্রসঙ্গে	NN
+6	৷	SYM
+</Sentence>
+<Sentence id=815>
+1	অতি	INTF
+2	সাধারণ	JJ
+3	মেয়েরাও	NN
+4	কিছু	QF
+5	কিছু	RDP
+6	লিখতে	XC:?
+7	পড়তে	VM
+8	পারে	VAUX
+9	যখন	PRP
+10	,	SYM
+11	তখন	PRP
+12	গ্রন্থানুরাগিণী	JJ
+13	শ্রীমতী	XC
+14	লালমণি	XC
+15	বৈষ্ণবীকে	NNP
+16	দেখলে	VM
+17	অবাক	JJ
+18	হবার	VM
+19	কিছু	PRP
+20	নেই	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=816>
+1	লালমণি	NNP
+2	দুটি	QC
+3	পুঁথি	NN
+4	নকল	NN
+5	করেছিলেন	VM
+6	নিজের	PRP
+7	হাতে	NN
+8	1242	XC
+9	সালে	NNP
+10	৷	SYM
+</Sentence>
+<Sentence id=817>
+1	প্রথম	QO
+2	পুঁথি	NN
+3	লেখা	VM
+4	হয়	VAUX
+5	25শে	QO
+6	জ্যৈষ্ঠ	NNP
+7	বেলা	NN
+8	তিন	QC
+9	প্রহরে	NN
+10	,	SYM
+11	দ্বিতীয়টি	NN
+12	20শে	QO
+13	কার্তিক	NNP
+14	রাত্রি	NN
+15	দেড়	QC
+16	প্রহরে	NN
+17	৷	SYM
+</Sentence>
+<Sentence id=818>
+1	পুঁথি	NN
+2	লেখার	VM
+3	সময়	NN
+4	দেখে	VM
+5	বোঝা	VM
+6	যাচ্ছে	VAUX
+7	লালমণি	NNP
+8	কাজের	NN
+9	অবসরে	NN
+10	নিরলস	JJ
+11	সাহিত্য	XC
+12	চর্চায়	NN
+13	ডুবে	VM
+14	থাকতেন	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=819>
+1	একটার	QC
+2	পর	NST
+3	একটা	QC
+4	পুঁথি	NN
+5	নকল	NN
+6	করাও	VM
+7	সে	DEM
+8	কথাই	NN
+9	প্রমাণ	NN
+10	করে	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=820>
+1	তাঁর	PRP
+2	সম্বন্ধে	PSP
+3	আরও	QF
+4	কিছু	PRP
+5	জানতে	VM
+6	ইচ্ছে	NN
+7	করে	VM
+8	কিন্তু	CC
+9	তিনি	PRP
+10	শুধু	RB
+11	জানিয়েছেন	VM
+12	পুঁথি	NN
+13	লেখবার	VM
+14	সময়	NN
+15	তিনি	PRP
+16	বাঁকুড়ায়	NNP
+17	বাস	NN
+18	করতেন	VM
+19	কিন্তু	CC
+20	বাসস্থান	NN
+21	ছিল	VM
+22	অম্বিকানগরের	NNP
+23	বৃন্দাবনপুর	NNP
+24	৷	SYM
+</Sentence>
+<Sentence id=821>
+1	লালমণি	NNP
+2	কি	WQ
+3	পুঁথি	NN
+4	নকল	NN
+5	করাবার	VM
+6	জন্যেই	PSP
+7	বাঁকুড়া	NNP
+8	গিয়েছিলেন	VM
+9	?	SYM
+</Sentence>
+<Sentence id=822>
+1	সেকথা	NN
+2	লেখা	VM
+3	নেই	VAUX
+4	তবে	CC
+5	তিনি	PRP
+6	পেশাদার	JJ
+7	লিপিকার	NN
+8	তো	RP
+9	ননই	VM
+10	বরং	CC
+11	নকল	NN
+12	করতেন	VM
+13	নিজের	PRP
+14	জন্যে	PSP
+15	৷	SYM
+</Sentence>
+<Sentence id=823>
+1	শুধু	RB
+2	তাই	PRP
+3	নয়	VM
+4	,	SYM
+5	পরের	NN
+6	বাড়িতে	NN
+7	ভাল	JJ
+8	পুঁথির	NN
+9	সন্ধান	NN
+10	পেলে	VM
+11	প্রয়োজনমতো	RB
+12	অন্য	JJ
+13	লোককে	NN
+14	দিয়ে	PSP
+15	নকল	NN
+16	করিয়েও	VM
+17	আনাতেন	VM
+18	৷	SYM
+</Sentence>
+<Sentence id=824>
+1	তাই	CC
+2	পারুল্যার	NNP
+3	ভরত	XC
+4	মণ্ডলের	NNP
+5	কাছে	NST
+6	একখানি	QC
+7	`	SYM
+8	তত্ত্ববিলাসের	NNP
+9	'	SYM
+10	পুঁথি	NN
+11	আছে	VM
+12	শুনে	VM
+13	তিনি	PRP
+14	সেটি	PRP
+15	নকল	NN
+16	করিয়ে	VM
+17	নিয়েছিলেন	VAUX
+18	রাসবিহারী	XC
+19	বসুকে	NNP
+20	দিয়ে	PSP
+21	৷	SYM
+</Sentence>
+<Sentence id=825>
+1	এই	DEM
+2	পুঁথির	NN
+3	লিপিকাল	NN
+4	1244	XC
+5	সাল	NNP
+6	অর্থাত্	CC
+7	লালমণির	NNP
+8	নিজের	PRP
+9	হাতে	NN
+10	পুঁথি	NN
+11	নকল	NN
+12	করার	VM
+13	দু-বছর	NN
+14	পরে	NST
+15	৷	SYM
+</Sentence>
+<Sentence id=826>
+1	ভাল	JJ
+2	করে	RP
+3	খুঁজলে	VM
+4	আরো	QF
+5	পুঁথির	NN
+6	পুষ্পিকায়	NN
+7	লালমণি	XC
+8	বৈষ্ণবীর	NNP
+9	নাম	NN
+10	খুঁজে	VM
+11	পাওয়া	VAUX
+12	যেতে	VAUX
+13	পারে	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=827>
+1	জাতি	NN
+2	:	SYM
+3	আমাদের	PRP
+4	দেশে	NN
+5	তিন	QC
+6	জাতের	NN
+7	বেগুন	NN
+8	বত্সরের	NN
+9	বিভিন্ন	JJ
+10	সময়ে	NN
+11	চাষ	NN
+12	করা	VM
+13	হইয়া	VAUX
+14	থাকে	VAUX
+15	,	SYM
+16	যথা	CC
+17	-	SYM
+18	(	SYM
+19	1	QC
+20	)	SYM
+21	আউশে	XC
+22	বেগুন	NNP
+23	:	SYM
+24	ইহার	PRP
+25	বীজ	NN
+26	চৈত্র	NNP
+27	বৈশাখ	NNP
+28	মাসে	NN
+29	বোনা	VM
+30	হয়	VM
+31	এবং	CC
+32	ক্ষেতে	NN
+33	জ্যৈষ্ঠ	NNP
+34	আষাঢ	NNP
+35	মাসে	NN
+36	রোপণ	NN
+37	করা	VM
+38	হয়	VM
+39	৷	SYM
+</Sentence>
+<Sentence id=828>
+1	বোনার	VM
+2	3	QC
+3	/	SYM
+4	4	QC
+5	মাসের	NN
+6	মধ্যে	NST
+7	গাছে	NN
+8	ফল	NN
+9	ধরে	VM
+10	এবং	CC
+11	4	QC
+12	/	SYM
+13	5	QC
+14	মাস	NN
+15	ধরিয়া	PSP
+16	ফল	NN
+17	প্রদান	NN
+18	করে	VM
+19	৷	SYM
+</Sentence>
+<Sentence id=829>
+1	(	SYM
+2	2	QC
+3	)	SYM
+4	পৌষালী	XC
+5	বেগুন	NNP
+6	:	SYM
+7	শীতকালীন	JJ
+8	বা	CC
+9	রবিশস্য	NN
+10	হিসাবে	PSP
+11	সর্বত্র	RB:?
+12	এই	DEM
+13	বেগুনের	NN
+14	চাষ	NN
+15	করা	VM
+16	হয়	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=830>
+1	বর্ষার	NN
+2	পরে	NST
+3	আশ্বিন-কার্তিক	NNP
+4	মাসে	NN
+5	ইহার	PRP
+6	বীজ	NN
+7	বোনা	VM
+8	হয়	VM
+9	এবং	CC
+10	শীতকাল	NN
+11	হইতে	PSP
+12	বসন্তকাল	NN
+13	পর্যন্ত	PSP
+14	ইহার	PRP
+15	ফল	NN
+16	ভালভাবে	RB
+17	পাওয়া	VM
+18	যায়	VM
+19	৷	SYM
+</Sentence>
+<Sentence id=831>
+1	শীতের	NN
+2	বেগুনের	NN
+3	স্বাদ	NN
+4	খুব	INTF
+5	ভালো	JJ
+6	৷	SYM
+</Sentence>
+<Sentence id=832>
+1	(	SYM
+2	3	QC
+3	)	SYM
+4	কুলি	NN
+5	বা	CC
+6	চৈতি	NN
+7	বেগুন	NN
+8	:	SYM
+9	ইহার	PRP
+10	বীজ	NN
+11	অগ্রহায়ণ-পৌষ	NNP
+12	মাসে	NN
+13	বোনা	VM
+14	হয়	VAUX
+15	এবং	CC
+16	চৈত্র	NNP
+17	মাস	NN
+18	হইতে	PSP
+19	গ্রীষ্মকালের	NN
+20	শেষ	NN
+21	পর্যন্ত	PSP
+22	ফল	NN
+23	দেয়	VM
+24	৷	SYM
+</Sentence>
+<Sentence id=833>
+1	জাত	NN
+2	হিসাবে	PSP
+3	আবার	RB
+4	বেগুনের	NN
+5	দেশী	JJ
+6	ও	CC
+7	বিদেশী	JJ
+8	জাত	NN
+9	আছে	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=834>
+1	দেশী	JJ
+2	জাতের	NN
+3	মধ্যে	NST
+4	মুক্তকেশী	NNP
+5	বা	CC
+6	কাশী	NNP
+7	,	SYM
+8	গৌরকাজল	NNP
+9	,	SYM
+10	আউশে	NNP
+11	,	SYM
+12	পাটনাই	NNP
+13	,	SYM
+14	কুসি	NNP
+15	,	SYM
+16	লুডকী	NNP
+17	,	SYM
+18	কুলি	NNP
+19	ইত্যাদি	RP
+20	বিশেষভাবে	RB
+21	উল্লেখযোগ্য	JJ
+22	৷	SYM
+</Sentence>
+<Sentence id=835>
+1	কাশীর	NNP
+2	বেগুন	NN
+3	আকারে	NN
+4	বেশ	INTF
+5	বড়	JJ
+6	হয়	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=836>
+1	কাশীর	NNP
+2	বেনারসজায়েণ্ট	XC
+3	জাতের	NN
+4	বেগুন	NN
+5	গোলাকার	JJ
+6	এবং	CC
+7	একটি	QC
+8	একটির	QC:?
+9	ওজন	NN
+10	এক	QC
+11	কিলোগ্রামের	QF
+12	বেশী	JJ
+13	হয়	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=837>
+1	বিদেশী	JJ
+2	ও	CC
+3	উন্নত	JJ
+4	জাতের	NN
+5	বেগুনের	NN
+6	মধ্যে	NST
+7	ব্ল্যাক	XC
+8	বিউটি	NNP
+9	,	SYM
+10	পুসা	XC
+11	পারপল	NNP
+12	,	SYM
+13	ল	XC
+14	পুসাপারপল	XC
+15	রাউণ্ড	NNP
+16	,	SYM
+17	মুক্তকেশী	XC
+18	রাউণ্ড	XC
+19	পারপল	NNP
+20	,	SYM
+21	ল	XC
+22	হোয়াইট	NNP
+23	,	SYM
+24	পাঞ্জাব4	NNP
+25	প্রভৃতি	RP
+26	বিশেষভাবে	RB
+27	উল্লেখযোগ্য	JJ
+28	৷	SYM
+</Sentence>
+<Sentence id=838>
+1	পটল	NN
+2	:	SYM
+3	পটল	NN
+4	কুষ্মাণ্ড	NN
+5	গোত্রীয়	JJ
+6	এমন	DEM
+7	একটি	QC
+8	লতানে	JJ
+9	গাছ	NN
+10	যাহা	PRP
+11	যুগ	NN
+12	যুগ	RDP
+13	ধরিয়া	PSP
+14	মানুষের	NN
+15	উপকার	NN
+16	করিয়া	VM
+17	আসিতেছে	VAUX
+18	৷	SYM
+</Sentence>
+<Sentence id=839>
+1	একমাত্র	RB
+2	মূল	NN
+3	ছাড়া	PSP
+4	ইহার	PRP
+5	সবটুকুই	PRP
+6	মানুষের	NN
+7	কাজে	NN
+8	লাগে	VM
+9	৷	SYM
+</Sentence>
+<Sentence id=840>
+1	সবজি	NN
+2	হিসাবে	PSP
+3	পটলের	NN
+4	কোন	QF
+5	তুলনা	NN
+6	নাই	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=841>
+1	গ্রীষ্ম	NN
+2	ও	CC
+3	বর্ষাকালে	NN
+4	পশ্চিমবঙ্গে	NNP
+5	পটলই	NN
+6	একমাত্র	RB
+7	প্রধান	JJ
+8	সবজী	NN
+9	৷	SYM
+</Sentence>
+<Sentence id=842>
+1	পটল	NN
+2	সহজ-পাচ্য	JJ
+3	,	SYM
+4	বহুমূত্র	NN
+5	নাশক	JJ
+6	এবং	CC
+7	হৃত্পিণ্ড	NN
+8	ও	CC
+9	মস্তিষ্ক	NN
+10	বলকারী	JJ
+11	৷	SYM
+</Sentence>
+<Sentence id=843>
+1	প্রতি	QF
+2	100	QC
+3	গ্রাম	QF
+4	পটলে	NN
+5	2	QC
+6	গ্রাম	QF
+7	প্রোটিন	NN
+8	,	SYM
+9	0.03	QC
+10	গ্রাম	QF
+11	ফ্যাট	NN
+12	,	SYM
+13	0.5	QC
+14	গ্রাম	QF
+15	লবণ	NN
+16	এবং	CC
+17	5	QC
+18	গ্রাম	QF
+19	শর্করা	NN
+20	আছে	VM
+21	৷	SYM
+</Sentence>
+<Sentence id=844>
+1	ইহা	PRP
+2	ছাড়া	PSP
+3	প্রায়	RB
+4	29	QC
+5	মি.	XC
+6	গ্রাম	QF
+7	ভিটামিন	NN
+8	`	SYM
+9	সি	NN
+10	'	SYM
+11	এবং	CC
+12	255	QC
+13	আই	XC
+14	,	SYM
+15	ইউ	XC
+16	ভিটামিন`এ	NN
+17	'	SYM
+18	পাওয়া	VM
+19	যায়	VAUX
+20	৷	SYM
+</Sentence>
+<Sentence id=845>
+1	পটলের	NN
+2	লতা	NN
+3	ও	CC
+4	পাতা	NN
+5	প্রায়	RB
+6	রক্ত	NN
+7	পরিষ্কার	NN
+8	ও	CC
+9	সুষ্ঠু	JJ
+10	রক্ত	NN
+11	সঞ্চালনের	NN
+12	জন্য	PSP
+13	নানাভাবে	RB
+14	ব্যবহৃত	JJ
+15	হয়	VM
+16	৷	SYM
+</Sentence>
+<Sentence id=846>
+1	জলবায়ু	NN
+2	মাটি	NN
+3	:	SYM
+4	উষ্ণ	JJ
+5	আর্দ্র	JJ
+6	আবহাওয়ায়	NN
+7	পটল	NN
+8	ভালো	JJ
+9	হয়	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=847>
+1	পটল	XC
+2	গাছ	NN
+3	শীত	NN
+4	সহনশীল	JJ
+5	নয়	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=848>
+1	সেইজন্য	CC
+2	শীত	NN
+3	পড়িলে	VM
+4	পটলের	NN
+5	লতা	NN
+6	একেবারে	RB
+7	শুকাইয়া	VM
+8	যায়	VAUX
+9	৷	SYM
+</Sentence>
+<Sentence id=849>
+1	আবার	RB
+2	বসন্তকালে	NN
+3	মাটির	NN
+4	নীচে	NST
+5	অবস্থিত	JJ
+6	মূল	NN
+7	হইতে	PSP
+8	ছোট	JJ
+9	ছোট	RDP
+10	চারা	NN
+11	বাহির	VM
+12	হইয়া	VAUX
+13	সমস্ত	JJ
+14	ক্ষেত	NN
+15	ঢাকিয়া	VM
+16	দেয়	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=850>
+1	সাধারণতঃ	RB
+2	দক্ষিণ-পশ্চিম	JJ
+3	মৌসুমী	JJ
+4	বায়ু	NN
+5	বহিতে	VM
+6	আরম্ভ	NN
+7	করিলে	VM
+8	পটল	XC
+9	গাছে	NN
+10	ফুল	NN
+11	আসিতে	VM
+12	আরম্ভ	NN
+13	করে	VM
+14	৷	SYM
+</Sentence>
+<Sentence id=851>
+1	অল্প	JJ
+2	অল্প	RDP
+3	ও	CC
+4	বারে	RB
+5	বারে	RDP
+6	বৃষ্টিপাত	NN
+7	পটল	XC
+8	গাছের	NN
+9	পক্ষে	PSP
+10	বিশেষ	INTF
+11	প্রয়োজনীয়	JJ
+12	৷	SYM
+</Sentence>
+<Sentence id=852>
+1	খুব	INTF
+2	বেশী	JJ
+3	বৃষ্টি	NN
+4	হইলে	VM
+5	পরাগসংযোগকারী	JJ
+6	কীটপতঙ্গের	NN
+7	চলাফেরা	NN
+8	কমিয়া	VM
+9	যায়	VAUX
+10	,	SYM
+11	ফলে	CC
+12	পরাগসংযোগে	NN
+13	ব্যাঘাত	NN
+14	ঘটে	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=853>
+1	তাহা	PRP
+2	ছাড়া	PSP
+3	অতিরিক্ত	JJ
+4	বৃষ্টিপাতে	NN
+5	পরাগ	NN
+6	ধুইয়া	VM
+7	নষ্ট	JJ
+8	হইয়া	VM
+9	যায়	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=854>
+1	রাত্রিবেলা	NN
+2	আকাশ	NN
+3	পরিষ্কার	NN
+4	না	NEG
+5	থাকিলে	VM
+6	পটল	NN
+7	হিম	NN
+8	বা	CC
+9	শিশির	NN
+10	পায়	VM
+11	না	NEG
+12	৷	SYM
+</Sentence>
+<Sentence id=855>
+1	লক্ষ্য	NN
+2	করিলে	VM
+3	দেখা	VM
+4	যায়	VAUX
+5	রাত্রিবেলা	NN
+6	হিম	NN
+7	পাওয়ার	VM
+8	জন্য	PSP
+9	ফলের	NN
+10	পিছন	JJ
+11	দিকটা	NN
+12	মাটি	NN
+13	হইতে	PSP
+14	উপরে	NST
+15	উঠিয়া	VM
+16	থাকে	VAUX
+17	৷	SYM
+</Sentence>
+<Sentence id=856>
+1	নদীর	NN
+2	চর	XC
+3	এলাকায়	NN
+4	বা	CC
+5	উঁচু	JJ
+6	বেলে-দোআঁশ	XC
+7	মাটিতে	NN
+8	পটল	NN
+9	সর্বাপেক্ষা	RB
+10	ভালো	JJ
+11	হয়	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=857>
+1	দোআঁশ	XC
+2	মাটি	NN
+3	ছাড়াও	PSP
+4	বিভিন্ন	JJ
+5	রকম	NN
+6	মাটিতে	NN
+7	পটলের	NN
+8	চাষ	NN
+9	করা	VM
+10	যায়	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=858>
+1	সেইজন্য	CC
+2	পশ্চিমবঙ্গের	NNP
+3	প্রায়	RB
+4	সব	QF
+5	জেলাতেই	NN
+6	কম-বেশী	JJ
+7	পটলের	NN
+8	চাষ	NN
+9	হয়	VM
+10	৷	SYM
+</Sentence>
+<Sentence id=859>
+1	তবে	CC
+2	নদীয়া	NNP
+3	,	SYM
+4	মুর্শিদাবাদ	NNP
+5	,	SYM
+6	24	XC
+7	পরগণা	NNP
+8	,	SYM
+9	কোচবিহার	NNP
+10	,	SYM
+11	জলপাইগুড়ি	NNP
+12	,	SYM
+13	মালদহ	NNP
+14	,	SYM
+15	পশ্চিম	XC
+16	দিনাজপুর	NNP
+17	,	SYM
+18	হাওড়া	NNP
+19	,	SYM
+20	হুগলী	NNP
+21	,	SYM
+22	বর্ধমান	NNP
+23	পটল	NN
+24	চাষের	NN
+25	জন্য	PSP
+26	বিখ্যাত	JJ
+27	৷	SYM
+</Sentence>
+<Sentence id=860>
+1	জমি	NN
+2	অবশ্যই	RB
+3	জল	NN
+4	নিষ্কাশনের	NN
+5	উপযোগী	JJ
+6	হওয়া	VM
+7	চাই	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=861>
+1	চাষ	NN
+2	:	SYM
+3	লাগানোর	VM
+4	সময়	NN
+5	ও	CC
+6	পদ্ধতি	NN
+7	-	SYM
+8	পটল	NN
+9	চাষের	NN
+10	জন্য	PSP
+11	খুব	INTF
+12	ভালোভাবে	RB
+13	ক্ষেতের	NN
+14	আগাছা	NN
+15	ইত্যাদি	RP
+16	পরিষ্কার	NN
+17	করিতে	VM
+18	হয়	VAUX
+19	৷	SYM
+</Sentence>
+<Sentence id=862>
+1	সেইজন্য	CC
+2	প্রয়োজন	NN
+3	হইলে	VM
+4	4-3টি	QC
+5	চাষ	NN
+6	,	SYM
+7	মই	NN
+8	ও	CC
+9	বিদা	NN
+10	দ্বারা	PSP
+11	জমিকে	NN
+12	কর্ষণ	NN
+13	ও	CC
+14	আগাছা	NN
+15	মুক্ত	JJ
+16	করা	VM
+17	হয়	VAUX
+18	৷	SYM
+</Sentence>
+<Sentence id=863>
+1	চাষ	NN
+2	দেওয়ার	VM
+3	সময়	NN
+4	জমিতে	NN
+5	হেক্টর-প্রতি	JJ
+6	25-40	QC
+7	গাড়ী	NN
+8	গোবর	XC
+9	সার	NN
+10	প্রয়োগ	NN
+11	করিতে	VM
+12	পারিলে	VM
+13	ভালো	JJ
+14	হয়	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=864>
+1	পশ্চিমবঙ্গে	NNP
+2	সেপ্টেম্বর	NNP
+3	ও	CC
+4	অক্টোবর	NNP
+5	মাসে	NN
+6	পটলের	NN
+7	মূল	NN
+8	ও	CC
+9	লতা	NN
+10	লাগানো	VM
+11	হয়	VM
+12	৷	SYM
+</Sentence>
+<Sentence id=865>
+1	প্রবাদ	NN
+2	আছে	VM
+3	যে	CC
+4	,	SYM
+5	কোনক্রমেই	RB
+6	কালীপূজার	NN
+7	পরে	NST
+8	পটলের	NN
+9	মূল	NN
+10	রোপণ	NN
+11	করিলে	VM
+12	চলিবে	VM
+13	না	NEG
+14	৷	SYM
+</Sentence>
+<Sentence id=866>
+1	আগষ্ট-সেপ্টেম্বর	XC
+2	মাসে	NNP
+3	জমিতে	NN
+4	স্থায়ীভাবে	RB
+5	রোপণ	NN
+6	করা	VM
+7	হয়	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=867>
+1	মূল	NN
+2	বপন	NN
+3	করিলে	VM
+4	জমি	NN
+5	হইতে	PSP
+6	মূল	NN
+7	তুলিয়া	VM
+8	10-15	QC
+9	দিন	NN
+10	জাগ	NN
+11	দিয়া	PSP
+12	রাখিয়া	VM
+13	ছোট	JJ
+14	ছোট	RDP
+15	পাতা	NN
+16	দেখা	VM
+17	দিলেই	VAUX
+18	জমিতে	NN
+19	লাগাইবার	VM
+20	উপযোগী	JJ
+21	হয়	VM
+22	৷	SYM
+</Sentence>
+<Sentence id=868>
+1	যেখানে	PRP
+2	বৃষ্টিপাত	NN
+3	কম	JJ
+4	সেখানে	PRP
+5	জুলাই-আগষ্ট	XC
+6	মাসে	NNP
+7	,	SYM
+8	যেখানে	PRP
+9	বৃষ্টিপাত	NN
+10	বেশী	JJ
+11	সেখানে	PRP
+12	সেপ্টেম্বর-অক্টোম্বর	XC
+13	মাসে	NNP
+14	এবং	CC
+15	যেখানে	NNP
+16	বৃষ্টিপাত	NN
+17	খুব	INTF
+18	বেশী	JJ
+19	সেখানে	PRP
+20	ফেব্রুয়ারী	XC
+21	মার্চ	XC
+22	মাসে	NNP
+23	মূল	NN
+24	বা	CC
+25	কলম	NN
+26	লাগাইয়া	VM
+27	জমি	NN
+28	আবাদ	NN
+29	করা	VM
+30	হয়	VAUX
+31	৷	SYM
+</Sentence>
+<Sentence id=869>
+1	বীজ	NN
+2	হইতে	PSP
+3	চারা	NN
+4	তৈয়ারী	NN
+5	করিতে	VM
+6	হইলে	VAUX
+7	জুন-জলাই	XC
+8	মাসে	NN
+9	পাকা	JJ
+10	ফল	NN
+11	হইতে	PSP
+12	বীজ	NN
+13	বাহির	NST
+14	করিয়া	VM
+15	1	QC
+16	/	SYM
+17	2	QC
+18	দিনের	NN
+19	মধ্যেই	NST
+20	বীজ	NN
+21	তলায়	NN
+22	ফেলিতে	VM
+23	হয়	VAUX
+24	৷	SYM
+</Sentence>
+<Sentence id=870>
+1	বীজ	NN
+2	হইতে	PSP
+3	চারা	NN
+4	বাহির	NST
+5	হইলে	VM
+6	তাহা	PRP
+7	পুরা	QF
+8	এক	QC
+9	বত্সর	NN
+10	বীজ	NN
+11	তলায়	NN
+12	রাখিতে	VM
+13	হয়	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=871>
+1	কেননা	CC
+2	বীজের	NN
+3	চারা	NN
+4	খুব	INTF
+5	দুর্বল	JJ
+6	হয়	VM
+7	,	SYM
+8	সেইজন্য	CC
+9	এক	QC
+10	বত্সর	NN
+11	সময়	NN
+12	না	NEG
+13	দিলে	VM
+14	জমিতে	NN
+15	লাগানোর	VM
+16	উপযুক্ত	JJ
+17	হয়	VM
+18	না	NEG
+19	৷	SYM
+</Sentence>
+<Sentence id=872>
+1	হেক্টর-প্রতি	JJ
+2	সাধারণতঃ	RB
+3	8	QC
+4	থেকে	PSP
+5	20	QC
+6	কেজি	QF
+7	বীজের	NN
+8	আবশ্যক	JJ
+9	৷	SYM
+</Sentence>
+<Sentence id=873>
+1	বীজের	NN
+2	পরিমাণ	NN
+3	একটু	INTF
+4	বেশীই	JJ
+5	লাগে	VM
+6	,	SYM
+7	কারণ	CC
+8	বীজের	NN
+9	গাছের	NN
+10	অর্ধেক	QF
+11	পুরুষ	XC
+12	গাছ	NN
+13	ও	CC
+14	অর্ধেক	QF
+15	স্ত্রী	XC
+16	গাছ	NN
+17	হয়	VM
+18	৷	SYM
+</Sentence>
+<Sentence id=874>
+1	লতা	XC
+2	কলম	NN
+3	দ্বারা	PSP
+4	জমি	NN
+5	আবাদ	NN
+6	করিলে	VM
+7	হেক্টর-প্রতি	JJ
+8	900	QC
+9	থেকে	PSP
+10	1000টি	QC
+11	1.5	QC
+12	মি	QF
+13	লম্বা	JJ
+14	লতা	NN
+15	হইলেই	VM
+16	যথেষ্ট	JJ
+17	;	SYM
+18	কিন্তু	CC
+19	মূল	NN
+20	দ্বারা	PSP
+21	আবাদ	NN
+22	করিলে	VM
+23	প্রতি	QF
+24	হেক্টরে	NN
+25	প্রায়	RB
+26	2500	QC
+27	-	SYM
+28	3000টি	QC
+29	মূলের	NN
+30	প্রয়োজন	NN
+31	৷	SYM
+</Sentence>
+<Sentence id=875>
+1	মূল	NN
+2	অবশ্য	RB
+3	ওজন	XC
+4	দরে	NN
+5	কিনিতে	VM
+6	পাওয়া	VM
+7	যায়	VAUX
+8	৷	SYM
+</Sentence>
+<Sentence id=876>
+1	প্রতি	QF
+2	একরে	NN
+3	মোটামুটি	JJ:?
+4	45	QC
+5	-	SYM
+6	60	QC
+7	কেজি	QF
+8	মূলের	NN
+9	প্রয়োজন	NN
+10	হয়	VM
+11	৷	SYM
+</Sentence>
+<Sentence id=877>
+1	অন্যান্য	JJ
+2	কুষ্মাণ্ড	XC
+3	গোত্রীয়	JJ
+4	ফসলের	NN
+5	মতো	PSP
+6	পটলও	NN
+7	1.5-2	QC
+8	মিটার	QF
+9	দূরত্বে	NN
+10	লাগাইতে	VM
+11	হয়	VAUX
+12	৷	SYM
+</Sentence>
+<Sentence id=878>
+1	জলসেচন	NN
+2	ও	CC
+3	নিষ্কাশনে	NN
+4	সুবিধা	NN
+5	করার	VM
+6	জন্য	PSP
+7	জমিকে	NN
+8	কতকগুলি	QF
+9	(	SYM
+10	3	QC
+11	-	SYM
+12	3.5	QC
+13	মিচওডা	QF:?
+14	)	SYM
+15	প্লটে	NN
+16	ভাগ	NN
+17	করিয়া	VM
+18	লওয়া	VAUX
+19	হয়	VAUX
+20	৷	SYM
+</Sentence>
+<Sentence id=879>
+1	তারপর	RB
+2	প্লটগুলিতে	NN
+3	1.5-2	QC
+4	মি	QF
+5	অন্তর	NN
+6	নালা	NN
+7	করিয়া	VM
+8	মূলগুলিকে	NN
+9	1.5-2	QC
+10	মি	QF
+11	অন্তর	NN
+12	লাগানো	VM
+13	হয়	VAUX
+14	৷	SYM
+</Sentence>
+<Sentence id=880>
+1	গাছ	NN
+2	বাহির	NN
+3	হইলে	VM
+4	নালি	NN
+5	হইতে	PSP
+6	উঁচু	JJ
+7	দাঁড়ার	NN
+8	উপর	NST
+9	লতাইয়া	VM
+10	যাইবে	VAUX
+11	৷	SYM
+</Sentence>
+<Sentence id=881>
+1	অনেক	QF
+2	সময়	NN
+3	পান	XC
+4	বরোজের	NN
+5	সঙ্গেও	NST
+6	পটলের	NN
+7	চাষ	NN
+8	করা	VM
+9	হয়	VAUX
+10	৷	SYM
+</Sentence>
+<Sentence id=882>
+1	জলসেচন	NN
+2	,	SYM
+3	সার	XC
+4	প্রয়োগ	NN
+5	ও	CC
+6	মাধ্যমিক	JJ
+7	পরিচর্যা	NN
+8	:	SYM
+9	পটলের	NN
+10	ক্ষেতে	NN
+11	পৌষ-মাঘ	NNP
+12	হইতে	PSP
+13	আরম্ভ	NN
+14	করিয়া	VM
+15	গ্রীষ্মকাল	NN
+16	পর্যন্ত	PSP
+17	মাঝে	RB
+18	মাঝে	RDP
+19	সেচ	NN
+20	দেওয়া	VM
+21	আবশ্যক	JJ
+22	৷	SYM
+</Sentence>
+<Sentence id=883>
+1	জানুয়ারী	NNP
+2	হইতে	PSP
+3	মার্চমাস	NNP
+4	পর্যন্ত	PSP
+5	নিয়মিত	JJ
+6	সেচ	NN
+7	প্রয়োগ	NN
+8	করিলে	VM
+9	গাছ	NN
+10	তাড়াতাড়ি	RB
+11	বড়	JJ
+12	হয়	VM
+13	এবং	CC
+14	ফল	NN
+15	ধরিবার	VM
+16	সম্ভাবনা	NN
+17	উজ্জ্বল	JJ
+18	হয়	VM
+19	৷	SYM
+</Sentence>
+<Sentence id=884>
+1	পশ্চিমবঙ্গে	NNP
+2	অনেক	QF
+3	জায়গায়	NN
+4	দেখা	VM
+5	যায়	VAUX
+6	বাহির	NN
+7	হইবার	VM
+8	আগেই	NST
+9	জমিতে	NN
+10	পাতলা	JJ
+11	করিয়া	RP
+12	খড়	NN
+13	,	SYM
+14	শুষ্ক	JJ
+15	কচুরীপানা	NN
+16	ইত্যাদি	RP
+17	বিছাইয়া	VM
+18	দেওয়া	VAUX
+19	হয়	VAUX
+20	৷	SYM
+</Sentence>
+<Sentence id=885>
+1	ইহাতে	PRP
+2	জমিতে	NN
+3	জৈব	JJ
+4	সারের	NN
+5	পরিমাণ	NN
+6	বৃদ্ধি	NN
+7	পাইয়া	VM
+8	পরবর্তী	JJ
+9	বত্সরগুলিতে	NN
+10	কাজে	NN
+11	লাগে	VM
+12	এবং	CC
+13	সেচের	NN
+14	চাহিদা	NN
+15	ও	CC
+16	আগাছার	NN
+17	উপদ্রব	NN
+18	হ্রাস	NN
+19	পায়	VM
+20	৷	SYM
+</Sentence>
+<Sentence id=886>
+1	এইভাবে	RB
+2	জমি	NN
+3	আবৃত	JJ
+4	করিতে	VM
+5	পারিলে	VAUX
+6	চাষের	NN
+7	খরচ	NN
+8	অনেক	INTF
+9	কম	JJ
+10	হয়	VM
+11	এবং	CC
+12	ফলন	NN
+13	বৃদ্ধি	NN
+14	পায়	VM
+15	৷	SYM
+</Sentence>
+<Sentence id=887>
+1	তবে	CC
+2	উইয়ের	NN
+3	উপদ্রব	NN
+4	একটু	INTF
+5	বেশী	JJ
+6	হয়	VM
+7	৷	SYM
+</Sentence>
+<Sentence id=888>
+1	ধানের	NN
+2	আংশিক	XC
+3	সিদ্ধ	XC
+4	পদ্ধতি	NNP
+5	:	SYM
+6	ঘরোয়াভাবে	RB
+7	এই	DEM
+8	পদ্ধতিতে	NN
+9	ধান	NN
+10	সিদ্ধ	NN
+11	করিয়া	VM
+12	চাউল	NN
+13	প্রস্তুত	JJ
+14	করা	VM
+15	হয়	VAUX
+16	৷	SYM
+</Sentence>
+<Sentence id=889>
+1	ইহাতে	PRP
+2	চাউলের	NN
+3	গুণ	NN
+4	ও	CC
+5	মান	NN
+6	ভালো	JJ
+7	হয়	VM
+8	এবং	CC
+9	চাউলে	NN
+10	কোন	QF
+11	দুর্গন্ধ	NN
+12	থাকে	VM
+13	না	NEG
+14	ও	CC
+15	পোকা	NN
+16	ধরে	VM
+17	না	NEG
+18	৷	SYM
+</Sentence>
+<Sentence id=890>
+1	সাধারণতঃ	RB
+2	ধানকে	NN
+3	10-12	QC
+4	ঘণ্টা	QF
+5	ঠাণ্ডা	JJ
+6	জলে	NN
+7	ভিজাইয়া	VM
+8	রাখিয়া	VAUX
+9	মাটি	NN
+10	বা	CC
+11	য়্যালুমিনায়াম	NN
+12	বা	CC
+13	টিনের	NN
+14	পাত্রে	NN
+15	ভিজা	JJ:?
+16	ধানকে	NN
+17	সামান্য	QF
+18	জল	NN
+19	সহ	PSP
+20	আঁচ	NN
+21	বা	CC
+22	খড়কুটো	NN
+23	বা	CC
+24	কাঠের	NN
+25	জ্বালে	NN
+26	ধীরে	RB
+27	ধীরে	RDP
+28	সিদ্ধ	JJ
+29	করা	VM
+30	হয়	VAUX
+31	৷	SYM
+</Sentence>
+<Sentence id=891>
+1	সিদ্ধ	JJ
+2	ধানকে	NN
+3	রৌদ্রে	NN
+4	ভালোভাবে	RB
+5	শুকাইয়া	VM
+6	ঢেঁকি	NN
+7	বা	CC
+8	হাস্কি	XC
+9	মেসিনে	NN
+10	কুটিয়া	VM
+11	তুষ	NN
+12	পৃথক	JJ
+13	করা	VM
+14	হয়	VAUX
+15	৷	SYM
+</Sentence>
+<Sentence id=892>
+1	ইহাকে	PRP
+2	এক	QC
+3	সিদ্ধ	JJ
+4	চাউল	NN
+5	বলে	VM
+6	৷	SYM
+</Sentence>
+<Sentence id=893>
+1	এক	QC
+2	সিদ্ধ	JJ
+3	ধান	NN
+4	থেকে	PSP
+5	চাউল	NN
+6	তৈয়ারীর	NN
+7	সময়	NN
+8	কিছু	QF
+9	চাউল	NN
+10	ভাঙ্গিয়া	VM
+11	যাওয়ার	VAUX
+12	সম্ভাবনা	NN
+13	থাকে	VM
+14	৷	NN
+</Sentence>
+<Sentence id=894>
+1	তবে	CC
+2	এই	DEM
+3	চাউল	NN
+4	থেকে	PSP
+5	তাড়াতাড়ি	RB
+6	ভাত	NN
+7	হয়	VM
+8	৷	SYM
+</Sentence>
+<Sentence id=895>
+1	সেইজন্য	CC
+2	দো-সিদ্ধ	XC
+3	পদ্ধতিতে	NN
+4	ধান	NN
+5	থেকে	PSP
+6	চাউল	NN
+7	তৈয়ারী	NN
+8	করা	VM
+9	লাভজনক	JJ
+10	৷	SYM
+</Sentence>
+<Sentence id=896>
+1	এই	DEM
+2	পদ্ধতিতে	NN
+3	ধানকে	NN
+4	অল্প	QF
+5	জলে	NN
+6	সিদ্ধ	JJ
+7	করিয়া	VM
+8	সমান্য	QF
+9	`	SYM
+10	ভাপ	NN
+11	'	SYM
+12	উঠিলে	VM
+13	নামাইয়া	VM
+14	শীতল	JJ
+15	জলে	NN
+16	ধানকে	NN
+17	10-12	QC
+18	ঘণ্টা	QF
+19	ভিজাইয়া	VM
+20	রাখিয়া	VAUX
+21	পরদিন	NN
+22	ঐ	DEM
+23	ভেজানো	JJ:?
+24	ধানকে	NN
+25	পুনরায়	RB
+26	ভালোভাবে	RB
+27	সিদ্ধ	JJ
+28	করিতে	VM
+29	হয়	VAUX
+30	৷	SYM
+</Sentence>
+</Corpora>

@@ -105,7 +105,7 @@ class Sequence(object):
             x_test = self.p.transform(x_test)
             y_pred = self.model.predict(x_test)
             y_pred = self.p.inverse_transform(y_pred, lengths)
-            return y_pred 
+            return y_pred
         else:
             raise OSError('Could not find a model. Call load(dir_path).')
 

@@ -5,7 +5,7 @@ Example:
 python pipeline.py -p train -o outputs -l tel -t chunk -m crf -i data/test/tel/test.utf.conll.chunk -e utf -f conll
 
     -p, --pipeline_type - train, test, predict
-    -l, --language      - tel, hin, tam, pun
+    -l, --language      - te, hi, ta, pu, mr, be, ur, ka, ml
     -t, --tag_type      - pos, chunk
     -m, --model_type    - crf, hmm, cnn, lstm
     -f, --data_format   - ssf, tnt, text
@@ -16,7 +16,7 @@ python pipeline.py -p train -o outputs -l tel -t chunk -m crf -i data/test/tel/t
 '''
 
 import lstmcrf
-from lstmcrf.utils import load_data_and_labels 
+from lstmcrf.utils import load_data_and_labels
 from lstmcrf.wrapper import Sequence
 import sys, os.path as path
 import os
@@ -43,9 +43,9 @@ def get_args():
     parser.add_argument("-p",'--pipeline_type', type=str, required=True,
                         help='Pipeline Type (train, test, predict)')
     parser.add_argument("-l", "--language", dest="language", type=str, metavar='<str>', required=True,
-                         help="Language of the dataset: tel (telugu), hin (hindi), tam (tamil), kan (kannada), pun (pubjabi)")
+                         help="Language of the dataset: te (telugu), hi (hindi), ta (tamil), ka (kannada), pu (pubjabi), mr (Marathi), be (Bengali), ur (Urdu), ml (Malayalam)")
     parser.add_argument("-t", "--tag_type", dest="tag_type", type=str, metavar='<str>', required=True,
-                         help="Tag type: pos, chunk, parse")
+                         help="Tag type: pos, chunk, parse, NER")
     parser.add_argument("-m", "--model_type", dest="model_type", type=str, metavar='<str>', required=True,
                         help="Model type (crf|hmm|cnn|lstm:) (default=crf)")
     parser.add_argument("-e", "--encoding", dest="encoding", type=str, metavar='<str>', required=False,
@@ -54,9 +54,9 @@ def get_args():
     parser.add_argument("-f", "--data_format", dest="data_format", type=str, metavar='<str>', required=True,
                         help="Data format (ssf, tnt, txt)")
     parser.add_argument("-i", "--input_file", dest="test_data", type=str, metavar='<str>', required=False,
-                        help="Test data path ex: data/test/telugu/test.txt")
+                        help="Test data path ex: data/test/te/test.txt")
     parser.add_argument("-s", "--sent_split", dest="sent_split", type=str, metavar='<str>', required=False,
-                        help="Test data path ex: data/test/telugu/test.txt",
+                        help="Sentence Split ex: True or False",
                         default=True)
     parser.add_argument("-o", "--output_file", dest="output_path", type=str, metavar='<str>',
                          help="The path to the output file",
@@ -71,18 +71,18 @@ def pipeline():
     if not os.path.exists(output_dir):
             os.makedirs(output_dir)
 
-    data_writer.set_logger(args.model_type, output_dir) 
+    data_writer.set_logger(args.model_type, output_dir)
 
     if args.tag_type != "parse":
-        model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, args.tag_type, args.encoding)    
+        model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, args.tag_type, args.encoding)
         if args.model_type == "lstm":
-              if args.tag_type == "pos":
-                  model_path = "%s/models/%s/lstm/" % (curr_dir, args.language)    
-              elif args.tag_type == "chunk":
-                  model_path = "%s/models/%s/lstm/chunk/" % (curr_dir, args.language)    
-              if not os.path.exists(model_path):
-                  os.makedirs(model_path)
-            
+            if args.tag_type == "pos":
+                model_path = "%s/models/%s/lstm/" % (curr_dir, args.language)
+            elif args.tag_type == "chunk":
+                model_path = "%s/models/%s/lstm/chunk/" % (curr_dir, args.language)
+            if not os.path.exists(model_path):
+                os.makedirs(model_path)
+
 
     if args.pipeline_type == 'train':
         logger.info('Start Training#')
@@ -110,7 +110,7 @@ def pipeline():
             tagger.load_model()
             tagger.test(X_test, y_test)
         elif args.model_type == "lstm":
-            x_data , y_data1, y_data2 = load_data_and_labels(data_path) 
+            x_data , y_data1, y_data2 = load_data_and_labels(data_path)
             if args.tag_type == "pos":
                x_train, x_test, y_train1, y_test1 = train_test_split(x_data, y_data1, test_size=0.10, random_state=42) #Split the data into train and test
                model = Sequence() #Intialize BiLSTM model
@@ -126,13 +126,14 @@ def pipeline():
 
     if args.pipeline_type == "test":
         if args.model_type == "lstm":
+
             model = Sequence().load(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
             f = open(args.test_data, "r")
-            sent = f.read() 
+            sent = f.read()
             print(model.analyze(sent))
 
         if args.model_type == "crf":
-            test_data_path = "%s/%s" % (curr_dir, args.test_data)      
+            test_data_path = "%s/%s" % (curr_dir, args.test_data)
 
             test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=False)
             X_test = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in test_sents ]
@@ -143,14 +144,14 @@ def pipeline():
 
     if args.pipeline_type == "predict":
 
-        test_data_path = "%s" % (args.test_data)      
+        test_data_path = "%s" % (args.test_data)
         test_sents = data_reader.load_data(args.data_format, test_data_path, args.language, tokenize_text=True, split_sent=args.sent_split)
         if args.tag_type == "parse":
             #Pos tagging
             X_test = [ generate_features.sent2features(s, "pos", args.model_type) for s in test_sents ]
 
-            tag_model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, "pos", args.encoding)  
-            chunk_model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, "chunk", args.encoding) 
+            tag_model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, "pos", args.encoding)
+            chunk_model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, "chunk", args.encoding)
 
             if args.model_type == "crf":
                 tagger = CRF(tag_model_path)
@@ -169,18 +170,18 @@ def pipeline():
                 data_writer.write_anno_to_file(output_file, test_sents_pos, y_chunk, "chunk")
                 logger.info("Output in: %s" % output_file)
                 data_writer.write_to_screen(output_file)
-        else:            
+        else:
             X_test = [ generate_features.sent2features(s, args.tag_type, args.model_type) for s in test_sents ]
 
             if args.model_type == "crf":
                 tagger = CRF(model_path)
                 tagger.load_model()
                 y_pred = tagger.predict(X_test)
-            
+
                 output_file = "%s/%s" % (output_dir, args.output_path)
                 data_writer.write_anno_to_file(output_file, test_sents, y_pred, args.tag_type)
                 logger.info("Output in: %s" % output_file)
                 data_writer.write_to_screen(output_file)
-        
+
 if __name__ == '__main__':
     pipeline()

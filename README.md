@@ -1,8 +1,8 @@
-# Indic Tagger
+# Indic Tagger (Indian Language Tagger)
 
 In this project, we build part-of-speech (POS) taggers and chunkers for Indian Languages.
 
-Languages supported: Telugu, Hindi, Tamil, Marathi, Punjabi, Kannada, Malayalam, Urdu, Bengali
+Languages supported: Telugu (te), Hindi (hi), Tamil (ta), Marathi (mr), Punjabi (pu), Kannada (ka), Malayalam (ml), Urdu (ur), Bengali (be)
 
 If you reuse this software, please use the following citation:
 
@@ -19,64 +19,69 @@ If you reuse this software, please use the following citation:
 
 ### Training Data Statistics and System Performances (F1 macro)
 
-| Languages  |  # Words  | # Sents |  CRF POS    | CRF Chunk  | LSTM POS  |  LSTM Chunk |
-| ---------- | ----------|---------|-------------|------------|------------|------------|
-|   tel      |   347k    |   30k   |     93%     |    96%     |  92%       | 92% |
-|   hin      |   350k    |  16.3k  |     93%     |    97%     |  94%       | 93%|
-|   ben      |   298.3k  |  14.6k  |     84%     |    95%     |  85%       | 88%|
-|   pun      |   152.5k  |  5.6k   |     92%     |    98%     |  94%       | 96%|
-|   mar      |   207.9k  |  8.5k   |     89%     |    95%     |  88%       | 90%|
-|   urd      |   158.9k  |  7.6k   |     90%     |    96%     |  92%       | 89%|
-|   tam      |   337k    |  14.2k  |     88%     |    92%     |  87%       | 85%|
-|   mal      |   192k    |  11.4k  |     96%     |    95%     |  98%       | 98%|
-|   kan      |   294.3k  |  16.5k  |     90%     |    98%     |  88%       | 87%|
+| Languages  |  # Words  | # Sents |  CRF POS    | CRF Chunk  | BI-LSTM-CRF POS  |  BI-LSTM CRF Chunk |
+| ---------- | ----------|---------|-------------|------------|------------------|--------------------|
+|   te       |   347k    |   30k   |     93%     |    96%     |  92%             |         92%        |
+|   hi       |   350k    |  16.3k  |     93%     |    97%     |  **94%**         |         93%        |
+|   be       |   298.3k  |  14.6k  |     84%     |    95%     |  **85%**         |         88%        |
+|   pu       |   152.5k  |  5.6k   |     92%     |    98%     |  **94%**         |         96%        |
+|   mr       |   207.9k  |  8.5k   |     89%     |    95%     |  88%             |         90%        |
+|   ur       |   158.9k  |  7.6k   |     90%     |    96%     |  **92%**         |         89%        |
+|   ta       |   337k    |  14.2k  |     88%     |    92%     |  87%             |         85%        |
+|   ml       |   192k    |  11.4k  |     96%     |    95%     |  **98%**         |         98%        |
+|   ka       |   294.3k  |  16.5k  |     90%     |    98%     |  88%             |         87%        |
 
 
-### Install
-
+### Install using Anaconda
+    
+    conda create -n tagger3.6 anaconda python=3.6
+    source activate tagger3.6
 	pip install -r requirements
-	
-	pip install git+git://github.com/irshadbhat/indic-tokenizer.git
+	pip install git+git://github.com/ltrc/polyglot-tokenizer.git
 
 
 ### Run 
+```
+    #python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i input_file -o output_file
 
-    python pipeline.py -p predict -l tel -t pos -m crf -f txt -e utf -i input_file -o output_file
-
-    -l, --languages       select language (3 letter ISO-639 code) 
-                          {hin, ben, mal, pun, tel, tam, kan, mar, urd}
+    -l, --languages       select language (2 letter ISO-639 code) 
+                          {hi, be, ml, pu, te, ta, ka, mr, ur}
     -t, --tag_type      	pos, chunk, parse
-    -m, --model_type    	crf, hmm, cnn, lstm
-    -f, --data_format   	ssf, tnt, txt, conll
+    -m, --model_type    	crf, hmm, lstm
+    -f, --data_format   	ssf, txt, conll
     -e, --encoding      	utf8, wx   (default: utf8)
     -i, --input_file      <input-file>
     -o, --output_file     <output-file>
     -s, --sent_split      True/False (default: True)
 	
-    python pipeline.py --help 
+    #python pipeline.py --help 
+```
 
-    To Train:
-    python pipeline.py -p train -o outputs -l tel -t pos -m crf -e utf -f ssf
+Train the POS tagger:
+   
+```
+    #python pipeline.py -p train -o outputs -l te -t pos -m crf -e utf -f ssf
+    #python pipeline.py -p train -t pos -f conll -m lstm -e utf -l kan
+```
 
-    To Train LSTM models:
-    python pipeline.py -p train -t pos -f conll -m lstm -e utf -l kan
+Test the POS tagger:
     
-    To Test LSTM models:
-    python pipeline.py -p test -t pos -f conll -m lstm -e utf -l kan -i data/test/kan/test.utf.txt
-    
-    To Test Spacy Model:
-    python spacy_tagger_test.py -l te -t pos
+```
+    #python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i input_file -o output_file
+    #python pipeline.py -p test -t pos -f txt -m lstm -e utf -l kan -i data/test/kan/test.utf.txt
+    #python spacy_tagger_test.py -l te -t pos
+```
+  
 
 ### ToDo List
 
 - [x] Telugu, Hindi trained CRF models
 - [x] Bengali, Punjabi, Marathi, Urdu, Tamil trained CRF models
 - [x] Bug: Utf-8 error Malayalam, Kannada trained CRF models
+- [x] Deep learning (BI-LSTM-CRF)
+- [x] Analysis Comparision w.r.t other ML algorithms
 - [ ] Bug: Punjabi & Urdu training file doesn't have "|" (or) end of sentence marker. 
-- [ ] HMM trained  
-- [ ] Maximum Entropy
-- [ ] Deep learning (CNN, LSTM, BI-LSTM)
-- [ ] Analysis Comparision w.r.t other ML algorithms
-
-
+- [ ] NER for Indian Languages
+- [ ] Feature addition to BI-LSTM-CRF models
+- [ ] Active Learning based sampling strategies
 

@@ -1,0 +1,1885 @@
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	ఆడపిల్లను	NN	I-NP
+4	.	SYM	I-NP
+
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	అందరిలాంటి	PRP	B-NP
+4	అందరిలాంటి	PRP	I-NP
+5	ఆడపిల్లనే	NN	I-NP
+6	.	SYM	I-NP
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	కధ	NN	I-NP
+4	అందరి	PRP	B-NP
+5	అందరి	PRP	I-NP
+6	ఆడపిల్లల	NN	I-NP
+7	కధే	NN	I-NP
+8	.	SYM	I-NP
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	కధ	NN	I-NP
+4	చెబుతాను	VM	B-VGF
+5	చెబుతాను	VM	I-VGF
+6	వినండి	VM	B-VGF
+7	వినండి	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	అమ్మ	NN	I-NP
+4	నన్ను	PRP	B-NP
+5	నన్ను	PRP	I-NP
+6	భయం	NN	B-NP
+7	భయం	NN	I-NP
+8	భయంగా	RB	B-RBP
+9	భయంగా	RB	I-RBP
+10	కనింది	VM	B-VGF
+11	కనింది	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	పుట్టగూడదని	VM	B-VGNF
+4	పుట్టగూడదని	VM	I-VGNF
+5	వెయ్యి	QC	B-NP
+6	వెయ్యి	QC	I-NP
+7	దేవుళ్లకు	NN	I-NP
+8	మొక్కుకొనింది	VM	B-VGF
+9	మొక్కుకొనింది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	కడుపుతో	NN	B-NP
+2	కడుపుతో	NN	I-NP
+3	ఉన్నంతకాలం	VM	B-VGNF
+4	ఉన్నంతకాలం	VM	I-VGNF
+5	నరకం	NN	B-NP
+6	నరకం	NN	I-NP
+7	అనుభవించింది	VM	B-VGF
+8	అనుభవించింది	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	అయినా	CC	B-CCP
+2	అయినా	CC	I-CCP
+3	నేను	PRP	B-NP
+4	నేను	PRP	I-NP
+5	పుట్టాను	VM	B-VGF
+6	పుట్టాను	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	పుట్టగానే	VM	B-VGNF
+2	పుట్టగానే	VM	I-VGNF
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	అమ్మ	NN	I-NP
+6	నన్ను	PRP	B-NP
+7	నన్ను	PRP	I-NP
+8	తడిమి	VM	B-VGNF
+9	తడిమి	VM	I-VGNF
+10	చూచుకొనింది	VM	B-VGF
+11	చూచుకొనింది	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	భయంతో	NN	B-NP
+2	భయంతో	NN	I-NP
+3	వణికిపోయింది	VM	B-VGF
+4	వణికిపోయింది	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	లోలోపలే	NST	B-NP
+2	లోలోపలే	NST	I-NP
+3	కన్నీళ్లు	NN	B-NP
+4	కన్నీళ్లు	NN	I-NP
+5	మింగేసింది	VM	B-VGF
+6	మింగేసింది	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	నన్ను	PRP	B-NP
+2	నన్ను	PRP	I-NP
+3	గుండెలకు	NN	B-NP
+4	గుండెలకు	NN	I-NP
+5	అదుముకొనింది	VM	B-VGF
+6	అదుముకొనింది	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	పుట్టానని	VM	B-VGNF
+4	పుట్టానని	VM	I-VGNF
+5	మా	PRP	B-NP
+6	మా	PRP	I-NP
+7	నాయనకు	NN	I-NP
+8	తెలిసింది	VM	B-VGF
+9	తెలిసింది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	అయినా	CC	B-CCP
+2	అయినా	CC	I-CCP
+3	నన్ను	PRP	B-NP
+4	నన్ను	PRP	I-NP
+5	చూడడానికి	VM	B-VGNN
+6	చూడడానికి	VM	I-VGNN
+7	రాలేదు	VM	B-VGF
+8	రాలేదు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	నాయన	NN	I-NP
+4	వస్తాడేమోనని	VM	B-VGNF
+5	వస్తాడేమోనని	VM	I-VGNF
+6	మా	PRP	B-NP
+7	మా	PRP	I-NP
+8	అమ్మ	NN	I-NP
+9	జడుసుకొనేది	VM	B-VGF
+10	జడుసుకొనేది	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	ఎందుకో	WQ	B-VGF
+2	ఎందుకో	WQ	I-VGF
+3	తెలుసా	VM	I-VGF
+4	?	SYM	I-VGF
+
+1	నాయన	NN	B-NP
+2	నాయన	NN	I-NP
+3	కోరిక	NN	I-NP
+4	.	SYM	I-NP
+
+1	మూడోసారి	QO	B-NP
+2	మూడోసారి	QO	I-NP
+3	కూడా	PSP	I-NP
+4	ఆడపిల్లేనా	NN	B-NP
+5	ఆడపిల్లేనా	NN	I-NP
+6	అని	UT	B-BLK
+7	అని	UT	I-BLK
+8	ఆయన	PRP	B-NP
+9	ఆయన	PRP	I-NP
+10	కోపం	NN	I-NP
+11	.	SYM	I-NP
+
+1	ఆ	DEM	B-NP
+2	ఆ	DEM	I-NP
+3	కోపంతో	NN	I-NP
+4	మా	PRP	B-NP
+5	మా	PRP	I-NP
+6	అమ్మ	NN	I-NP
+7	మీద	NST	I-NP
+8	మండిపడేవాడు	VM	B-VGF
+9	మండిపడేవాడు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	మీద	NST	I-NP
+4	మండిపడేవాడు	VM	B-VGF
+5	మండిపడేవాడు	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	పాపం	INJ	B-BLK
+2	పాపం	INJ	I-BLK
+3	ఇందులో	PRP	B-NP
+4	ఇందులో	PRP	I-NP
+5	మా	PRP	B-NP
+6	మా	PRP	I-NP
+7	అమ్మ	NN	I-NP
+8	తప్పు	NN	B-NP
+9	తప్పు	NN	I-NP
+10	ఏముంది	WQ	I-NP
+11	?	SYM	I-NP
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	తప్పు	NN	I-NP
+4	ఏముంది	WQ	I-NP
+5	?	SYM	I-NP
+
+1	నాకు	PRP	B-NP
+2	నాకు	PRP	I-NP
+3	మూడేళ్ళు	NN	B-VGF
+4	మూడేళ్ళు	NN	I-VGF
+5	వచ్చాయి	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	మళ్ళీ	RB	B-RBP
+2	మళ్ళీ	RB	I-RBP
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	అమ్మ	NN	I-NP
+6	పురుడు	NN	B-NP
+7	పురుడు	NN	I-NP
+8	పోసుకొనింది	VM	B-VGF
+9	పోసుకొనింది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	ఈసారి	NN	B-NP
+2	ఈసారి	NN	I-NP
+3	నాకు	PRP	B-NP
+4	నాకు	PRP	I-NP
+5	తమ్ముడు	NN	B-NP
+6	తమ్ముడు	NN	I-NP
+7	పుట్టాడు	VM	B-VGF
+8	పుట్టాడు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	కొడుకు	NN	B-NP
+2	కొడుకు	NN	I-NP
+3	పుట్టాడని	VM	B-VGNF
+4	పుట్టాడని	VM	I-VGNF
+5	మా	PRP	B-NP
+6	మా	PRP	I-NP
+7	నాయన	NN	I-NP
+8	సంబరపడిపోయాడు	VM	B-VGF
+9	సంబరపడిపోయాడు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	ఐతే	CC	B-CCP
+2	ఐతే	CC	I-CCP
+3	ఈ	DEM	B-NP
+4	ఈ	DEM	I-NP
+5	కాన్పుతో	NN	I-NP
+6	మా	PRP	B-NP
+7	మా	PRP	I-NP
+8	అమ్మ	NN	I-NP
+9	చచ్చి	VM	B-VGNF
+10	చచ్చి	VM	I-VGNF
+11	బతికింది	VM	B-VGF
+12	బతికింది	VM	I-VGF
+13	.	SYM	I-VGF
+
+1	ఆపరేషను	NN	B-NP
+2	ఆపరేషను	NN	I-NP
+3	చేసి	VM	B-VGNF
+4	చేసి	VM	I-VGNF
+5	బిడ్డను	NN	B-NP
+6	బిడ్డను	NN	I-NP
+7	తీశారు	VM	B-VGF
+8	తీశారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	అప్పటినుంచి	NST	B-NP
+2	అప్పటినుంచి	NST	I-NP
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	అమ్మ	NN	I-NP
+6	చిక్కి	VM	B-VGNF
+7	చిక్కి	VM	I-VGNF
+8	సగమైంది	VM	B-VGF
+9	సగమైంది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	రోగాల	NN	B-RBP
+2	రోగాల	NN	I-RBP
+3	పుట్టగా	RB	I-RBP
+4	మారింది	VM	B-VGF
+5	మారింది	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	అయితేనేం	WQ	B-NP
+2	అయితేనేం	WQ	I-NP
+3	?	SYM	I-NP
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	నాయన	NN	I-NP
+4	సంబరపడి	VM	B-VGF
+5	సంబరపడి	VM	I-VGF
+6	పోతున్నాడు	VAUX	I-VGF
+7	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	అమ్మ	NN	I-NP
+4	అదే	PRP	B-NP
+5	అదే	PRP	I-NP
+6	పదివేలు	QC	B-NP
+7	పదివేలు	QC	I-NP
+8	అనుకొనింది	VM	B-VGF
+9	అనుకొనింది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	తమ్ముడు	NN	I-NP
+4	పెరిగే	VM	B-VGNF
+5	పెరిగే	VM	I-VGNF
+6	కొలది	QF	I-VGNF
+7	.	SYM	I-VGNF
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	అవసరం	NN	I-NP
+4	పెరిగింది	VM	B-VGF
+5	పెరిగింది	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	వాడిని	PRP	I-NP
+4	ఎత్తుకోవాలి	VM	B-VGF
+5	ఎత్తుకోవాలి	VM	I-VGF
+6	,	SYM	I-VGF
+7	ఆడించాలి	VM	B-VGF
+8	ఆడించాలి	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	వాడి	PRP	B-NP
+2	వాడి	PRP	I-NP
+3	ఉయ్యాల	NN	I-NP
+4	ఊపాలి	VM	B-VGF
+5	ఊపాలి	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	వాడు	PRP	B-NP
+2	వాడు	PRP	I-NP
+3	పొయ్యి	NN	B-NP
+4	పొయ్యి	NN	I-NP
+5	దగ్గరికి	NST	I-NP
+6	పోకుండా	VM	B-VGF
+7	పోకుండా	VM	I-VGF
+8	చూడాలి	VAUX	I-VGF
+9	.	SYM	I-VGF
+
+1	ఒకసారి	NN	B-NP
+2	ఒకసారి	NN	I-NP
+3	వాడు	PRP	B-NP
+4	వాడు	PRP	I-NP
+5	ఉయ్యాల	NN	B-NP
+6	ఉయ్యాల	NN	I-NP
+7	నుంచి	PSP	I-NP
+8	బయటికి	NST	B-NP
+9	బయటికి	NST	I-NP
+10	తల	NN	B-NP
+11	తల	NN	I-NP
+12	వేలాడేశాడు	VM	B-VGF
+13	వేలాడేశాడు	VM	I-VGF
+14	.	SYM	I-VGF
+
+1	జారి	VM	B-VGNF
+2	జారి	VM	I-VGNF
+3	జారి	RDP	I-VGNF
+4	కింద	NST	B-VGF
+5	కింద	NST	I-VGF
+6	పడ్డాడు	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	గుక్కతిప్పుకోకుండా	VM	B-VGNF
+2	గుక్కతిప్పుకోకుండా	VM	I-VGNF
+3	ఏడవసాగాడు	VM	B-VGF
+4	ఏడవసాగాడు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	వాడిని	PRP	B-NP
+2	వాడిని	PRP	I-NP
+3	పట్టుకోవడం	VM	B-VGNN
+4	పట్టుకోవడం	VM	I-VGNN
+5	నా	PRP	B-NP
+6	నా	PRP	I-NP
+7	చేత	PSP	I-NP
+8	కాలేదు	VM	B-VGF
+9	కాలేదు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	అమ్మకు	NN	I-NP
+4	ఎక్కడలేని	VM	B-VGNF
+5	ఎక్కడలేని	VM	I-VGNF
+6	కోపం	NN	B-NP
+7	కోపం	NN	I-NP
+8	వచ్చింది	VM	B-VGF
+9	వచ్చింది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	నన్ను	PRP	B-NP
+2	నన్ను	PRP	I-NP
+3	చావగొట్టింది	VM	B-VGF
+4	చావగొట్టింది	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	అప్పటికి	NST	B-NP
+2	అప్పటికి	NST	I-NP
+3	నాకు	PRP	I-NP
+4	ఆరేళ్ళు	NN	B-NP
+5	ఆరేళ్ళు	NN	I-NP
+6	కూడా	PSP	I-NP
+7	నిండలేదు	VM	B-VGF
+8	నిండలేదు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	అది	PRP	B-NP
+2	అది	PRP	I-NP
+3	నాకు	PRP	B-NP
+4	నాకు	PRP	I-NP
+5	బాగా	INTF	B-NP
+6	బాగా	INTF	I-NP
+7	గుర్తు	NN	I-NP
+8	.	SYM	I-NP
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	ఈడు	NN	I-NP
+4	ఆడపిల్లలు	NN	B-NP
+5	ఆడపిల్లలు	NN	I-NP
+6	కొందరు	PRP	B-NP
+7	కొందరు	PRP	I-NP
+8	బడికి	NN	B-NP
+9	బడికి	NN	I-NP
+10	పొయ్యేవాళ్లు	VM	B-VGF
+11	పొయ్యేవాళ్లు	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	నేనూ	PRP	B-NP
+2	నేనూ	PRP	I-NP
+3	బడికి	NN	B-NP
+4	బడికి	NN	I-NP
+5	పోతానని	VM	B-VGNF
+6	పోతానని	VM	I-VGNF
+7	ఏడ్చాను	VM	B-VGF
+8	ఏడ్చాను	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	ఆడపిల్లకు	NN	B-NP
+2	ఆడపిల్లకు	NN	I-NP
+3	చదువు	NN	B-NP
+4	చదువు	NN	I-NP
+5	దేనికి	PRP	I-NP
+6	?	SYM	I-NP
+
+1	చదివి	VM	B-VGNF
+2	చదివి	VM	I-VGNF
+3	రాజ్యాలు	NN	B-NP
+4	రాజ్యాలు	NN	I-NP
+5	ఏలాలా	VM	B-VGNF
+6	ఏలాలా	VM	I-VGNF
+7	?	SYM	I-VGNF
+
+1	అని	UT	B-BLK
+2	అని	UT	I-BLK
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	నాయన	NN	I-NP
+6	కసురుకొన్నాడు	VM	B-VGF
+7	కసురుకొన్నాడు	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	పైగా	RB	B-RBP
+2	పైగా	RB	I-RBP
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	ఇంటిలో	NN	I-NP
+6	అందరూ	PRP	B-NP
+7	అందరూ	PRP	I-NP
+8	పొలం	NN	B-NP
+9	పొలం	NN	I-NP
+10	పోవాలి	VM	B-VGF
+11	పోవాలి	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	పని	NN	B-NP
+2	పని	NN	I-NP
+3	చేయాలి	VM	B-VGF
+4	చేయాలి	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	పొలంలో	NN	I-NP
+4	పని	NN	B-NP
+5	పని	NN	I-NP
+6	లేనపుడు	VM	B-VGNF
+7	లేనపుడు	VM	I-VGNF
+8	కూలికి	NN	B-NP
+9	కూలికి	NN	I-NP
+10	పోవాలి	VM	B-VGF
+11	పోవాలి	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	మరి	RP	B-NP
+2	మరి	RP	I-NP
+3	అప్పుడు	NST	I-NP
+4	మా	PRP	B-NP
+5	మా	PRP	I-NP
+6	తమ్ముడిని	NN	I-NP
+7	ఎవరు	WQ	B-VGF
+8	ఎవరు	WQ	I-VGF
+9	చూస్తారు	VM	I-VGF
+10	?	SYM	I-VGF
+
+1	అందుకని	PRP	B-NP
+2	అందుకని	PRP	I-NP
+3	నన్ను	PRP	B-NP
+4	నన్ను	PRP	I-NP
+5	బడికి	NN	B-NP
+6	బడికి	NN	I-NP
+7	పంపలేదు	VM	B-VGF
+8	పంపలేదు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	నాకు	PRP	B-NP
+2	నాకు	PRP	I-NP
+3	చదువు	NN	B-NP
+4	చదువు	NN	I-NP
+5	రాలేదు	VM	B-VGF
+6	రాలేదు	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	ఇంతలో	PRP	B-NP
+2	ఇంతలో	PRP	I-NP
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	తమ్ముడికి	NN	I-NP
+6	ఆరో	QO	B-NP
+7	ఆరో	QO	I-NP
+8	ఏడు	NN	I-NP
+9	వచ్చింది	VM	B-VGF
+10	వచ్చింది	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	వాడికి	PRP	B-NP
+2	వాడికి	PRP	I-NP
+3	కొత్త	JJ	B-NP
+4	కొత్త	JJ	I-NP
+5	గుడ్డలు	NN	I-NP
+6	కుట్టించారు	VM	B-VGF
+7	కుట్టించారు	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	పలకా	NN	B-NP
+2	పలకా	NN	I-NP
+3	బలపం	NN	I-NP
+4	కొనిచ్చారు	VM	B-VGF
+5	కొనిచ్చారు	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	నాయన	NN	I-NP
+4	వాడిని	PRP	B-NP
+5	వాడిని	PRP	I-NP
+6	ముద్దుగా	RB	B-RBP
+7	ముద్దుగా	RB	I-RBP
+8	బడికి	NN	B-NP
+9	బడికి	NN	I-NP
+10	తీసుకొని	VM	B-VGF
+11	తీసుకొని	VM	I-VGF
+12	పొయ్యాడు	VAUX	I-VGF
+13	.	SYM	I-VGF
+
+1	టీచరమ్మకు	NN	B-NP
+2	టీచరమ్మకు	NN	I-NP
+3	అప్పగించి	VM	B-VGF
+4	అప్పగించి	VM	I-VGF
+5	వచ్చాడు	VAUX	I-VGF
+6	.	SYM	I-VGF
+
+1	వాడు	PRP	B-NP
+2	వాడు	PRP	I-NP
+3	ఇంటిలో	NN	B-NP
+4	ఇంటిలో	NN	I-NP
+5	అ	RP	I-NP
+6	ఆ	RP	B-BLK
+7	ఆ	RP	I-BLK
+8	ఇ	RP	I-BLK
+9	ఈ	RP	I-BLK
+10	అని	UT	B-BLK
+11	అని	UT	I-BLK
+12	రాశేవాడు	VM	B-VGF
+13	రాశేవాడు	VM	I-VGF
+14	.	SYM	I-VGF
+
+1	పెద్దగా	RB	B-RBP
+2	పెద్దగా	RB	I-RBP
+3	సాగదీస్తూ	VM	B-VGNF
+4	సాగదీస్తూ	VM	I-VGNF
+5	వాటిని	PRP	B-NP
+6	వాటిని	PRP	I-NP
+7	పలికేవాడు	VM	B-VGF
+8	పలికేవాడు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	ఏవేవో	WQ	B-NP
+2	ఏవేవో	WQ	I-NP
+3	పాటలు	NN	I-NP
+4	పాడేవాడు	NN	B-NP
+5	పాడేవాడు	NN	I-NP
+6	.	SYM	I-NP
+
+1	అది	PRP	B-NP
+2	అది	PRP	I-NP
+3	చూచి	VM	B-VGNF
+4	చూచి	VM	I-VGNF
+5	మా	PRP	B-NP
+6	మా	PRP	I-NP
+7	అమ్మ	NN	I-NP
+8	మురిసిపొయ్యేది	VM	B-VGF
+9	మురిసిపొయ్యేది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	నాయన	NN	I-NP
+4	ఉబ్బిపొయ్యేవాడు	VM	B-VGF
+5	ఉబ్బిపొయ్యేవాడు	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	నాకు	PRP	B-NP
+2	నాకు	PRP	I-NP
+3	కూడా	PSP	I-NP
+4	ముచ్చట	NN	B-NP
+5	ముచ్చట	NN	I-NP
+6	వేసింది	VM	B-VGF
+7	వేసింది	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	ఉబలాటం	NN	B-NP
+2	ఉబలాటం	NN	I-NP
+3	పుట్టేది	VM	B-VGF
+4	పుట్టేది	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	సెలవు	NN	B-NP
+2	సెలవు	NN	I-NP
+3	రోజుల్లో	NN	I-NP
+4	మా	PRP	B-NP
+5	మా	PRP	I-NP
+6	తమ్ముడు	NN	I-NP
+7	ఆడుకోవడానికి	VM	B-VGNN
+8	ఆడుకోవడానికి	VM	I-VGNN
+9	పొయ్యేవాడు	VM	B-VGF
+10	పొయ్యేవాడు	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	అప్పుడు	NST	B-NP
+2	అప్పుడు	NST	I-NP
+3	వాడి	PRP	B-NP
+4	వాడి	PRP	I-NP
+5	పలక	NN	B-NP
+6	పలక	NN	I-NP
+7	తీసుకొనేదాన్ని	VM	B-VGF
+8	తీసుకొనేదాన్ని	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	దొంగచాటుగా	RB	B-RBP
+2	దొంగచాటుగా	RB	I-RBP
+3	పిచ్చి	JJ	B-NP
+4	పిచ్చి	JJ	I-NP
+5	రాతలు	NN	I-NP
+6	రాసేదాన్ని	VM	B-VGF
+7	రాసేదాన్ని	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	నాకు	PRP	B-NP
+2	నాకు	PRP	I-NP
+3	వయసు	NN	B-NP
+4	వయసు	NN	I-NP
+5	రాసాగింది	VM	B-VGF
+6	రాసాగింది	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	అక్కలకు	NN	I-NP
+4	పెళ్లిళ్లు	NN	B-NP
+5	పెళ్లిళ్లు	NN	I-NP
+6	అయిపొయ్యాయి	VM	B-VGF
+7	అయిపొయ్యాయి	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	అత్తవారింటికి	NN	B-NP
+2	అత్తవారింటికి	NN	I-NP
+3	వెళ్లి	VM	B-VGF
+4	వెళ్లి	VM	I-VGF
+5	పొయ్యారు	VAUX	I-VGF
+6	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	అమ్మ	NN	I-NP
+4	రోగంతో	NN	B-NP
+5	రోగంతో	NN	I-NP
+6	మంచం	NN	B-NP
+7	మంచం	NN	I-NP
+8	పట్టింది	VM	B-VGF
+9	పట్టింది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	ఇంటి	NN	B-NP
+2	ఇంటి	NN	I-NP
+3	పనులన్నీ	NN	I-NP
+4	నా	PRP	B-NP
+5	నా	PRP	I-NP
+6	నెత్తిన	NN	I-NP
+7	పడ్డాయి	VM	B-VGF
+8	పడ్డాయి	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	తెల్లారి	NN	B-NP
+2	తెల్లారి	NN	I-NP
+3	లేచి	VM	B-VGNF
+4	లేచి	VM	I-VGNF
+5	ఇల్లూ	NN	B-NP
+6	ఇల్లూ	NN	I-NP
+7	వాకిలీ	NN	I-NP
+8	ఊడవాలి	VM	B-VGF
+9	ఊడవాలి	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	పేడనీళ్లు	NN	B-NP
+2	పేడనీళ్లు	NN	I-NP
+3	చల్లాలి	VM	B-VGF
+4	చల్లాలి	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	ముగ్గులు	NN	B-NP
+2	ముగ్గులు	NN	I-NP
+3	వెయ్యాలి	VM	B-VGF
+4	వెయ్యాలి	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	గిన్నెలు	NN	B-NP
+2	గిన్నెలు	NN	I-NP
+3	తోమాలి	VM	B-VGF
+4	తోమాలి	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	సద్దికూడు	NN	B-NP
+2	సద్దికూడు	NN	I-NP
+3	తిని	VM	B-VGNF
+4	తిని	VM	I-VGNF
+5	బర్రెలు	NN	B-NP
+6	బర్రెలు	NN	I-NP
+7	మేపడానికి	VM	B-VGNN
+8	మేపడానికి	VM	I-VGNN
+9	పొలం	NN	B-NP
+10	పొలం	NN	I-NP
+11	పోవాలి	VM	B-VGF
+12	పోవాలి	VM	I-VGF
+13	.	SYM	I-VGF
+
+1	వాటిని	PRP	B-NP
+2	వాటిని	PRP	I-NP
+3	పగలంతా	NN	B-NP
+4	పగలంతా	NN	I-NP
+5	మేపాలి	VM	B-VGF
+6	మేపాలి	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	వచ్చేటప్పుడు	VM	B-VGNF
+2	వచ్చేటప్పుడు	VM	I-VGNF
+3	కట్టెలూ	NN	B-NP
+4	కట్టెలూ	NN	I-NP
+5	పుల్లలూ	NN	B-NP
+6	పుల్లలూ	NN	I-NP
+7	ఏరుకొని	VM	B-VGF
+8	ఏరుకొని	VM	I-VGF
+9	రావాలి	VAUX	I-VGF
+10	.	SYM	I-VGF
+
+1	ఇంటికొచ్చి	VM	B-VGNF
+2	ఇంటికొచ్చి	VM	I-VGNF
+3	పొయ్యి	NN	B-NP
+4	పొయ్యి	NN	I-NP
+5	ముట్టించాలి	VM	B-VGF
+6	ముట్టించాలి	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	నీళ్లు	NN	B-NP
+2	నీళ్లు	NN	I-NP
+3	కాచి	VM	B-VGNF
+4	కాచి	VM	I-VGNF
+5	తమ్ముడికి	NN	B-NP
+6	తమ్ముడికి	NN	I-NP
+7	పొయ్యాలి	VM	B-VGF
+8	పొయ్యాలి	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	వంట	NN	B-NP
+2	వంట	NN	I-NP
+3	వండాలి	VM	B-VGF
+4	వండాలి	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	అందరికీ	PRP	B-NP
+2	అందరికీ	PRP	I-NP
+3	పెట్టాలి	VM	B-VGF
+4	పెట్టాలి	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	ఇలా	RB	B-RBP
+2	ఇలా	RB	I-RBP
+3	అమ్మ	NN	B-NP
+4	అమ్మ	NN	I-NP
+5	పని	NN	I-NP
+6	కూడా	PSP	I-NP
+7	నా	PRP	B-NP
+8	నా	PRP	I-NP
+9	నెత్తిన	NN	I-NP
+10	పడింది	VM	B-VGF
+11	పడింది	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	తమ్ముడు	NN	I-NP
+4	ఏడో	QO	B-NP
+5	ఏడో	QO	I-NP
+6	తరగతికి	NN	I-NP
+7	వచ్చాడు	VM	B-VGF
+8	వచ్చాడు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	ఇప్పుడు	NST	B-NP
+2	ఇప్పుడు	NST	I-NP
+3	వాడు	PRP	B-NP
+4	వాడు	PRP	I-NP
+5	నా	PRP	B-NP
+6	నా	PRP	I-NP
+7	మీద	NST	I-NP
+8	పెత్తనం	NN	B-NP
+9	పెత్తనం	NN	I-NP
+10	చేస్తున్నాడు	VM	B-VGF
+11	చేస్తున్నాడు	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	వాడు	PRP	B-NP
+2	వాడు	PRP	I-NP
+3	ఏమి	WQ	B-VGNF
+4	ఏమి	WQ	I-VGNF
+5	చేసినా	VM	I-VGNF
+6	తప్పులేదు	VM	B-VGF
+7	తప్పులేదు	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	అదే	PRP	B-NP
+2	అదే	PRP	I-NP
+3	నేను	PRP	B-NP
+4	నేను	PRP	I-NP
+5	చేస్తే	VM	B-VGNF
+6	చేస్తే	VM	I-VGNF
+7	తప్పు	NN	B-NP
+8	తప్పు	NN	I-NP
+9	.	SYM	I-NP
+
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	వాడి	PRP	B-NP
+4	వాడి	PRP	I-NP
+5	ముడ్డి	NN	B-NP
+6	ముడ్డి	NN	I-NP
+7	కడిగాను	VM	B-VGF
+8	కడిగాను	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	మోశాను	VM	B-VGF
+2	మోశాను	VM	I-VGF
+3	.	SYM	I-VGF
+
+1	ఆడించాను	VM	B-VGF
+2	ఆడించాను	VM	I-VGF
+3	.	SYM	I-VGF
+
+1	అన్నం	NN	B-NP
+2	అన్నం	NN	I-NP
+3	తినిపించాను	VM	B-VGF
+4	తినిపించాను	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	చిన్నప్పుడు	NST	B-NP
+2	చిన్నప్పుడు	NST	I-NP
+3	నన్ను	PRP	B-NP
+4	నన్ను	PRP	I-NP
+5	చూస్తే	VM	B-VGNF
+6	చూస్తే	VM	I-VGNF
+7	కేరింతలు	NN	B-NP
+8	కేరింతలు	NN	I-NP
+9	కొట్టేవాడు	VM	B-VGF
+10	కొట్టేవాడు	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	ఇప్పుడు	NST	B-NP
+2	ఇప్పుడు	NST	I-NP
+3	నా	PRP	B-NP
+4	నా	PRP	I-NP
+5	కంటికి	NN	I-NP
+6	పెద్ద	NN	B-NP
+7	పెద్ద	NN	I-NP
+8	అయిపొయ్యాడు	VM	B-VGF
+9	అయిపొయ్యాడు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	అమ్మా	NN	B-NP
+2	అమ్మా	NN	I-NP
+3	నాయన	NN	I-NP
+4	వాడి	PRP	B-NP
+5	వాడి	PRP	I-NP
+6	మాటే	NN	I-NP
+7	వింటున్నారు	VM	B-VGF
+8	వింటున్నారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	వాడిని	PRP	B-NP
+2	వాడిని	PRP	I-NP
+3	"	SYM	B-NP
+4	"	SYM	I-NP
+5	మగమహారాజు	NN	I-NP
+6	"	SYM	I-NP
+7	అంటున్నారు	VM	B-VGF
+8	అంటున్నారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	నన్ను	PRP	B-NP
+2	నన్ను	PRP	I-NP
+3	ఆడముండ	NN	B-NP
+4	ఆడముండ	NN	I-NP
+5	అంటున్నారు	VM	B-VGF
+6	అంటున్నారు	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	చుట్టుపక్కల	NN	I-NP
+4	ఆడిపిల్లలు	NN	B-NP
+5	ఆడిపిల్లలు	NN	I-NP
+6	కూడా	PSP	I-NP
+7	ఇంత	QF	B-NP
+8	ఇంత	QF	I-NP
+9	కంటె	PSP	I-NP
+10	సుఖపడింది	VM	B-VGF
+11	సుఖపడింది	VM	I-VGF
+12	లేదు	VAUX	I-VGF
+13	.	SYM	I-VGF
+
+1	వాళ్లయ్యతో	PRP	B-NP
+2	వాళ్లయ్యతో	PRP	I-NP
+3	కొంతమంది	NN	B-NP
+4	కొంతమంది	NN	I-NP
+5	బడిలో	NN	B-NP
+6	బడిలో	NN	I-NP
+7	చేరారు	VM	B-VGF
+8	చేరారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	ఐతే	CC	B-CCP
+2	ఐతే	CC	I-CCP
+3	ఏం	WQ	B-NP
+4	ఏం	WQ	I-NP
+5	లాభం	NN	I-NP
+6	.	SYM	I-NP
+
+1	మూడు	QC	B-NP
+2	మూడు	QC	I-NP
+3	నాలుగేళ్ళలో	QC	I-NP
+4	అందరూ	PRP	B-NP
+5	అందరూ	PRP	I-NP
+6	మానేశారు	VM	B-VGF
+7	మానేశారు	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	ఇంటి	NN	B-NP
+2	ఇంటి	NN	I-NP
+3	చాకిరీతో	NN	I-NP
+4	వాళ్లకు	PRP	B-NP
+5	వాళ్లకు	PRP	I-NP
+6	సరిపొయ్యేది	VM	B-VGF
+7	సరిపొయ్యేది	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	కొంతమందినైతే	NN	B-NP
+2	కొంతమందినైతే	NN	I-NP
+3	ఇల్లు	NN	B-NP
+4	ఇల్లు	NN	I-NP
+5	దాటి	VM	B-VGNF
+6	దాటి	VM	I-VGNF
+7	రానివ్వడం	VM	B-VGNN
+8	రానివ్వడం	VM	I-VGNN
+9	లేదు	VAUX	I-VGNN
+10	.	SYM	I-VGNN
+
+1	గడప	NN	B-NP
+2	గడప	NN	I-NP
+3	దాటితే	VM	B-VGNF
+4	దాటితే	VM	I-VGNF
+5	ఆడిపిల్లలు	NN	B-NP
+6	ఆడిపిల్లలు	NN	I-NP
+7	చెడిపోతారట	VM	B-VGF
+8	చెడిపోతారట	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	పరువు	NN	B-NP
+2	పరువు	NN	I-NP
+3	పోతుందట	VM	B-VGF
+4	పోతుందట	VM	I-VGF
+5	!	SYM	I-VGF
+6	చిన్నప్పుడే	NN	B-NP
+7	చిన్నప్పుడే	NN	I-NP
+8	నయం	NN	B-NP
+9	నయం	NN	I-NP
+10	.	SYM	I-NP
+
+1	అందరం	PRP	B-NP
+2	అందరం	PRP	I-NP
+3	కలిసి	VM	B-VGNF
+4	కలిసి	VM	I-VGNF
+5	ఆడుకొనేవాళ్లం	VM	B-VGF
+6	ఆడుకొనేవాళ్లం	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	చెట్లు	NN	B-NP
+2	చెట్లు	NN	I-NP
+3	ఎక్కి	VM	B-VGNF
+4	ఎక్కి	VM	I-VGNF
+5	చింత	NN	B-NP
+6	చింత	NN	I-NP
+7	చిగురు	NN	I-NP
+8	కోసేవాళ్లం	VM	B-VGF
+9	కోసేవాళ్లం	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	కొమ్మల	NN	B-NP
+2	కొమ్మల	NN	I-NP
+3	మీద	NST	I-NP
+4	ఉయ్యాల	NN	B-NP
+5	ఉయ్యాల	NN	I-NP
+6	ఊగేవాళ్లం	VM	B-VGF
+7	ఊగేవాళ్లం	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	ఐతే	CC	B-CCP
+2	ఐతే	CC	I-CCP
+3	వాళ్లకంటే	PRP	B-NP
+4	వాళ్లకంటే	PRP	I-NP
+5	నేనే	PRP	B-NP
+6	నేనే	PRP	I-NP
+7	మేలు	NN	I-NP
+8	.	SYM	I-NP
+
+1	బర్రెలు	NN	B-NP
+2	బర్రెలు	NN	I-NP
+3	మేపడానికైనా	VM	B-VGNN
+4	మేపడానికైనా	VM	I-VGNN
+5	ఇల్లు	NN	B-NP
+6	ఇల్లు	NN	I-NP
+7	వదిలి	VM	B-VGF
+8	వదిలి	VM	I-VGF
+9	పోతాను	VAUX	I-VGF
+10	.	SYM	I-VGF
+
+1	ఆడుకొంటాను	VM	B-VGF
+2	ఆడుకొంటాను	VM	I-VGF
+3	.	SYM	I-VGF
+
+1	పిచ్చి	JJ	B-NP
+2	పిచ్చి	JJ	I-NP
+3	పాటలు	NN	I-NP
+4	పాడుకొంటాను	VM	B-VGF
+5	పాడుకొంటాను	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	మేము	PRP	B-NP
+2	మేము	PRP	I-NP
+3	పేదవాళ్లం	VM	B-VGF
+4	పేదవాళ్లం	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	గడప	NN	B-NP
+2	గడప	NN	I-NP
+3	దాటకుంటే	VM	B-VGNF
+4	దాటకుంటే	VM	I-VGNF
+5	మాకు	PRP	B-NP
+6	మాకు	PRP	I-NP
+7	ఎలా	WQ	B-NP
+8	ఎలా	WQ	I-NP
+9	పూట	NN	B-NP
+10	పూట	NN	I-NP
+11	గడుస్తుంది	VM	B-VGF
+12	గడుస్తుంది	VM	I-VGF
+13	?	SYM	I-VGF
+
+1	మగపిల్లలు	NN	B-NP
+2	మగపిల్లలు	NN	I-NP
+3	ఎన్ని	WQ	B-NP
+4	ఎన్ని	WQ	I-NP
+5	ఏళ్లు	NN	I-NP
+6	వచ్చినా	VM	B-VGNF
+7	వచ్చినా	VM	I-VGNF
+8	ఆడుకొంటున్నారు	VM	B-VGF
+9	ఆడుకొంటున్నారు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	సినిమాలకు	NN	B-NP
+2	సినిమాలకు	NN	I-NP
+3	పోతున్నారు	VM	B-VGF
+4	పోతున్నారు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	నడిరాత్రికి	NN	B-NP
+2	నడిరాత్రికి	NN	I-NP
+3	ఇంటికి	NN	B-NP
+4	ఇంటికి	NN	I-NP
+5	వస్తున్నారు	VM	B-VGF
+6	వస్తున్నారు	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	మరి	RP	B-NP
+2	మరి	RP	I-NP
+3	వాళ్లు	PRP	I-NP
+4	చెడిపోరా	VM	B-VGF
+5	చెడిపోరా	VM	I-VGF
+6	?	SYM	I-VGF
+
+1	వాళ్లంతా	PRP	B-NP
+2	వాళ్లంతా	PRP	I-NP
+3	మంచి	JJ	B-NP
+4	మంచి	JJ	I-NP
+5	వాళ్లయితే	PRP	I-NP
+6	ఆడిపిల్లలు	NN	B-NP
+7	ఆడిపిల్లలు	NN	I-NP
+8	ఎందుకు	WQ	B-VGF
+9	ఎందుకు	WQ	I-VGF
+10	చెడిపోతారు	VM	I-VGF
+11	?	SYM	I-VGF
+
+1	అది	PRP	B-NP
+2	అది	PRP	I-NP
+3	నాకు	PRP	B-NP
+4	నాకు	PRP	I-NP
+5	అర్థం	NN	B-NP
+6	అర్థం	NN	I-NP
+7	కావడం	VM	B-VGNN
+8	కావడం	VM	I-VGNN
+9	లేదు	VAUX	I-VGNN
+10	.	SYM	I-VGNN
+
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	పెద్దమనిషిని	NN	B-NP
+4	పెద్దమనిషిని	NN	I-NP
+5	అయ్యాను	VM	B-VGF
+6	అయ్యాను	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	కొత్త	JJ	B-NP
+2	కొత్త	JJ	I-NP
+3	పైటా	NN	I-NP
+4	పావడా	NN	B-NP
+5	పావడా	NN	I-NP
+6	కొనిచ్చారు	VM	B-VGF
+7	కొనిచ్చారు	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	మూడురోజులు	QC	B-NP
+2	మూడురోజులు	QC	I-NP
+3	మూల	NN	I-NP
+4	కూర్చోబెట్టారు	VM	B-VGF
+5	కూర్చోబెట్టారు	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	అమ్మలక్కలు	NN	B-NP
+2	అమ్మలక్కలు	NN	I-NP
+3	వచ్చారు	VM	B-VGF
+4	వచ్చారు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	అవీ	PRP	B-NP
+2	అవీ	PRP	I-NP
+3	ఇవీ	PRP	I-NP
+4	తినిపించారు	VM	B-VGF
+5	తినిపించారు	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	అప్పటినుంచీ	NST	B-NP
+2	అప్పటినుంచీ	NST	I-NP
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	అమ్మకు	NN	I-NP
+6	దిగులు	NN	B-NP
+7	దిగులు	NN	I-NP
+8	పట్టుకుంది	VM	B-VGF
+9	పట్టుకుంది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	నాయనను	NN	I-NP
+4	తొందరపెట్టసాగింది	VM	B-VGF
+5	తొందరపెట్టసాగింది	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	పెళ్లి	NN	B-NP
+2	పెళ్లి	NN	I-NP
+3	సంబంధాలు	NN	I-NP
+4	వెతకమని	VM	B-VGNF
+5	వెతకమని	VM	I-VGNF
+6	పోరుపెట్టసాగింది	VM	B-VGF
+7	పోరుపెట్టసాగింది	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	అప్పుడే	NST	B-NP
+2	అప్పుడే	NST	I-NP
+3	నేను	PRP	B-NP
+4	నేను	PRP	I-NP
+5	బరువైపోయాను	VM	B-VGF
+6	బరువైపోయాను	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	తొందరగా	RB	B-RBP
+2	తొందరగా	RB	I-RBP
+3	వదిలించుకోవాలని	VM	B-VGF
+4	వదిలించుకోవాలని	VM	I-VGF
+5	చూస్తున్నారు	VAUX	I-VGF
+6	.	SYM	I-VGF
+
+1	పరాయిదాన్నిలా	NN	B-NP
+2	పరాయిదాన్నిలా	NN	I-NP
+3	లెక్కేస్తున్నారు	VM	B-VGF
+4	లెక్కేస్తున్నారు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	అక్కల	NN	I-NP
+4	పెళ్లిళ్లకు	NN	B-NP
+5	పెళ్లిళ్లకు	NN	I-NP
+6	మా	PRP	B-NP
+7	మా	PRP	I-NP
+8	నాయన	NN	I-NP
+9	ఎకరా	NN	B-NP
+10	ఎకరా	NN	I-NP
+11	పొలం	NN	I-NP
+12	అమ్మాడు	VM	B-VGF
+13	అమ్మాడు	VM	I-VGF
+14	.	SYM	I-VGF
+
+1	నా	PRP	B-NP
+2	నా	PRP	I-NP
+3	కోసం	PSP	I-NP
+4	మిగతా	NN	B-NP
+5	మిగతా	NN	I-NP
+6	ఎకరం	NN	I-NP
+7	అమ్మాలని	VM	B-VGF
+8	అమ్మాలని	VM	I-VGF
+9	చూస్తున్నాడు	VAUX	I-VGF
+10	.	SYM	I-VGF
+
+1	నాకు	PRP	B-NP
+2	నాకు	PRP	I-NP
+3	పెళ్లి	NN	B-NP
+4	పెళ్లి	NN	I-NP
+5	భయం	NN	I-NP
+6	పట్టుకొనింది	VM	B-VGF
+7	పట్టుకొనింది	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	ఎదురింటి	NN	I-NP
+4	సుజాత	NNP	I-NP
+5	నా	PRP	B-NP
+6	నా	PRP	I-NP
+7	కంటె	PSP	I-NP
+8	నాలుగేళ్లు	NN	B-NP
+9	నాలుగేళ్లు	NN	I-NP
+10	పెద్ద	NN	I-NP
+11	.	SYM	I-NP
+
+1	దానికి	PRP	B-NP
+2	దానికి	PRP	I-NP
+3	రెండేళ్ల	NN	B-NP
+4	రెండేళ్ల	NN	I-NP
+5	ముందు	NST	I-NP
+6	పెళ్లయింది	VM	B-VGF
+7	పెళ్లయింది	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	తర్వాత	NST	B-NP
+2	తర్వాత	NST	I-NP
+3	ఏడాదికే	NN	B-NP
+4	ఏడాదికే	NN	I-NP
+5	తల్లి	NN	B-VGF
+6	తల్లి	NN	I-VGF
+7	అయింది	VM	I-VGF
+8	కాన్పు	NN	B-NP
+9	కాన్పు	NN	I-NP
+10	కష్టమై	VM	B-VGNF
+11	కష్టమై	VM	I-VGNF
+12	ఆపరేషను	NN	B-NP
+13	ఆపరేషను	NN	I-NP
+14	చేశారు	VM	B-VGF
+15	చేశారు	VM	I-VGF
+16	.	SYM	I-VGF
+
+1	మనిషి	NN	B-NP
+2	మనిషి	NN	I-NP
+3	చచ్చి	VM	B-VGNF
+4	చచ్చి	VM	I-VGNF
+5	బతికింది	VM	B-VGF
+6	బతికింది	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	ఇప్పుడు	NST	B-NP
+2	ఇప్పుడు	NST	I-NP
+3	దాని	PRP	B-NP
+4	దాని	PRP	I-NP
+5	బిడ్డకు	NN	I-NP
+6	ఒకటే	RP	B-NP
+7	ఒకటే	RP	I-NP
+8	రోగాలు	NN	I-NP
+9	.	SYM	I-NP
+
+1	వాడితో	PRP	B-NP
+2	వాడితో	PRP	I-NP
+3	ఏగలేక	VM	B-VGNF
+4	ఏగలేక	VM	I-VGNF
+5	మనిషి	NN	B-NP
+6	మనిషి	NN	I-NP
+7	ఎముకల	NN	B-RBP
+8	ఎముకల	NN	I-RBP
+9	గూడులాగా	RB	I-RBP
+10	మారింది	VM	B-VGF
+11	మారింది	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	పెద్దనాయన	NN	I-NP
+4	కూతురు	NN	I-NP
+5	గౌరికి	NNP	B-NP
+6	గౌరికి	NNP	I-NP
+7	పోయిన	VM	B-VGNF
+8	పోయిన	VM	I-VGNF
+9	ఏడాది	NN	B-NP
+10	ఏడాది	NN	I-NP
+11	పెళ్లి	NN	B-NP
+12	పెళ్లి	NN	I-NP
+13	చేశారు	VM	B-VGF
+14	చేశారు	VM	I-VGF
+15	.	SYM	I-VGF
+
+1	ఇల్లు	NN	B-NP
+2	ఇల్లు	NN	I-NP
+3	గుల్ల	NN	B-VGNF
+4	గుల్ల	NN	I-VGNF
+5	చేసుకొని	VM	I-VGNF
+6	అప్పులపాలయ్యారు	VM	B-VGF
+7	అప్పులపాలయ్యారు	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	ఏమి	WQ	B-NP
+2	ఏమి	WQ	I-NP
+3	లాభం	NN	I-NP
+4	?	SYM	I-NP
+
+1	మొగుడు	NN	B-NP
+2	మొగుడు	NN	I-NP
+3	చూడడానికి	VM	B-VGNN
+4	చూడడానికి	VM	I-VGNN
+5	బాగానే	RB	B-RBP
+6	బాగానే	RB	I-RBP
+7	ఉంటాడు	VM	B-VGF
+8	ఉంటాడు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	ఐతే	CC	B-CCP
+2	ఐతే	CC	I-CCP
+3	పచ్చితాగుబోతు	NN	B-NP
+4	పచ్చితాగుబోతు	NN	I-NP
+5	.	SYM	I-NP
+
+1	కట్నం	NN	B-NP
+2	కట్నం	NN	I-NP
+3	చాలలేదని	VM	B-VGNF
+4	చాలలేదని	VM	I-VGNF
+5	పెళ్లాన్ని	NN	B-NP
+6	పెళ్లాన్ని	NN	I-NP
+7	తరిమేశాడు	VM	B-VGF
+8	తరిమేశాడు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	పుట్టెడు	QF	B-NP
+2	పుట్టెడు	QF	I-NP
+3	శోకంతో	NN	I-NP
+4	ఆ	DEM	B-NP
+5	ఆ	DEM	I-NP
+6	పిల్ల	NN	I-NP
+7	వచ్చేసింది	VM	B-VGF
+8	వచ్చేసింది	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	ఒకసారి	NN	B-NP
+2	ఒకసారి	NN	I-NP
+3	బావిలో	NN	B-NP
+4	బావిలో	NN	I-NP
+5	దూకి	VM	B-VGNF
+6	దూకి	VM	I-VGNF
+7	చావడానికి	VM	B-VGNN
+8	చావడానికి	VM	I-VGNN
+9	పూనుకొనింది	VM	B-VGF
+10	పూనుకొనింది	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	అందుకే	CC	B-CCP
+2	అందుకే	CC	I-CCP
+3	పెళ్లంటే	NN	B-NP
+4	పెళ్లంటే	NN	I-NP
+5	నాకు	PRP	B-NP
+6	నాకు	PRP	I-NP
+7	భయంగా	RB	B-RBP
+8	భయంగా	RB	I-RBP
+9	ఉంది	VM	B-VGF
+10	ఉంది	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	ఇలా	RB	B-RBP
+2	ఇలా	RB	I-RBP
+3	ఉండగా	VM	B-VGNF
+4	ఉండగా	VM	I-VGNF
+5	అక్షరదీపం	NN	B-NP
+6	అక్షరదీపం	NN	I-NP
+7	వచ్చింది	VM	B-VGF
+8	వచ్చింది	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	ఊళ్లో	NN	B-NP
+2	ఊళ్లో	NN	I-NP
+3	నాటకాలు	NN	B-NP
+4	నాటకాలు	NN	I-NP
+5	వేశారు	VM	B-VGF
+6	వేశారు	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	వాటిని	PRP	B-NP
+2	వాటిని	PRP	I-NP
+3	ఆడవాళ్లు	NN	B-NP
+4	ఆడవాళ్లు	NN	I-NP
+5	విరగబడి	VM	B-VGF
+6	విరగబడి	VM	I-VGF
+7	చూచారు	VAUX	I-VGF
+8	.	SYM	I-VGF
+
+1	అవి	PRP	B-NP
+2	అవి	PRP	I-NP
+3	ఎంత	WQ	B-VGNF
+4	ఎంత	WQ	I-VGNF
+5	బాగున్నాయో	VM	I-VGNF
+6	చెప్పలేను	VM	B-VGF
+7	చెప్పలేను	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	అచ్చం	NN	B-NP
+2	అచ్చం	NN	I-NP
+3	మా	PRP	B-NP
+4	మా	PRP	I-NP
+5	బతుకుల్నే	NN	I-NP
+6	చూపించారు	VM	B-VGF
+7	చూపించారు	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	ఇల్లాలు	NN	B-NP
+2	ఇల్లాలు	NN	I-NP
+3	చదివితే	VM	B-VGNF
+4	చదివితే	VM	I-VGNF
+5	ఇల్లంతా	NN	B-NP
+6	ఇల్లంతా	NN	I-NP
+7	చదివినట్టే	VM	B-VGNF
+8	చదివినట్టే	VM	I-VGNF
+9	అని	UT	B-BLK
+10	అని	UT	I-BLK
+11	చెప్పారు	VM	B-VGF
+12	చెప్పారు	VM	I-VGF
+13	.	SYM	I-VGF
+
+1	ఎంత	WQ	B-NP
+2	ఎంత	WQ	I-NP
+3	మంచిమాట	NN	I-NP
+4	!	SYM	I-NP
+5	మా	PRP	B-NP
+6	మా	PRP	I-NP
+7	అమ్మ	NN	I-NP
+8	చదువుకొని	VM	B-VGF
+9	చదువుకొని	VM	I-VGF
+10	ఉంటే	VAUX	I-VGF
+11	ఎంత	WQ	B-VGF
+12	ఎంత	WQ	I-VGF
+13	బాగుండేది	VM	I-VGF
+14	?	SYM	I-VGF
+
+1	నాలుగు	QC	B-NP
+2	నాలుగు	QC	I-NP
+3	అక్షరాలు	NN	I-NP
+4	నేర్పించేది	VM	B-VGF
+5	నేర్పించేది	VM	I-VGF
+6	గదా	RP	I-VGF
+7	అనిపించింది	VM	B-VGF
+8	అనిపించింది	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	తరువాత	NST	B-NP
+2	తరువాత	NST	I-NP
+3	ఊళ్లో	NN	B-NP
+4	ఊళ్లో	NN	I-NP
+5	రాత్రి	NN	B-NP
+6	రాత్రి	NN	I-NP
+7	బడులు	NN	I-NP
+8	పెట్టారు	VM	B-VGF
+9	పెట్టారు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	టీచరమ్మ	NN	I-NP
+4	మా	PRP	B-NP
+5	మా	PRP	I-NP
+6	ఇంటికి	NN	I-NP
+7	వచ్చింది	VM	B-VGF
+8	వచ్చింది	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	తమ్ముడిని	NN	I-NP
+4	వాలంటీరుగా	RB	B-RBP
+5	వాలంటీరుగా	RB	I-RBP
+6	చేరమని	VM	B-VGNF
+7	చేరమని	VM	I-VGNF
+8	అడిగింది	VM	B-VGF
+9	అడిగింది	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	వాడు	PRP	B-NP
+2	వాడు	PRP	I-NP
+3	సరే	RP	B-VGF
+4	సరే	RP	I-VGF
+5	అన్నాడు	VM	I-VGF
+6	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	ఇంటి	NN	I-NP
+4	ముందరే	NST	I-NP
+5	లైటు	NN	B-NP
+6	లైటు	NN	I-NP
+7	వేశారు	VM	B-VGF
+8	వేశారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	అందరికీ	PRP	B-NP
+2	అందరికీ	PRP	I-NP
+3	పలకా	NN	B-NP
+4	పలకా	NN	I-NP
+5	బలపాలు	NN	I-NP
+6	వాచకాలు	NN	B-NP
+7	వాచకాలు	NN	I-NP
+8	ఇచ్చారు	VM	B-VGF
+9	ఇచ్చారు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	ఊరంతా	NN	B-NP
+2	ఊరంతా	NN	I-NP
+3	చదువుల	NN	B-RBP
+4	చదువుల	NN	I-RBP
+5	సంతలాగా	RB	I-RBP
+6	మారిపోయింది	VM	B-VGF
+7	మారిపోయింది	VM	I-VGF
+8	.	SYM	I-VGF
+
+1	నేనూ	PRP	B-NP
+2	నేనూ	PRP	I-NP
+3	రాత్రి	NN	B-NP
+4	రాత్రి	NN	I-NP
+5	బడికి	NN	I-NP
+6	పోతానని	VM	B-VGNF
+7	పోతానని	VM	I-VGNF
+8	మా	PRP	B-NP
+9	మా	PRP	I-NP
+10	అమ్మను	NN	I-NP
+11	అడిగాను	VM	B-VGF
+12	అడిగాను	VM	I-VGF
+13	.	SYM	I-VGF
+
+1	ఆమె	PRP	B-NP
+2	ఆమె	PRP	I-NP
+3	కాదనలేదు	VM	B-VGF
+4	కాదనలేదు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	మా	PRP	B-NP
+2	మా	PRP	I-NP
+3	తమ్ముడు	NN	I-NP
+4	చదువు	NN	B-NP
+5	చదువు	NN	I-NP
+6	చెప్పడం	VM	B-VGNN
+7	చెప్పడం	VM	I-VGNN
+8	మా	PRP	B-NP
+9	మా	PRP	I-NP
+10	నాయనకు	NN	I-NP
+11	పెద్ద	JJ	B-RBP
+12	పెద్ద	JJ	I-RBP
+13	గొప్పగా	RB	I-RBP
+14	అనిపించింది	VM	B-VGF
+15	అనిపించింది	VM	I-VGF
+16	.	SYM	I-VGF
+
+1	అందుకే	CC	B-CCP
+2	అందుకే	CC	I-CCP
+3	ఆయనకూడా	PRP	B-NP
+4	ఆయనకూడా	PRP	I-NP
+5	నాకు	PRP	B-NP
+6	నాకు	PRP	I-NP
+7	అడ్డం	NN	B-NP
+8	అడ్డం	NN	I-NP
+9	చెప్పలేదు	VM	B-VGF
+10	చెప్పలేదు	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	రాత్రి	NN	B-NP
+2	రాత్రి	NN	I-NP
+3	బడుల్లో	NN	B-NP
+4	బడుల్లో	NN	I-NP
+5	ఆడవాళ్లు	NN	B-NP
+6	ఆడవాళ్లు	NN	I-NP
+7	విపరీతంగా	RB	B-RBP
+8	విపరీతంగా	RB	I-RBP
+9	చేరారు	VM	B-VGF
+10	చేరారు	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	మధ్యలో	NST	B-NP
+2	మధ్యలో	NST	I-NP
+3	బడి	NN	B-NP
+4	బడి	NN	I-NP
+5	మానేసిన	VM	B-VGNF
+6	మానేసిన	VM	I-VGNF
+7	వాళ్లు	PRP	B-NP
+8	వాళ్లు	PRP	I-NP
+9	కూడా	PSP	I-NP
+10	చేరారు	VM	B-VGF
+11	చేరారు	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	బిడ్డ	NN	B-NP
+2	బిడ్డ	NN	I-NP
+3	తల్లులు	NN	I-NP
+4	కూడా	PSP	I-NP
+5	పలకా	NN	B-NP
+6	పలకా	NN	I-NP
+7	బలపం	NN	I-NP
+8	పట్టారు	VM	B-VGF
+9	పట్టారు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	లోకం	NN	B-NP
+2	లోకం	NN	I-NP
+3	మారిపోయింది	VM	B-VGNF
+4	మారిపోయింది	VM	I-VGNF
+5	అంటూ	UT	B-BLK
+6	అంటూ	UT	I-BLK
+7	అందరూ	PRP	B-NP
+8	అందరూ	PRP	I-NP
+9	అనుకోసాగారు	VM	B-VGF
+10	అనుకోసాగారు	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	నేను	PRP	B-NP
+2	నేను	PRP	I-NP
+3	ఎన్ని	WQ	B-VGNF
+4	ఎన్ని	WQ	I-VGNF
+5	పనులున్నా	VM	I-VGNF
+6	రాత్రి	NN	B-NP
+7	రాత్రి	NN	I-NP
+8	బడికి	NN	I-NP
+9	పోసాగాను	VM	B-VGF
+10	పోసాగాను	VM	I-VGF
+11	.	SYM	I-VGF
+
+1	పగలు	NN	B-NP
+2	పగలు	NN	I-NP
+3	తీరిక	NN	B-NP
+4	తీరిక	NN	I-NP
+5	ఉన్నప్పుడు	VM	B-VGNF
+6	ఉన్నప్పుడు	VM	I-VGNF
+7	ఇంట్లో	NN	B-NP
+8	ఇంట్లో	NN	I-NP
+9	కూడా	PSP	I-NP
+10	చెప్పించుకొన్నాను	VM	B-VGF
+11	చెప్పించుకొన్నాను	VM	I-VGF
+12	.	SYM	I-VGF
+
+1	నాలో	PRP	B-NP
+2	నాలో	PRP	I-NP
+3	పట్టుదల	NN	B-NP
+4	పట్టుదల	NN	I-NP
+5	పెరిగింది	VM	B-VGF
+6	పెరిగింది	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	చదువులో	NN	B-NP
+2	చదువులో	NN	I-NP
+3	మాకు	PRP	B-NP
+4	మాకు	PRP	I-NP
+5	చాలా	QF	B-NP
+6	చాలా	QF	I-NP
+7	సంగతులు	NN	I-NP
+8	తెలిశాయి	VM	B-VGF
+9	తెలిశాయి	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	"	SYM	B-NP
+2	"	SYM	I-NP
+3	ఆడపిల్లలకు	NN	I-NP
+4	18	QC	B-NP
+5	18	QC	I-NP
+6	ఏళ్లు	NN	I-NP
+7	నిండేదాకా	VM	B-VGNF
+8	నిండేదాకా	VM	I-VGNF
+9	పెళ్లి	NN	B-NP
+10	పెళ్లి	NN	I-NP
+11	చెయ్యగూడదు	VM	B-VGF
+12	చెయ్యగూడదు	VM	I-VGF
+13	.	SYM	I-VGF
+
+1	లోకం	NN	B-NP
+2	లోకం	NN	I-NP
+3	తెలిసే	VM	B-VGNF
+4	తెలిసే	VM	I-VGNF
+5	వయసు	NN	B-NP
+6	వయసు	NN	I-NP
+7	రావాలి	VM	B-VGF
+8	రావాలి	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	పిల్లలను	NN	B-NP
+2	పిల్లలను	NN	I-NP
+3	కనడానికి	VM	B-VGNN
+4	కనడానికి	VM	I-VGNN
+5	శక్తి	NN	B-NP
+6	శక్తి	NN	I-NP
+7	రావాలి	VM	B-VGF
+8	రావాలి	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	కట్నం	NN	B-NP
+2	కట్నం	NN	I-NP
+3	ఇవ్వడం	VM	B-VGNN
+4	ఇవ్వడం	VM	I-VGNN
+5	నేరం	NN	B-NP
+6	నేరం	NN	I-NP
+7	.	SYM	I-NP
+
+1	తీసుకోవడం	VM	B-VGNN
+2	తీసుకోవడం	VM	I-VGNN
+3	నేరం	NN	B-NP
+4	నేరం	NN	I-NP
+5	"	SYM	I-NP
+6	అని	UT	B-BLK
+7	అని	UT	I-BLK
+8	ఒక	JJ	B-NP
+9	ఒక	JJ	I-NP
+10	పాఠంలో	NN	I-NP
+11	ఉంది	VM	B-VGF
+12	ఉంది	VM	I-VGF
+13	.	SYM	I-VGF
+
+1	అసలు	NN	B-NP
+2	అసలు	NN	I-NP
+3	ఆడవాళ్లు	NN	B-NP
+4	ఆడవాళ్లు	NN	I-NP
+5	ఎందులో	WQ	B-NP
+6	ఎందులో	WQ	I-NP
+7	తక్కువ	NN	I-NP
+8	.	SYM	I-NP
+
+1	మగవాళ్ల	NN	B-RBP
+2	మగవాళ్ల	NN	I-RBP
+3	లాగా	RB	I-RBP
+4	పొలం	NN	B-NP
+5	పొలం	NN	I-NP
+6	పనులు	NN	I-NP
+7	చేస్తున్నారు	VM	B-VGF
+8	చేస్తున్నారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	సంసారాలు	NN	B-NP
+2	సంసారాలు	NN	I-NP
+3	నడుపుతున్నారు	VM	B-VGF
+4	నడుపుతున్నారు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	టవున్లలో	NN	B-NP
+2	టవున్లలో	NN	I-NP
+3	ఆడవాళ్లు	NN	B-NP
+4	ఆడవాళ్లు	NN	I-NP
+5	సైకిళ్లు	NN	B-NP
+6	సైకిళ్లు	NN	I-NP
+7	తొక్కుతున్నారు	VM	B-VGF
+8	తొక్కుతున్నారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	కార్లు	NN	B-NP
+2	కార్లు	NN	I-NP
+3	నడుపుతున్నారు	VM	B-VGF
+4	నడుపుతున్నారు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	డాక్టరమ్మలవుతున్నారు	VM	B-VGF
+2	డాక్టరమ్మలవుతున్నారు	VM	I-VGF
+3	.	SYM	I-VGF
+
+1	ప్లీడరమ్మలవుతున్నారు	VM	B-VGF
+2	ప్లీడరమ్మలవుతున్నారు	VM	I-VGF
+3	.	SYM	I-VGF
+
+1	ఒకప్పుడు	NST	B-NP
+2	ఒకప్పుడు	NST	I-NP
+3	ఆడవాళ్లు	NN	B-NP
+4	ఆడవాళ్లు	NN	I-NP
+5	రాజ్యాలు	NN	B-NP
+6	రాజ్యాలు	NN	I-NP
+7	ఏలారు	VM	B-VGF
+8	ఏలారు	VM	I-VGF
+9	.	SYM	I-VGF
+
+1	యుద్ధాలు	NN	B-NP
+2	యుద్ధాలు	NN	I-NP
+3	చేశారు	VM	B-VGF
+4	చేశారు	VM	I-VGF
+5	.	SYM	I-VGF
+
+1	ఇప్పుడు	NST	B-NP
+2	ఇప్పుడు	NST	I-NP
+3	కూడా	PSP	I-NP
+4	మిలటరీలో	NN	B-NP
+5	మిలటరీలో	NN	I-NP
+6	ఆడవాళ్లు	NN	B-NP
+7	ఆడవాళ్లు	NN	I-NP
+8	ఉన్నారు	VM	B-VGF
+9	ఉన్నారు	VM	I-VGF
+10	.	SYM	I-VGF
+
+1	పోలీసుల్లో	NN	B-NP
+2	పోలీసుల్లో	NN	I-NP
+3	ఆడవాళ్లు	NN	B-NP
+4	ఆడవాళ్లు	NN	I-NP
+5	ఉన్నారు	VM	B-VGF
+6	ఉన్నారు	VM	I-VGF
+7	.	SYM	I-VGF
+
+1	ఆడామగా	NN	B-NP
+2	ఆడామగా	NN	I-NP
+3	పనిలో	NN	B-NP
+4	పనిలో	NN	I-NP
+5	సమానం	NN	I-NP
+6	.	SYM	I-NP
+
+1	తెలివిలో	NN	B-NP
+2	తెలివిలో	NN	I-NP
+3	సమానం	NN	I-NP
+4	.	SYM	I-NP
+
+1	పుట్టుకతో	NN	B-NP
+2	పుట్టుకతో	NN	I-NP
+3	సమానం	NN	I-NP
+4	.	SYM	I-NP
+
