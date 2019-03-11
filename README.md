@@ -36,7 +36,7 @@ If you reuse this software, please use the following citation:
     
     conda create -n tagger3.6 anaconda python=3.6
     source activate tagger3.6
-	pip install -r requirements
+	pip install -r requirements.txt
 	pip install git+git://github.com/ltrc/polyglot-tokenizer.git
 
 
