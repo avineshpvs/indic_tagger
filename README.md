@@ -42,7 +42,7 @@ If you reuse this software, please use the following citation:
 
 ### Run 
 ```
-    #python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i input_file -o output_file
+    python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i input_file -o output_file
 
     -l, --languages       select language (2 letter ISO-639 code) 
                           {hi, be, ml, pu, te, ta, ka, mr, ur}
@@ -54,22 +54,30 @@ If you reuse this software, please use the following citation:
     -o, --output_file     <output-file>
     -s, --sent_split      True/False (default: True)
 	
-    #python pipeline.py --help 
+    python pipeline.py --help 
 ```
 
 Train the POS tagger:
    
 ```
-    #python pipeline.py -p train -o outputs -l te -t pos -m crf -e utf -f ssf
-    #python pipeline.py -p train -t pos -f conll -m lstm -e utf -l te
+    # CRF model
+    python pipeline.py -p train -o outputs -l te -t pos -m crf -e utf -f ssf
+    
+    # BI-LSTM-CRF model
+    python pipeline.py -p train -t pos -f conll -m lstm -e utf -l te
 ```
 
 Test the POS tagger:
     
 ```
-    #python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i input_file -o output_file
-    #python pipeline.py -p test -t pos -f txt -m lstm -e utf -l te -i data/test/te/test.utf.txt
-    #python spacy_tagger_test.py -l te -t pos
+    # CRF models 
+    python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i input_file -o output_file
+    
+    # BI-LSTM-CRF models
+    python pipeline.py -p test -t pos -f txt -m lstm -e utf -l te -i data/test/te/test.utf.txt
+    
+    # SpaCy models
+    python spacy_tagger_test.py -l te -t pos
 ```
   
 
