@@ -125,13 +125,6 @@ def pipeline():
                model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
 
     if args.pipeline_type == "test":
-        if args.model_type == "lstm":
-
-            model = Sequence().load(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
-            f = open(args.test_data, "r")
-            sent = f.read()
-            print(model.analyze(sent))
-
         if args.model_type == "crf":
             test_data_path = "%s/%s" % (curr_dir, args.test_data)
 
@@ -178,10 +171,15 @@ def pipeline():
                 tagger.load_model()
                 y_pred = tagger.predict(X_test)
 
-                output_file = "%s/%s" % (output_dir, args.output_path)
-                data_writer.write_anno_to_file(output_file, test_sents, y_pred, args.tag_type)
-                logger.info("Output in: %s" % output_file)
-                data_writer.write_to_screen(output_file)
+                data_writer.write_anno_to_file(args.output_path, test_sents, y_pred, args.tag_type)
+                data_writer.write_to_screen(args.output_path)
+                logger.info("Output in: %s" % args.output_path)
+
+            if args.model_type == "lstm":
+                model = Sequence().load(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
+                f = open(args.test_data, "r")
+                sent = f.read()
+                print(model.analyze(sent))
 
 if __name__ == '__main__':
     pipeline()

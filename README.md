@@ -71,14 +71,14 @@ Train the POS tagger:
     python pipeline.py -p train -t pos -f conll -m lstm -e utf -l te
 ```
 
-Test the POS tagger:
+Predict on text:
     
 ```
     # CRF models 
-    python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i input_file -o output_file
+    python pipeline.py -p predict -l te -t pos -m crf -f txt -e utf -i data/test/te/test.utf.txt
     
     # BI-LSTM-CRF models
-    python pipeline.py -p test -t pos -f txt -m lstm -e utf -l te -i data/test/te/test.utf.txt
+    python pipeline.py -p predict -l te -t pos -m lstm -f txt -e utf -i data/test/te/test.utf.txt
     
     # SpaCy models
     python spacy_tagger_test.py -l te -t pos
