@@ -38,6 +38,7 @@ If you reuse this software, please use the following citation:
     # INSTALL python environment
     conda create -n tagger3.6 anaconda python=3.6
     source activate tagger3.6
+    pip install -r requirements.txt
     
     # Install the tokenizer
     cd polyglot-tokenizer
