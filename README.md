@@ -42,6 +42,8 @@ If you reuse this software, please use the following citation:
     # Install the tokenizer
     cd polyglot-tokenizer
     python setup.py install
+    
+    pip install -r requirements.txt
 ```
 
 ### Run 
