@@ -2,7 +2,7 @@
 
 In this project, we build part-of-speech (POS) taggers and chunkers for Indian Languages.
 
-Languages supported: Telugu (te), Hindi (hi), Tamil (ta), Marathi (mr), Punjabi (pu), Kannada (ka), Malayalam (ml), Urdu (ur), Bengali (be)
+Languages supported: Telugu (te), Hindi (hi), Tamil (ta), Marathi (mr), Punjabi (pa), Kannada (kn), Malayalam (ml), Urdu (ur), Bengali (bn)
 
 If you reuse this software, please use the following citation:
 
@@ -23,13 +23,13 @@ If you reuse this software, please use the following citation:
 | ---------- | ----------|---------|-------------|------------|------------------|--------------------|
 |   te       |   347k    |   30k   |     93%     |    96%     |  92%             |         92%        |
 |   hi       |   350k    |  16.3k  |     93%     |    97%     |  **94%**         |         93%        |
-|   be       |   298.3k  |  14.6k  |     84%     |    95%     |  **85%**         |         88%        |
-|   pu       |   152.5k  |  5.6k   |     92%     |    98%     |  **94%**         |         96%        |
+|   bn       |   298.3k  |  14.6k  |     84%     |    95%     |  **85%**         |         88%        |
+|   pa       |   152.5k  |  5.6k   |     92%     |    98%     |  **94%**         |         96%        |
 |   mr       |   207.9k  |  8.5k   |     89%     |    95%     |  88%             |         90%        |
 |   ur       |   158.9k  |  7.6k   |     90%     |    96%     |  **92%**         |         89%        |
 |   ta       |   337k    |  14.2k  |     88%     |    92%     |  87%             |         85%        |
 |   ml       |   192k    |  11.4k  |     96%     |    95%     |  **98%**         |         98%        |
-|   ka       |   294.3k  |  16.5k  |     90%     |    98%     |  88%             |         87%        |
+|   kn       |   294.3k  |  16.5k  |     90%     |    98%     |  88%             |         87%        |
 
 
 ### Install using Anaconda
@@ -38,12 +38,12 @@ If you reuse this software, please use the following citation:
     # INSTALL python environment
     conda create -n tagger3.6 anaconda python=3.6
     source activate tagger3.6
-    pip install -r requirements.txt
     
     # Install the tokenizer
     cd polyglot-tokenizer
     python setup.py install
     
+    # Install requirements
     pip install -r requirements.txt
 ```
 
