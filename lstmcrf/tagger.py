@@ -75,64 +75,25 @@ class Tagger(object):
 
         return res
 
+    def _build_response1(self, sent, tags, prob):
+        words = self.tokenizer(sent)
+        res = "" 
+        chunks = get_entities(tags)
+        for index, obj in enumerate(words):
+            res = res + obj  +"\t"+tags[index] +"\n"
+
+        return res
     def analyze(self, text):
-        """Analyze text and return pretty format.
 
-        Args:
-            text: string, the input text.
-
-        Returns:
-            res: dict.
-
-        Examples:
-            >>> text = 'President Obama is speaking at the White House.'
-            >>> model.analyze(text)
-            {
-                "words": [
-                    "President",
-                    "Obama",
-                    "is",
-                    "speaking",
-                    "at",
-                    "the",
-                    "White",
-                    "House."
-                ],
-                "entities": [
-                    {
-                        "beginOffset": 1,
-                        "endOffset": 2,
-                        "score": 1,
-                        "text": "Obama",
-                        "type": "PER"
-                    },
-                    {
-                        "beginOffset": 6,
-                        "endOffset": 8,
-                        "score": 1,
-                        "text": "White House.",
-                        "type": "ORG"
-                    }
-                ]
-            }
-        """
         pred = self.predict_proba(text)
         tags = self._get_tags(pred)
         prob = self._get_prob(pred)
-        res = self._build_response(text, tags, prob)
+        res = self._build_response1(text, tags, prob)
+        #res = self._build_response(text, tags, prob)
 
         return res
 
     def predict(self, text):
-        """Predict using the model.
-
-        Args:
-            text: string, the input text.
-
-        Returns:
-            tags: list, shape = (num_words,)
-            Returns predicted values.
-        """
         pred = self.predict_proba(text)
         tags = self._get_tags(pred)
 
