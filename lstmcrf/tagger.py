@@ -81,6 +81,8 @@ class Tagger(object):
         chunks = get_entities(tags)
         for index, obj in enumerate(words):
             res = res + obj  +"\t"+tags[index] +"\n"
+            if "." in obj:
+                  res = res+"\n"
 
         return res
     def analyze(self, text):
@@ -89,8 +91,6 @@ class Tagger(object):
         tags = self._get_tags(pred)
         prob = self._get_prob(pred)
         res = self._build_response1(text, tags, prob)
-        #res = self._build_response(text, tags, prob)
-
         return res
 
     def predict(self, text):

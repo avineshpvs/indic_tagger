@@ -32,6 +32,7 @@ import numpy as np
 from time import time
 from sklearn.model_selection import train_test_split
 from tagger.src.algorithm.CRF import CRF
+from polyglot_tokenizer import Tokenizer
 
 logger = logging.getLogger(__name__)
 
@@ -179,7 +180,13 @@ def pipeline():
                 model = Sequence().load(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
                 f = open(args.test_data, "r")
                 sent = f.read()
-                print(model.analyze(sent))
+                tok = Tokenizer(lang=args.language, split_sen=True)
+                tokenized_sents = tok.tokenize(sent)
+                for tokens in tokenized_sents:
+                    for token in tokens:
+                          sent = sent + " " + token
+                    sent = sent.strip()
+                    print(model.analyze(sent))
 
 if __name__ == '__main__':
     pipeline()
