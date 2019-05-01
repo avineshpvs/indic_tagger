@@ -32,6 +32,16 @@ If you reuse this software, please use the following citation:
 |   kn       |   294.3k  |  16.5k  |     90%     |    98%     |  88%             |         87%        |
 
 
+### Training Data Statistics and System Performances (F1 macro) for NER
+
+| Languages  |  # Words  | # Sents |  CRF NER    | BI-LSTM-CRF NER  | 
+| ---------- | ----------|---------|-------------|------------|
+|   te       |   347k    |   30k   |     69%     |   65%      |
+|   hi       |   503k    |   19k |    62%      |    63%     |
+|   bn       |   120k    |   6k  |    54%      |     48%    |
+|   ur       |   35k    |    1.5k |   65%       |    56%     |
+|   or       |    93k   |   1.8k |    68%      |     43%    |
+
 ### Install using Anaconda
 
 ```
@@ -53,7 +63,7 @@ If you reuse this software, please use the following citation:
 
     -l, --languages       select language (2 letter ISO-639 code) 
                           {hi, be, ml, pu, te, ta, ka, mr, ur}
-    -t, --tag_type      	pos, chunk, parse
+    -t, --tag_type      	pos, chunk, parse, ner
     -m, --model_type    	crf, hmm, lstm
     -f, --data_format   	ssf, txt, conll
     -e, --encoding      	utf8, wx   (default: utf8)
@@ -87,6 +97,29 @@ Predict on text:
     python spacy_tagger_test.py -l te -t pos
 ```
   
+  
+
+Train the NER tagger:
+   
+```
+    # CRF model
+    python pipeline.py -p train -o outputs -l te -t ner -m crf -e utf -f conll
+    
+    # BI-LSTM-CRF model
+    python pipeline.py -p train -t ner -f conll -m lstm -e utf -l te
+```
+
+Predict NER on text:
+   
+```
+    # CRF model
+    python pipeline.py -p predict -l hi -t ner -m crf -f txt -e utf -i data/test/hi/test.utf.txt
+    
+    # BI-LSTM-CRF model
+
+
+    python pipeline.py -p predict -l hi -t ner -m lstm -f txt -e utf -i data/test/hi/test.utf.txt
+```
 
 ### ToDo List
 
