@@ -116,8 +116,6 @@ Predict NER on text:
     python pipeline.py -p predict -l hi -t ner -m crf -f txt -e utf -i data/test/hi/test.utf.txt
     
     # BI-LSTM-CRF model
-
-
     python pipeline.py -p predict -l hi -t ner -m lstm -f txt -e utf -i data/test/hi/test.utf.txt
 ```
 
