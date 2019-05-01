@@ -73,14 +73,17 @@ def pipeline():
             os.makedirs(output_dir)
 
     data_writer.set_logger(args.model_type, output_dir)
-
-    if args.tag_type != "parse":
+    
+    if True: 
         model_path = "%s/models/%s/%s.%s.%s.model" % (curr_dir, args.language, args.model_type, args.tag_type, args.encoding)
         if args.model_type == "lstm":
             if args.tag_type == "pos":
                 model_path = "%s/models/%s/lstm/" % (curr_dir, args.language)
             elif args.tag_type == "chunk":
                 model_path = "%s/models/%s/lstm/chunk/" % (curr_dir, args.language)
+            elif args.tag_type == "ner":
+                model_path = "%s/models/%s/lstm/ner/" % (curr_dir, args.language)
+    if args.tag_type != "parse":
             if not os.path.exists(model_path):
                 os.makedirs(model_path)
 
@@ -89,6 +92,8 @@ def pipeline():
         logger.info('Start Training#')
         logger.info('Tagger model type: %s' % (args.model_type))
         data_path = "%s/data/train/%s/train.%s.%s" % (curr_dir, args.language, args.encoding, args.data_format)
+        if args.tag_type == "ner":
+            data_path = data_path+".ner"
 
         data_sents = data_reader.load_data(args.data_format, data_path, args.language)
 
@@ -104,7 +109,8 @@ def pipeline():
         print('Train data size:', len(X_train), len(y_train))
         print('Test data size:', len(X_test), len(y_test))
         print('Lang:', args.language)
-
+        print('Train data: ', data_path)
+        print('Model Path: ', model_path)
         if args.model_type == "crf":
             tagger = CRF(model_path)
             tagger.train(X_train, y_train)
@@ -123,6 +129,12 @@ def pipeline():
                model = Sequence() #Intialize BiLSTM model
                model.fit(x_train, y_train2, epochs=10) #Train the model for 10 echos
                print(model.score(x_test, y_test2)) #Run the model on test data
+               model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
+            if args.tag_type == "ner":
+               x_train, x_test, y_train1, y_test1 = train_test_split(x_data, y_data1, test_size=0.10, random_state=42) #Split the data into train and test
+               model = Sequence() #Intialize BiLSTM model
+               model.fit(x_train, y_train1, epochs=10) #Train the model for 10 echos
+               print(model.score(x_test, y_test1)) #Run the model on test data
                model.save(model_path+"/weights.h5", model_path+"/params.json", model_path+"/preprocessor.json")
 
     if args.pipeline_type == "test":
@@ -171,7 +183,6 @@ def pipeline():
                 tagger = CRF(model_path)
                 tagger.load_model()
                 y_pred = tagger.predict(X_test)
-
                 data_writer.write_anno_to_file(args.output_path, test_sents, y_pred, args.tag_type)
                 data_writer.write_to_screen(args.output_path)
                 logger.info("Output in: %s" % args.output_path)

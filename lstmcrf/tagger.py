@@ -83,6 +83,8 @@ class Tagger(object):
             res = res + obj  +"\t"+tags[index] +"\n"
             if "." in obj:
                   res = res+"\n"
+            if "।" in obj:
+                  res = res+"\n"
 
         return res
     def analyze(self, text):

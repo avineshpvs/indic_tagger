@@ -9,15 +9,29 @@ def write_to_file(text, filename):
 def write_anno_to_file(filename, X_data, y_data, tag_type):
 	with codecs.open(filename, 'w', encoding='utf8', errors='ignore') as fp:
 		text = ""
+		#print(y_data)
+		#print(y_data.shape)
 		for i, X_sent in enumerate(X_data):
-			fp.write("<s>\n")
+			#fp.write("<s>\n")
+			fp.write("\n")
 			for j, X_token in enumerate(X_sent):
 				if tag_type == "pos":
 					X_token[1] = y_data[i][j]
 				if tag_type == "chunk":
 					X_token[2] = y_data[i][j]
+				if tag_type == "ner":
+					X_token[1] = y_data[i][j]
 				fp.write("%s\n" % "\t".join(X_token))
-			fp.write("</s>\n")
+				if "।" in "\t".join(X_token):
+			             fp.write("\n")
+                                     #fp.write("</s>\n")
+                                     #fp.write("<s>\n")
+				if "." in "\t".join(X_token):
+			             fp.write("\n")
+                                     #fp.write("</s>\n")
+                                     #fp.write("<s>\n")
+			#fp.write("</s>\n")
+			fp.write("\n")
 
 def write_to_screen(filename):
     with codecs.open(filename, "r", encoding='utf8', errors='ignore') as fp:
