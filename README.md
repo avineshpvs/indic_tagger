@@ -9,7 +9,8 @@ If you reuse this software, please use the following citation:
 ```
 @inproceedings{PVS:SPSAL2007,
   editor    = {P.V.S., Avinesh and Gali, Karthik},
-  title     = {Proceedings of the  Shallow Parsing for South Asian Languages (SPSAL) Workshop, held at IJCAI-07, Hyderabad, India},
+  title     = {Part of Speech Tagging and Chunking using Conditional Random Fields and Transformation Based Learning}
+  booktitle = {Proceedings of the  Shallow Parsing for South Asian Languages (SPSAL) Workshop, held at IJCAI-07, Hyderabad, India},
   series    = {{SPSAL} Workshop Proceedings},
   month     = {January},
   year      = {2007},
