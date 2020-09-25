@@ -1,5 +1,5 @@
 python_crfsuite>=0.9.5
-tensorflow==1.8.0
+tensorflow==1.15.4
 tensorboard==1.8.0
 scikit_learn>=0.19.1
 keras-preprocessing>=1.0.5
