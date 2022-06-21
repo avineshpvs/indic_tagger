@@ -22,7 +22,7 @@ html5lib==0.9999999
 idna==2.6
 m2r==0.1.12
 Markdown==2.6.9
-numpy==1.15.0
+numpy==1.22.0
 protobuf==3.5.1
 python-dateutil==2.6.1
 pytz==2017.3
