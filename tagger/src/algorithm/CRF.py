@@ -20,10 +20,26 @@ class CRF():
 			self.trainer.append(xseq, yseq)
 		self.trainer.train(self.model_path)
 	
-	def load_model(self):
-		self.tagger = pycrfsuite.Tagger()
-		self.tagger.open(self.model_path)
+import os
 
+class CRF:
+    # ... other methods ...
+
+import os
+
+class CRF:
+    # ... other methods ...
+
+    def load_model(self):
+        self.model_dir = os.path.join(self.root, 'models', self.lang)
+        # Assuming the model file is named 'model.bin' inside the directory
+        self.model_path = os.path.join(self.model_dir, 'crf', self.tag_type, self.format + '.model', 'model.bin')
+        try:
+            self.tagger.open(self.model_path)
+        except Exception as e:
+            logging.error("Error loading CRF model: %s", e)
+            raise
+		
 	def test(self, X_test, y_test):
 		y_pred = self.predict(X_test)
 		print(evaluate.bio_classification_report(y_test, y_pred))

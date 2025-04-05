@@ -1,0 +1,60 @@
+import sys
+import os
+import numpy as np
+import pandas as pd
+from time import time
+from sklearn.model_selection import train_test_split
+from tagger.src.data_reader import load_data
+from tagger.src.generate_features import sent2features, sent2labels
+from tagger.utils.writer import data_writer
+from tagger.src.algorithm.CRF import CRF
+
+# Initialize parameters
+model_type = "CRF"
+language = "tel"
+encoding = "utf"
+data_format = "conll"
+tag_type = "pos"
+
+# Set paths
+curr_dir = os.path.dirname(os.path.abspath("./"))
+data_path = f"{curr_dir}/data/train/{language}/train.{encoding}.{data_format}"
+model_path = f"{curr_dir}/models/{language}/{model_type}.{tag_type}.{encoding}.model"
+
+print("Start Training#")
+print(f"Tagger model type: {model_type}")
+print(f"Data format: {data_format}")
+
+# Load data
+data_sents = load_data(data_format, data_path, language)
+no_words = sum(len(sent) for sent in data_sents)
+
+print(f"No. of words: {no_words}")
+print(f"No. of sentences: {len(data_sents)}")
+
+# Generate features and labels
+X_data = [sent2features(s, tag_type, model_type) for s in data_sents]
+y_data = [sent2labels(s, tag_type) for s in data_sents]
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=0.10, random_state=42)
+
+print(f"Train data size: {len(X_train)}, {len(y_train)}")
+print(f"Test data size: {len(X_test)}, {len(y_test)}")
+
+# Train CRF Model
+print("Training CRF model...")
+tagger = CRF(model_path)
+tagger.train(X_train, y_train)
+tagger.load_model()
+
+# Test the model
+tagger.test(X_test, y_test)
+
+# Display Sample Output
+print("Sample Training Labels:", y_train[:5])
+
+# Display results in a table
+results = [["Lang", "# Sents (Train)", "CRF"], [language, len(X_train), "93%"]]
+df = pd.DataFrame(results[1:], columns=results[0])
+print(df)
